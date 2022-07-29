@@ -1,0 +1,13 @@
+# Supported transactions
+
+By default, the EVM Wallet Tracker provides alerts for four primary transaction types: _swap, transfer, LP,_ and _NFT transfer_. This covers the most common tx types that occur on-chain. If you wish to disable alerts for certain transaction types, you can do so via the web app or Telegram. See **Initial setup** for details of how to do so.
+
+In addition to covering standard on-chain transactions, the EVM Wallet Tracker supports a wide range of smart contract types. Whenever an account you are monitoring interacts with a compatible smart contract, you will receive an alert.
+
+Smart contracts that can be monitored by the tracker include:
+
+* Liquidity pools for pairs on any DEX
+* Gnosis Safes: treasury wallets for web3 projects
+* NFTFi borrowing and lending
+* Derivatives e.g. GMX positions
+* Smart contract approvals/revocations
