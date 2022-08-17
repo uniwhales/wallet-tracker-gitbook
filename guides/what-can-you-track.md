@@ -1,6 +1,6 @@
 # What can you track?
 
-The EVM Wallet Tracker allows you to follow the on-chain activity of multiple users, addresses, and wallets across 11 EVM networks.
+The EVM Wallet Tracker allows you to follow the on-chain activity of multiple users, addresses, and wallets across 12 EVM networks.
 
 You can use the EVM Wallet Tracker to watch:
 
@@ -10,4 +10,4 @@ You can use the EVM Wallet Tracker to watch:
 * NFT traders such as those featured in the _NFT Ideas_ EVM Tracker [channel](https://t.me/NFTideasEVMTracker)
 * ENS of people you follow on Twitter e.g. [Fallon.eth](https://twitter.com/jimmyfallon)
 
-It’s up to you to select, segment, and sort the wallets and transaction types you wish to follow to optimize the signal-to-noise ratio. This will allow you to zero in on the transaction types and users that are of interest to you and to filter out everything else.
+It’s up to you to select, segment, and sort the wallets and transaction types you wish to follow so as to optimize the signal-to-noise ratio. This will allow you to zero in on the transaction types and users that are of interest to you and to screen the rest.

@@ -8,12 +8,12 @@
 * [Why use the EVM Wallet Tracker?](guides/why-use-the-evm-wallet-tracker.md)
 * [What can you track?](guides/what-can-you-track.md)
 * [Supported transactions](guides/supported-transactions.md)
+* [Supported blockchains](guides/supported-blockchains.md)
 * [Unsupported transactions](guides/unsupported-transactions.md)
 
 ## Getting Started
 
 * [Initial setup](getting-started/initial-setup.md)
-* [Supported blockchains](getting-started/supported-blockchains.md)
 * [Disabling blockchains](getting-started/disabling-blockchains.md)
 * [Labeling](getting-started/labeling.md)
 

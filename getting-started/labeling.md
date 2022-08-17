@@ -12,4 +12,4 @@ Clicking on _Tweet_ will open a Twitter window that populates with the transacti
 
 ![](../.gitbook/assets/Tweet.png)
 
-Edit the message if you like and then hit Tweet to publish to Twitter. This feature is useful when providing commentary on whale movements, major hacks, and other on-chain drama that you wish to analyze and share with your followers.
+Edit the message if you like and then hit Tweet to publish to Twitter. This feature is useful when providing commentary on whale movements, major hacks, and other onchain drama that you wish to analyze and share with your followers.
