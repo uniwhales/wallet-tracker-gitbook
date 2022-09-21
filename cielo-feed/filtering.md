@@ -28,7 +28,7 @@ Click on the different icons to filter the tx that the Cielo Feed displays.
 
 The final top menu option is **Filter Tx types and Chains**. Clicking on this produces a dropdown menu containing options to filter tx as follows:
 
-* A single EVM network (e.g. _Avalanche, Ethereum_)
+* Specific EVM network (e.g. _Avalanche, Ethereum_)
 * A single tx type (_swap, LP, lending, NFT lending, perp, option, NFT trade, NFT mint, NFT transfer, NFT liquidation, SudoPool Creation, Other_)
 
 <figure><img src="../.gitbook/assets/unnamed (7).png" alt=""><figcaption></figcaption></figure>
