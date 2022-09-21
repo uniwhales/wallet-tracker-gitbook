@@ -28,12 +28,16 @@ Click on the different icons to filter the tx that the Cielo Feed displays.
 
 The final top menu option is **Filter Tx types and Chains**. Clicking on this produces a dropdown menu containing options to filter tx as follows:
 
-* Specific EVM network (e.g. _Avalanche, Ethereum_)
-* A single tx type (_swap, LP, lending, NFT lending, perp, option, NFT trade, NFT mint, NFT transfer, NFT liquidation, SudoPool Creation, Other_)
+* Specific EVM networks (e.g. _Avalanche, Ethereum_)
+* Single tx types (_swap, LP, lending, NFT lending, perp, option, NFT trade, NFT mint, NFT transfer, NFT liquidation, SudoPool Creation, Other_)
 
 <figure><img src="../.gitbook/assets/unnamed (7).png" alt=""><figcaption></figcaption></figure>
 
 In the image above, Polygon has been selected. Click on **Clear** to revert the Feed to displaying all transactions.
+
+{% hint style="info" %}
+**Note**: You can mix and match filters to show multiple search parameters e.g. _Avalanche **+** Ethereum **+** NFT lending **+** perps_.
+{% endhint %}
 
 ## Summary
 
