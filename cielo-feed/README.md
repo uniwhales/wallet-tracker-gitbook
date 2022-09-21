@@ -6,7 +6,7 @@ Upon successfully connecting to [app.cielo.finance](https://app.cielo.finance/) 
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-09-20 at 11.45.11.png" alt=""><figcaption><p>Cielo Feed, light.</p></figcaption></figure>
 
-If you are a Cielo Pro member, a maximum of one bot can appear in your Feed. If you are a Whale member, up to three bots can appear.
+Cielo Pro members can access one Telegram bot, while Whale members can access up to three Telegram bots. The number of bots you have active will _not_ affect your Cielo experience: this only determines how you receive Telegram notifications for the wallets you're following.
 
 Before we explain how the Feed works, let’s begin with the buttons on the periphery of the screen.
 
