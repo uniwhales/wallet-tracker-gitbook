@@ -2,7 +2,7 @@
 
 After authenticating to [app.cielo.finance](https://app.cielo.finance/) for the first time, Pro members will see a notification like this:
 
-<figure><img src="../.gitbook/assets/whale feed (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pro (1).png" alt=""><figcaption></figcaption></figure>
 
 If you are a Whale member you will see something like this:
 
