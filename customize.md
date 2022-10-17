@@ -70,6 +70,28 @@ The final option that appears alongside each wallet is a blue button. Click on t
 **Note**: After switching off the blue button, the wallet will remain in Cielo and its tx will be visible in your Cielo Feed. It will only disappear from the Telegram bot channel. Click the button again to re-enable Telegram alerts.
 {% endhint %}
 
+## Add Contacts
+
+With Cielo, you can import the ENS addresses for the Twitter accounts you’re following. This is a useful way of creating a custom List for accounts of interest without the need to import them manually.
+
+<figure><img src=".gitbook/assets/Screenshot 2022-10-17 at 12.14.50.png" alt=""><figcaption><p>Add Contacts can be found in the top right of the Customize page.</p></figcaption></figure>
+
+In [Customize](https://app.cielo.finance/customize), click the **Add Contacts** button at the top of the page. You will then be connected to the Twitter API which will prompt you to import your contacts. Cielo will only import accounts you’re following that meet this criteria. It does this by scanning their username and bio to detect a .ens handle.
+
+Note that it can take over a minute for your Twitter contacts to be analyzed and imported.
+
+## Bulk Add
+
+Bulk Add is a convenient way of importing multiple addresses in one go. Using this feature, you can import up to 50 wallet addresses from a CSV file.
+
+<figure><img src=".gitbook/assets/Screenshot 2022-10-17 at 12.15.48.png" alt=""><figcaption><p>Bulk Add can be found in the top right of the Customize page.</p></figcaption></figure>
+
+Under Customize, click the **Bulk Add** button at the top of the page. You will then be prompted to import the file. As the pop-up explains, addresses should be placed in column one of the file and an optional label for each one should go in column two.
+
+<figure><img src=".gitbook/assets/Screenshot 2022-10-17 at 12.16.31.png" alt=""><figcaption></figcaption></figure>
+
+After uploading the CSV, wait a few seconds and your imported addresses will appear in your Cielo dashboard. They can then be added to a new or existing custom list if desired.
+
 ## Bulk Actions
 
 Near the top of the Customize page is an option titled **Bulk Actions**. Clicking on this produces a range of editing options you can apply to some or all wallets you’ve added. Click **Bulk Actions** again and a tick icon will appear alongside all of your wallets. Now click on any wallet(s) you _don’t_ wish to edit. Finally, click on the action you wish to perform (e.g. _Unfollow_) and it will be applied to all wallets that have been ticked.
