@@ -12,3 +12,4 @@
   * [Editing](lists/editing.md)
   * [Deleting](lists/deleting.md)
   * [Creating](lists/creating.md)
+  * [Sharing](lists/sharing.md)
