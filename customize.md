@@ -77,3 +77,15 @@ Near the top of the Customize page is an option titled **Bulk Actions**. Clickin
 The **Bulk Actions** option is particularly useful when managing a large number of wallets.
 
 <figure><img src=".gitbook/assets/unnamed (13).png" alt=""><figcaption></figcaption></figure>
+
+To disable Telegram alerts for all wallets or a particular List, under Customize select **Bulk Actions** and then click to tick the yellow circle that appears:
+
+<figure><img src=".gitbook/assets/Screenshot 2022-10-17 at 11.59.09.png" alt=""><figcaption></figcaption></figure>
+
+Click the blue toggle switch to the right and the following pop-up will appear:
+
+<figure><img src=".gitbook/assets/Screenshot 2022-10-17 at 12.01.25.png" alt=""><figcaption></figcaption></figure>
+
+Select **Continue** and Telegram alerts will be disabled for all wallets you have selected.
+
+Click the toggle switch at the top right of the page to reverse this process and re-enable Telegram alerts.
