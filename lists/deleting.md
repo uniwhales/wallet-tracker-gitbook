@@ -12,7 +12,7 @@ You will then see the following prompt:
 
 If you delete one of Cielo’s premade Lists, you can re-import it at any time by selecting the List in the right hand sidebar and selecting **Follow**. If you delete a List you have created yourself, however, there is no option to reinstate it.
 
-After deleting a List, you will notice that all of its wallet addresses remain visible on Customize under the **All** tab. You will also note these addresses remain in your Feed and in the corresponding EVM Wallet Tracker bot channel. That’s because you have only deleted the List itself.
+👉 After deleting a List, you will notice that all of its wallet addresses remain visible on Customize under the **All** tab. You will also note these addresses remain in your Feed and in the corresponding EVM Wallet Tracker bot channel. That’s because you have only deleted the List itself.
 
 Removing the addresses from your Cielo altogether involves a second step.
 
@@ -26,4 +26,4 @@ When you have finished making your selection, click **Unfollow**.
 
 <figure><img src="../.gitbook/assets/unnamed (21).png" alt=""><figcaption></figcaption></figure>
 
-Click **Continue** to confirm. The addresses you have selected will now be removed from your Cielo Feed and Telegram bot.
+Click **Continue** to confirm. The addresses you have selected will now be removed from your Cielo Feed and Telegram bot 👏

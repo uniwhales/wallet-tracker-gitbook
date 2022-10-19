@@ -10,7 +10,7 @@ description: >-
 **Good to know:** you can add the tracker to any Telegram group you’re a member of (provided you have admin rights).
 {% endhint %}
 
-Did you know that you can add the EVM Wallet Tracker to an existing Telegram group? There are many reasons why this might be desirable including:
+💡 Did you know that you can add the EVM Wallet Tracker to an existing Telegram group? There are many reasons why this might be desirable including:
 
 * **NFTs:** If you’re flipping JPEGs with friends, add the bot to your group for notifications on major sales, floors, and influencer mints
 * **DeFi Communities:** Keep track of investor unlocks, foundation funds, treasury transactions and high value swaps for projects you’re involved with
@@ -46,4 +46,4 @@ You might create one tracker for monitoring personal transactions; another for N
 2. To add a second tracker bot, click on the **Bot#2** button at the top of the page and then follow the instructions in the Telegram channel that opens (_"EVM 2 Premium Wallet Tracker"_)
 3. To add a third tracker, do the same with the **Bot#3** button which will open a Telegram channel titled _"EVM 3 Premium Wallet Tracker"_
 
-You can edit your settings for bots 2 and 3 in the usual manner via the web app or directly within the corresponding Telegram channel. Bots 2 and 3 can be added to any Telegram channel you control in the same manner as bot 1.
+You can edit your settings for bots 2 and 3 in the usual manner via the web app or directly within the corresponding Telegram channel. Bots 2 and 3 can be added to any Telegram channel you control in the same manner as bot 1 👏

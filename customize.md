@@ -32,7 +32,7 @@ This is one of Vitalik Buterin’s known public wallets. It’s already labeled 
 
 <figure><img src=".gitbook/assets/unnamed (9).png" alt=""><figcaption></figcaption></figure>
 
-And that’s it. You’re now following your first wallet in Cielo.
+💁‍♀️ And that’s it. You’re now following your first wallet in Cielo.
 
 You’ll see the wallet appear on the Customize page like so:
 

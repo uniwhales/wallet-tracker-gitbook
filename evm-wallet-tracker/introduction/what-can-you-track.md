@@ -2,7 +2,7 @@
 
 The EVM Wallet Tracker allows you to follow the on-chain activity of multiple users, addresses, and wallets across 12 EVM networks.
 
-You can use the EVM Wallet Tracker to watch:
+👉 You can use the EVM Wallet Tracker to watch:
 
 * Your own wallets
 * Top DeFi traders

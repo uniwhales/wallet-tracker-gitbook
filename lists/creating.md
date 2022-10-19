@@ -8,7 +8,7 @@ To get started, go to the [Customize](https://app.cielo.finance/customize) page 
 
 <figure><img src="../.gitbook/assets/unnamed (23).png" alt=""><figcaption></figcaption></figure>
 
-In this example we’re creating a new List titled NFT Minters.
+In this example we’re creating a new List titled _NFT Minters_.
 
 Select Create List and your new List will appear as a tab at the top of the Customize page.
 
@@ -76,7 +76,7 @@ Now that you’ve created your first List, go to Feed and from the dropdown menu
 
 Transactions that meet the criteria you’ve applied to them will now appear in your Cielo Feed, while everything else will be excluded.
 
-At any time, you can return to your master Feed by selecting **All**.
+💡 At any time, you can return to your master Feed by selecting **All**.
 
 Because your Cielo Feed gives you additional filtering controls, you can further refine a List using the options at the top of the page. Just click on **Filter Tx types and Chains**.
 
@@ -84,6 +84,6 @@ Because your Cielo Feed gives you additional filtering controls, you can further
 
 In this example, we’re filtering the _NFT Minters_ list to display only tx on BNB Chain. As you can see, gdzxvdg hasn’t been active on BNB Chain in six months. Just click the **x** beside your chosen filter to remove it and return to default settings.
 
-And that’s it. You should now know to create, manage, and filter your own Lists of onchain data. You should also know how to switch between Lists, edit and delete their contents, and apply advanced filters to your Cielo Feed. We’ve also detailed how to control which transactions appear in your Feed, in your custom Lists, and in your Telegram bots.
+💁‍♀️ And that’s it. You should now know to create, manage, and filter your own Lists of onchain data. You should also know how to switch between Lists, edit and delete their contents, and apply advanced filters to your Cielo Feed. We’ve also detailed how to control which transactions appear in your Feed, in your custom Lists, and in your Telegram bots.
 
 Using these controls, Cielo lets you create useful dashboards for monitoring the vast majority of onchain events across the most popular EVM chains. If it happens onchain, with Cielo you can tag, track, and comprehend it in near real-time.

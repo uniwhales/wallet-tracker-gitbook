@@ -34,4 +34,4 @@ Repeat these steps for every additional address you wish to add.
 5. Click **Confirm**
 6. Enter the address of the first wallet you wish to track and hit return
 
-Repeat these steps for every additional address you wish to add.
+Repeat these steps for every additional address you wish to add 👏
