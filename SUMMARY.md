@@ -13,3 +13,21 @@
   * [Deleting](lists/deleting.md)
   * [Creating](lists/creating.md)
   * [Sharing](lists/sharing.md)
+
+## EVM Wallet Tracker
+
+* [Introduction](evm-wallet-tracker/introduction/README.md)
+  * [What is the EVM Wallet Tracker?](evm-wallet-tracker/introduction/what-is-the-evm-wallet-tracker.md)
+  * [Why use the EVM Wallet Tracker?](evm-wallet-tracker/introduction/why-use-the-evm-wallet-tracker.md)
+  * [What can you track?](evm-wallet-tracker/introduction/what-can-you-track.md)
+  * [Supported transactions](evm-wallet-tracker/introduction/supported-transactions.md)
+  * [Unsupported transactions](evm-wallet-tracker/introduction/unsupported-transactions.md)
+  * [Supported blockchains](evm-wallet-tracker/introduction/supported-blockchains.md)
+* [Getting started](evm-wallet-tracker/getting-started/README.md)
+  * [Disabling blockchains](evm-wallet-tracker/getting-started/disabling-blockchains.md)
+  * [Labeling](evm-wallet-tracker/getting-started/labeling.md)
+* [Customizing](evm-wallet-tracker/customizing/README.md)
+  * [Disabling wallet alerts](evm-wallet-tracker/customizing/disabling-wallet-alerts.md)
+* [Advanced settings](evm-wallet-tracker/advanced-settings.md)
+* [Feedback](evm-wallet-tracker/feedback/README.md)
+  * [Privacy policy](evm-wallet-tracker/feedback/privacy-policy.md)
