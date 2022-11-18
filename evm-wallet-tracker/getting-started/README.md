@@ -25,6 +25,12 @@ Depending on the plan you are using, choose from one of the options below to get
 
 Repeat these steps for every additional address you wish to add.
 
+{% hint style="info" %}
+**Note**: In addition to tracking wallets, Pro/Whale members can use the EVM Wallet Tracker to monitor swaps of a specific token. In the EVM Wallet Tracker channel, enter the contract address for the token and set a minimum threshold (e.g. _10,000_ will only show swaps above this USD threshold).
+
+You will now receive a Telegram alert anytime someone makes an onchain trade involving that token.
+{% endhint %}
+
 #### Telegram (Basic tier) ✅
 
 1. Click on the [EVM Wallet Tracker](https://t.me/evmtrackerbot) and press the **Start** button

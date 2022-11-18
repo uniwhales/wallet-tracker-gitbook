@@ -14,4 +14,3 @@ Smart contracts that can be monitored by the tracker include:
 * New pools created on Sudoswap
 * Derivatives e.g. GMX positions
 * Smart contract approvals/revocations
-* ERC20 token swaps
