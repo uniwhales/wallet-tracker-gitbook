@@ -16,19 +16,15 @@ Your Feed assigns labeling and data to each transaction to aid your understandin
 
 Hover over the NFT thumbnail and you will see the following:
 
-<figure><img src="../.gitbook/assets/nft.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2022-11-18 at 13.32.58.png" alt=""><figcaption></figcaption></figure>
 
-Click on the corresponding link to view the NFT on your desired market.
+Click on one of the thumbnails to view the NFT on your desired market or select **Explore** to view the entire NFT collection in Cielo.
 
 To view the tx in a blockchain explorer, move your cursor to the end of the row and click on the small icon that appears:
 
 <figure><img src="../.gitbook/assets/unnamed.png" alt=""><figcaption></figcaption></figure>
 
 Clicking on the three horizontal dots produces a pop-up with the option to tweet about the transaction. The tweet will auto-populate with the tx details and you can add your own commentary before posting.
-
-Depending on the tx type, clicking the three dots may produce additional options. For an NFT purchase, for example, you have the option of viewing the NFT on OpenSea or viewing the entire collection:
-
-<figure><img src="../.gitbook/assets/unnamed (1).png" alt=""><figcaption></figcaption></figure>
 
 Where a wallet has generated multiple tx in quick succession that are very similar, Cielo will conceal the remainder behind a dropdown tab:
 

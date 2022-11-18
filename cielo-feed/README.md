@@ -14,9 +14,11 @@ The icon on the top right denotes that your wallet is connected. Clicking on it 
 
 On the far left of the screen, the collapsed Cielo menu contains four icons. Click anywhere in the left menu or on the dual arrow icon to expand it. You will then see the following options:
 
-<figure><img src="../.gitbook/assets/left menu bar.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2022-11-18 at 13.30.54.png" alt=""><figcaption></figcaption></figure>
 
 **Feed**: Main Cielo dashboard to view your tx stream and apply filters.
+
+**NFTs**: Monitor activity for specific NFT collections.
 
 **Customize**: Control center for adjusting your bot settings and editing Lists.
 
