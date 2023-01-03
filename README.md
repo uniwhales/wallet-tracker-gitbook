@@ -6,7 +6,7 @@ Because Cielo content is user-curated, it’s dependent upon you to input useful
 
 If you need further help, holders of at least 5,000 UWL tokens can enter Cielo's **UniWhales DAO**. This community Telegram channel provides additional resources to Cielo users including exclusive guides to creating Cielo dashboards for specific networks, ecosystems, and trading types.
 
-The followinhg documentation explains how Cielo works and how to harness its capabilities to get the most out of your onchain exploration 🧠
+The following documentation explains how Cielo works and how to harness its capabilities to get the most out of your onchain exploration 🧠
 
 Along the way you’ll learn how to:
 

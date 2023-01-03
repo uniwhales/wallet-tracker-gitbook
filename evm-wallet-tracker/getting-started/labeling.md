@@ -12,4 +12,4 @@ This transaction shows that a known entity (Celsius) has withdrawn the SNX token
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F3tlAbP2AsTAEHWTxchRe%2Fuploads%2FNFeMojI5BQ5jcxIiq87Y%2FTweet.png?alt=media&#x26;token=9309078e-08cc-4510-a755-09b00d67aa5f" alt=""><figcaption></figcaption></figure>
 
-Edit the message if you like and then hit Tweet to publish to Twitter. This feature is useful when providing commentary on whale movements, major hacks, and other onchain drama that you wish to analyze and share with your followers 💁‍♀️
+Edit the message if you like and then hit **Tweet** to publish to Twitter. This feature is useful when providing commentary on whale movements, major hacks, and other onchain drama that you wish to analyze and share with your followers 💁‍♀️

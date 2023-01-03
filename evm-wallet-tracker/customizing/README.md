@@ -8,7 +8,7 @@ description: How to edit your selections.
 **In short:** you might need to edit your wallet settings, such as to add or remove an address, change its assigned name, or adjust the networks and tx types it covers.
 {% endhint %}
 
-Just as when setting up the EVM Wallet Tracker, there are two ways of editing your selections: using the web app (Pro/Whale tier) or using Telegram (Basic).
+Just as when setting up the EVM Wallet Tracker, there are two ways of editing your selections: using the web app (Pro/Whale tier) or using Telegram (free tier).
 
 #### Web app 🔑
 

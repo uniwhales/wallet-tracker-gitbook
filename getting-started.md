@@ -4,16 +4,16 @@ To use Cielo, you require the following:
 
 * Web wallet such as MetaMask
 * At least 5,000 UWL tokens in the wallet
-* At least one active EVM Wallet Tracker bot
+* At least one active [EVM Wallet Tracker](broken-reference) bot
 
-If you’ve already used the EVM Tracker Bot by UniWhales, you’re halfway to mastering Cielo. If not, you can find the EVM Tracker Bot documentation [here](broken-reference) 👈
+If you’ve already used the EVM Tracker Bot, you’re halfway to mastering Cielo. If not, you can find the EVM Tracker Bot documentation [here](broken-reference) 👈
 
 The relationship between the Cielo dashboard and the EVM Wallet Tracker bot is as follows: Cielo is designed to enhance and segment everything that the Telegram bot does.
 
 #### _If the EVM Wallet Tracker gives you onchain powers, Cielo gives you superpowers 💪_
 
 {% hint style="info" %}
-**Note**: You need at least one active bot in order to use Cielo.
+**Note**: You need at least one active Telegram bot in order to use Cielo.
 {% endhint %}
 
 ## Setup

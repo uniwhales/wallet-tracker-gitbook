@@ -36,7 +36,7 @@ __
 **Good to know:** if you would like to add different trackers to different Telegram groups, you will need to upgrade to Pro membership. This allows you to create and manage up to three tracker bots.
 {% endhint %}
 
-✅ The Basic version of the EVM Wallet Tracker allows you to create one profile, but you are able to add this tracker to as many Telegram groups as you like.
+✅ The free version of the EVM Wallet Tracker allows you to create one profile, but you are able to add this tracker to as many Telegram groups as you like.
 
 🔑 Pro/Whale tier allows up to three different EVM Wallet Tracker bots to be created, each with its own Telegram channel. Each of these bots can then be added to one or more Telegram groups if desired.
 

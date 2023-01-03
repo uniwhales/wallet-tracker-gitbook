@@ -6,6 +6,7 @@
   * [Connecting](cielo-feed/connecting.md)
   * [Navigation](cielo-feed/navigation.md)
   * [Filtering](cielo-feed/filtering.md)
+* [Stats](stats.md)
 * [NFTs](nfts.md)
 * [Customize](customize.md)
 * [Lists](lists/README.md)

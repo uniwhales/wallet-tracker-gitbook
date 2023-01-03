@@ -12,7 +12,7 @@ In this example, the user is following three wallets. When clicking **Select Lis
 
 In the image above, the user has created a filtered list that contains their personal wallets. Selecting this option from the dropdown menu will populate their Feed solely with tx pertaining to these wallets. Switching back to **All** returns the Feed to its default state.
 
-We’ll explain how to create your own custom List in the next section. But first, there are some preset filters you can apply to make sense of your Feed.
+We’ll explain how to create your own custom List in the [following section.](../lists/) But first, there are some preset filters you can apply to make sense of your Feed.
 
 <figure><img src="../.gitbook/assets/unnamed (6).png" alt=""><figcaption></figcaption></figure>
 

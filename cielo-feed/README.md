@@ -12,11 +12,13 @@ Upon successfully connecting to [app.cielo.finance](https://app.cielo.finance/) 
 
 The icon on the top right denotes that your wallet is connected. Clicking on it will reveal your subscription status (Pro or Whale) and wallet address. If you wish to change wallets or disconnect from Cielo altogether, click **Disconnect**.
 
-On the far left of the screen, the collapsed Cielo menu contains four icons. Click anywhere in the left menu or on the dual arrow icon to expand it. You will then see the following options:
+<figure><img src="../.gitbook/assets/Screenshot 2023-01-03 at 18.01.27.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-11-18 at 13.30.54.png" alt=""><figcaption></figcaption></figure>
+On the far left of the screen, the collapsed Cielo menu contains six icons. Click anywhere in the left menu or on the dual arrow icon to expand it. You'll then see the following options:
 
 **Feed**: Main Cielo dashboard to view your tx stream and apply filters.
+
+**Stats**: Statistics concerning the network, transaction, and token type for transactions featuring wallet addresses you're following.
 
 **NFTs**: Monitor activity for specific NFT collections.
 
@@ -26,7 +28,7 @@ On the far left of the screen, the collapsed Cielo menu contains four icons. Cli
 
 **Bridge Trackers**: Follow capital in- and outflows through five EVM networks.
 
-This guide will focus on the first two options since they control your Cielo experience: **Feed** and **Customize**.
+This guide will focus on the first four options since they control your Cielo experience: **Feed, Stats, NFTs,** and **Customize**.
 
 In the footer of the left hand menu, there are options to toggle between light and dark mode, buy UWL, and follow Cielo’s social channels.
 
