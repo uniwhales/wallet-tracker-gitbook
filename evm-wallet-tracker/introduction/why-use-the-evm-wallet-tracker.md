@@ -18,10 +18,9 @@ Monitoring your own wallet addresses allows you to be notified of such events as
 
 Monitoring third party wallets allows you to be notified of such events as:
 
-* DEX trades for a particular token e.g. LINK, SNX
 * Token unlocks for projects you’re invested in
 * NFT purchases by crypto influencers
 * High-volume sales by known crypto companies/whales
 * New activity by wallets connected to major hacks
 
-These are just a few of the possibilities for the EVM Wallet Tracker. With 13 networks to choose from and dozens of tx types, the number of options is virtually unlimited. By focusing on the most important transactions, you can filter out everything else and avoid information overload 🧠
+These are just a few of the possibilities for the EVM Wallet Tracker. With 12 networks to choose from and dozens of tx types, the number of options is virtually unlimited. By focusing on the most important transactions, you can filter out everything else and avoid information overload 🧠
