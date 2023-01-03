@@ -4,7 +4,9 @@ Cielo is a custom dashboard for reading onchain data. It allows you to make sens
 
 Because Cielo content is user-curated, it’s dependent upon you to input useful addresses and correctly set their parameters. Otherwise, you risk being overwhelmed with junk data or conversely missing out on significant events because you’re following the wrong onchain interactions. With a tool as powerful as Cielo, the “garbage in, garbage out” maxim really applies. Thankfully, the Cielo dashboard makes it easy to dial down the noise and amplify the signal.
 
-This guide will explain how Cielo works and how to harness its capabilities to get the most out of your onchain exploration 🧠
+If you need further help, holders of at least 5,000 UWL tokens can enter Cielo's **UniWhales DAO**. This community Telegram channel provides additional resources to Cielo users including exclusive guides to creating Cielo dashboards for specific networks, ecosystems, and trading types.
+
+The followinhg documentation explains how Cielo works and how to harness its capabilities to get the most out of your onchain exploration 🧠
 
 Along the way you’ll learn how to:
 
