@@ -1,7 +1,7 @@
 ---
 description: >-
   The EVM Wallet Tracker provides real-time alerts for on-chain transactions. It
-  can monitor activity across 12 Ethereum Virtual Machine-compatible blockchains
+  can monitor activity across 13 Ethereum Virtual Machine-compatible blockchains
   and counting.
 ---
 
