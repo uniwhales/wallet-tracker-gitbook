@@ -8,9 +8,12 @@ In addition to covering standard onchain transactions, the EVM Wallet Tracker su
 
 Smart contracts that can be monitored by the tracker include:
 
+* DEX trades
 * Liquidity pools for pairs on any DEX
 * Gnosis Safes: treasury wallets for web3 projects
 * NFTFi borrowing and lending
 * New pools created on Sudoswap
 * Derivatives e.g. GMX positions
+* Sports betting
 * Smart contract approvals/revocations
+* ERC20 token swaps
