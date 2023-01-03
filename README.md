@@ -1,16 +1,18 @@
-# Introduction
+---
+description: >-
+  The EVM Wallet Tracker provides real-time alerts for on-chain transactions. It
+  can monitor activity across 12 Ethereum Virtual Machine-compatible blockchains
+  and counting.
+---
 
-Cielo is a custom dashboard for reading onchain data. It allows you to make sense of the many different transactions a wallet address can generate and to focus on the ones that are of interest. Cielo provides an unrivaled insight into onchain activity. In just a few clicks, you can focus on the activities of a single trader or zoom out and see the bigger picture to discern DeFi trends 💡
+# EVM Wallet Tracker
 
-Because Cielo content is user-curated, it’s dependent upon you to input useful addresses and correctly set their parameters. Otherwise, you risk being overwhelmed with junk data or conversely missing out on significant events because you’re following the wrong onchain interactions. With a tool as powerful as Cielo, the “garbage in, garbage out” maxim really applies. Thankfully, the Cielo dashboard makes it easy to dial down the noise and amplify the signal.
+{% hint style="info" %}
+**How it works:** The EVM Wallet Tracker can be set up via the dedicated web app or directly within Telegram. Once initialized, it will enable you to receive a Telegram alert any time a transaction (tx) occurs that matches your criteria.
+{% endhint %}
 
-This guide will explain how Cielo works and how to harness its capabilities to get the most out of your onchain exploration 🧠
+This documentation covers everything you need to know about using and optimizing the EVM Wallet Tracker. As new features are added and existing ones refined, this guide will be regularly updated.
 
-Along the way you’ll learn how to:
+Use the section titles on the left to jump to topics you’re interested in or read on to learn the lowdown on the EVM Wallet Tracker.
 
-* Interpret your Feed
-* Create a custom List
-* Import, modify, and share premade Lists
-* Filter out low-value notifications
-
-…and much more 👏
+_Note: Sections marked with a 🔑 describe features that are only available to Pro/Whale tier members. Sections marked with a ✅ describe features that are available as part of the Basic plan for free._
