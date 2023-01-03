@@ -2,6 +2,10 @@
 
 Cielo is a custom dashboard for reading onchain data. It allows you to make sense of the many different transactions a wallet address can generate and to focus on the ones that are of interest. Cielo provides an unrivaled insight into onchain activity. In just a few clicks, you can focus on the activities of a single trader or zoom out and see the bigger picture to discern DeFi trends 💡
 
+{% hint style="info" %}
+Cielo currently supports the following EVM blockchains: Ethereum, Polygon, Fantom, Arbitrum, Avalanche, Dogechain, Boba, Metis, Aurora, Optimism, BNB, Gnosis, and Evmos.
+{% endhint %}
+
 Because Cielo content is user-curated, it’s dependent upon you to input useful addresses and correctly set their parameters. Otherwise, you risk being overwhelmed with junk data or conversely missing out on significant events because you’re following the wrong onchain interactions. With a tool as powerful as Cielo, the “garbage in, garbage out” maxim really applies. Thankfully, the Cielo dashboard makes it easy to dial down the noise and amplify the signal.
 
 If you need further help, holders of at least 5,000 UWL tokens can enter Cielo's **UniWhales DAO**. This community Telegram channel provides additional resources to Cielo users including exclusive guides to creating Cielo dashboards for specific networks, ecosystems, and trading types.
