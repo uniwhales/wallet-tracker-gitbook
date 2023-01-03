@@ -4,13 +4,13 @@
 **Good to know:** getting started with the EVM Wallet Tracker is quick, easy and it doesn't cost a thing.
 {% endhint %}
 
-There are two ways of setting up the EVM Wallet Tracker: using the **web app** or via **Telegram**. Your choice will depend on the plan you're using.
+There are two ways of setting up the EVM Wallet Tracker: by using the **web app** or via **Telegram**. Your choice will depend on the plan you're using.
 
 The **basic** plan allows you to track up to 10 wallet addresses (across as many chains as the bot supports). It can only be enabled and edited via Telegram.
 
-There are two paid tiers: **Pro** and **Whale**. These require you to hold 5,000 and 16,000 UWL tokens respectively in your wallet. If you're on the paid plan, setup must be enabled via the web app, although subsequent edits can be made in either the web app or Telegram.
+There are two tiers of paid plan: **Pro** and **Whale**. These require you to hold 5,000 and 16,000 UWL tokens respectively in your wallet. If you're on the paid plan, setup must be enabled via the web app, although subsequent edits can be made in either the web app or Telegram.
 
-Depending on the plan you're using, choose from one of the options below to get started.
+Depending on the plan you are using, choose from one of the options below to get started.
 
 #### **Web app (Pro/Whale tier) 🔑**
 
@@ -28,7 +28,7 @@ Repeat these steps for every additional address you wish to add.
 {% hint style="info" %}
 **Note**: In addition to tracking wallets, Pro/Whale members can use the EVM Wallet Tracker to monitor swaps of a specific token. In the EVM Wallet Tracker channel, enter the contract address for the token and set a minimum threshold (e.g. _10,000_ will only show swaps above this USD threshold).
 
-You will now receive a Telegram alert anytime someone makes a DEX trade involving that token.
+You will now receive a Telegram alert anytime someone makes an onchain trade involving that token.
 {% endhint %}
 
 #### Telegram (Basic tier) ✅
