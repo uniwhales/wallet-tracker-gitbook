@@ -8,7 +8,9 @@ There are two ways of setting up the EVM Wallet Tracker: using the **web app** o
 
 The **basic** plan allows you to track up to 10 wallet addresses (across as many chains as the bot supports). It can only be enabled and edited via Telegram.
 
-There are two paid tiers: **Pro** and **Whale**. These require you to hold 5,000 and 16,000 UWL tokens respectively in your wallet. If you're on the paid plan, setup must be enabled via the web app, although subsequent edits can be made in either the web app or Telegram.
+There are two paid tiers: **Pro** and **Whale**. These require you to hold 5,000 and 16,000 UWL tokens respectively in your wallet. Whales can use up to _five_ different Telegram bots, while free and Pro users have _one_.
+
+If you're on the paid plan, setup must be enabled via the web app, although subsequent edits can be made in either the web app or Telegram.
 
 Depending on the plan you're using, choose from one of the options below to get started.
 
