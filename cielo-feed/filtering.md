@@ -1,6 +1,6 @@
 # Filtering
 
-Pro members can track up to 600 wallets and smart contracts using the EVM Wallet Tracker bot and Whales up to 1,000 wallets. By default, every tx associated with these wallets appears in your Cielo Feed. If you’re tracking dozens or even hundreds of wallets, your Feed – like your Telegram bot – can quickly become crowded.
+**Pro** members can track up to 600 wallets and smart contracts using the EVM Wallet Tracker bot and **Whales** up to 1,000 wallets. By default, every tx associated with these wallets appears in your Cielo Feed. If you’re tracking dozens or even hundreds of wallets, your Feed – like your Telegram bot – can quickly become crowded.
 
 Thankfully, Cielo provides a range of ways to filter and segment the signals you receive. Not only does this prevent information overload, but it makes it easier to discern trends for verticals that you’re interested in such as _NFTs_ or _DeFi_.
 
@@ -8,11 +8,11 @@ The top menu for your Feed looks like this:
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-01-04 at 18.24.03.png" alt=""><figcaption></figcaption></figure>
 
-When clicking the **All** tab, you can filter your Feed to show tx for a particular List. If you’re a new Cielo user, only option is available: **All**. This populates your Cielo feed with all of the wallets that you’re currently following with the EVM Wallet Tracker bot.
+When clicking the **All** tab, you can filter your Feed to show tx for a particular List. If you’re a new Cielo user, only option is available: **All**. This populates your Cielo feed with all of the wallets that you’re currently following with the Cielo Wallet Tracker bot.
 
 In the image above, the user has imported a number of dynamic Lists such as _NewWhaleWallets_. Selecting this option from the dropdown menu will populate their Feed with tx solely pertaining to this List. Switching back to **All** returns the Feed to its default state.
 
-We’ll explain how to create your own custom List in the [following section.](../lists/) But first, there are some preset filters you can apply to make sense of your Feed.
+We’ll explain how to create your own custom List in the [following section.](../lists/) But first, here are some preset filters you can apply to make sense of your Feed.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-01-04 at 18.22.31.png" alt=""><figcaption></figcaption></figure>
 

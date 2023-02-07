@@ -2,7 +2,7 @@
 
 
 
-[Customize](https://app.cielo.finance/customize) is the nerve center of Cielo. It’s where you control not only what appears in your Feed, but also in your EVM Wallet Tracker bot Telegram channels. In Customize you can:
+[Customize](https://app.cielo.finance/customize) is the nerve center of Cielo. It’s where you control not only what appears in your Feed, but also in your Cielo Wallet Tracker bot Telegram channels. In Customize you can:
 
 * Create custom lists
 * Import premade Cielo lists
@@ -44,7 +44,7 @@ Go to your Cielo Feed and you’ll see it’s now populated with recent tx invol
 
 Now let’s return to Customize and add a second wallet. This time we’ll go with an ENS address. _99th.eth_ is an active NFT collector with a few BAYC to their name. There’s no need to add their wallet address: the ENS will suffice.
 
-This time, let’s click **Advanced Settings** and include some additional filters. In the pop-up that appears you can set a minimum transaction value (in USD), deselect any chains you don’t wish to receive alerts for, and do the same for transaction types you wish to screen under **Alert Filter**.
+This time, we'll click **Advanced Settings** and include some additional filters. In the pop-up that appears you can set a minimum transaction value (in USD), deselect any chains you don’t wish to receive alerts for, and do the same for transaction types you wish to screen under **Alert Filter**.
 
 {% hint style="info" %}
 **Note:** Advanced Settings only filters tx that appear in your Telegram bot. It does not exert any effect on Cielo. For example, if you select _Avalanche_ only under Advanced Settings, your Telegram bot will only show tx from that occur on Avalanche network – but Cielo will display tx across all 12 EVM chains.

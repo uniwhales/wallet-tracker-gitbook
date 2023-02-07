@@ -36,7 +36,7 @@ Now, when you click on the NFT Minters tab you can see that _99th_ has been adde
 
 <figure><img src="../.gitbook/assets/unnamed (28).png" alt=""><figcaption></figcaption></figure>
 
-Let’s apply some filters to this address that will dictate which transaction types appear for _99th_ within the EVM Wallet Tracker bot channel.
+Let’s apply some filters to this address that will dictate which transaction types appear for _99th_ within the Cielo Wallet Tracker channel.
 
 {% hint style="info" %}
 **Note**: The following section describes filters that apply to your bot Telegram channel only. These filters will not be applied to your Cielo Feed or to the custom List being described.
@@ -54,13 +54,13 @@ First click on **Alert Filters** and tick the tx types you wish to follow (in th
 
 Then click on **Chain Selection** and deselect any networks you don’t wish to follow. By default, all networks are enabled.
 
-When you’re done, select **Save Changes**. Your EVM Wallet Tracker bot will now only receive notifications of 99th tx if they are NFT mints that occur on Ethereum.
+When you’re done, select **Save Changes**. Your Cielo Wallet Tracker bot will now only receive notifications of 99th tx if they are NFT mints that occur on Ethereum.
 
 ## Expanding a list
 
 Now let’s add a second address to the _NFT Traders_ List. This time, we’ll choose an address that isn’t already in your Cielo Feed.
 
-_0x6c8C7539Bf6A61c249c520C837Ed0e19F91344dC_ is the address of _gdzxvdg_, a well-known NFT flipper whose trades appear in the NFT Ideas EVM [Telegram channel](https://t.me/NFTideasEVMTracker).
+_0x6c8C7539Bf6A61c249c520C837Ed0e19F91344dC_ is the address of _gdzxvdg_, a well-known NFT flipper whose trades appear in the NFT Ideas [Telegram channel](https://t.me/NFTideasEVMTracker).
 
 On the right hand side of the NFT Traders page, paste in this wallet address and tag it with the label _gdzxvdg_. Under **Advanced Settings** we’ll set the alert filters to track **NFT Mint** only.
 
@@ -68,7 +68,7 @@ Select **Add Alert** and within a few seconds you’ll see the newly added walle
 
 <figure><img src="../.gitbook/assets/unnamed (31).png" alt=""><figcaption></figcaption></figure>
 
-If you _don’t_ want to see the transactions from this List in your EVM Wallet Tracker channel, just click the blue switch to the right of each address. This will remove the address from your Telegram channel while retaining it in your Cielo.
+If you _don’t_ want to see the transactions from this List in your Cielo Wallet Tracker channel, just click the blue switch to the right of each address. This will remove the address from your Telegram channel while retaining it in your Cielo dashboard.
 
 Now that you’ve created your first List, go to Feed and from the dropdown menu at the top of the page, select the List you wish to view – in this case _NFT Minters_.
 

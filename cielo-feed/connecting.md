@@ -8,7 +8,7 @@ If you are a Whale member you will see something like this:
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-01-05 at 14.41.42 (1).png" alt=""><figcaption></figcaption></figure>
 
-In each of the screenshots above, the user has one EVM Wallet Tracker bot enabled. This is the minimum requirement to start using Cielo. If you have zero bots enabled, no data will appear in your Cielo feed.
+In each of the screenshots above, the user has one Cielo Wallet Tracker bot enabled. This is the minimum requirement to start using Cielo. If you have zero bots enabled, no data will appear in your Cielo feed.
 
 If you don't see the Telegram Bots pop-up upon connecting to Cielo, you'll find it at the top of the [customize](https://app.cielo.finance/customize) page. Click the _Bots_ button:
 

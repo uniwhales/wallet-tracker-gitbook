@@ -26,7 +26,7 @@ To view the tx in a blockchain explorer, move your cursor to the end of the row 
 
 Clicking on the three horizontal dots produces a pop-up with the option to tweet about the transaction. The tweet will auto-populate with the tx details and you can add your own commentary before posting.
 
-Where a wallet has generated multiple tx in quick succession that are very similar, Cielo will conceal the remainder behind a dropdown tab:
+Where a wallet has generated multiple tx in quick succession that are very similar, Cielo conceals the remainder behind a dropdown tab:
 
 <figure><img src="../.gitbook/assets/unnamed (2).png" alt=""><figcaption></figcaption></figure>
 
