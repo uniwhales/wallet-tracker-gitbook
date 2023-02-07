@@ -1,6 +1,6 @@
 # Cielo Feed
 
-Upon successfully connecting to [app.cielo.finance](https://app.cielo.finance/) you will be taken to your Feed. This is your mission control. It contains a stream of the latest transactions from wallets you’re already following with the EVM Wallet Tracker bot.
+Upon successfully connecting to [app.cielo.finance](https://app.cielo.finance/) you will be taken to your Feed. This is your mission control. It contains a stream of the latest transactions from wallets you’re already following with the Cielo Wallet Tracker bot.
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-09-20 at 11.44.00 (1).png" alt=""><figcaption><p>Cielo Feed, dark.</p></figcaption></figure>
 
