@@ -1,6 +1,6 @@
 # Labeling
 
-To aid comprehension, the EVM Wallet Tracker automatically labels tx involving known tokens, DEXs, lending platforms, NFT collections, bridges, and other DeFi protocols. This makes it easier to understand which asset is being used by whom, where, and why. For instance:
+To aid comprehension, the Cielo Wallet Tracker automatically labels tx involving known tokens, DEXs, lending platforms, NFT collections, bridges, and other DeFi protocols. This makes it easier to understand which asset is being used by whom, where, and why. For instance:
 
 <figure><img src="../../.gitbook/assets/Celsius.png" alt=""><figcaption></figcaption></figure>
 

@@ -13,8 +13,8 @@
 
 ✅ Telegram:
 
-1. Click on the [EVM Wallet Tracker](https://t.me/EVMTrackerBot) and press the **List** button
+1. Click on the [Cielo Wallet Tracker](https://t.me/EVMTrackerBot) and press the **List** button
 2. Click the blue **edit** hyperlink for the wallet you wish to update
 3. Click on the button marked **Disable**
 
-Remember, you can always mute channel permanently or for a fixed period of time via the settings in the Telegram app. This can be used to disable all wallet notifications while retaining the option to view messages within the EVM Wallet Tracker channel.
+Remember, you can always mute channel permanently or for a fixed period of time via the settings in the Telegram app. This can be used to disable all wallet notifications while retaining the option to view messages within the Cielo Wallet Tracker channel.

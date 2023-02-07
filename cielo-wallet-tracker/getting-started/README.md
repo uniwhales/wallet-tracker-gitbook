@@ -1,10 +1,10 @@
 # Getting started
 
 {% hint style="info" %}
-**Good to know:** getting started with the EVM Wallet Tracker is quick, easy and it doesn't cost a thing.
+**Good to know:** getting started with the Cielo Wallet Tracker is quick, easy and it doesn't cost a thing.
 {% endhint %}
 
-There are two ways of setting up the EVM Wallet Tracker: using the **web app** or via **Telegram**. Your choice will depend on the plan you're using.
+There are two ways of setting up the Cielo Wallet Tracker: using the **web app** or via **Telegram**. Your choice will depend on the plan you're using.
 
 The **basic** plan allows you to track up to 10 wallet addresses (across as many chains as the bot supports). It can only be enabled and edited via Telegram.
 
@@ -28,14 +28,14 @@ Depending on the plan you're using, choose from one of the options below to get 
 Repeat these steps for every additional address you wish to add.
 
 {% hint style="info" %}
-**Note**: In addition to tracking wallets, Pro/Whale members can use the EVM Wallet Tracker to monitor swaps of a specific token. In the EVM Wallet Tracker channel, enter the contract address for the token and set a minimum threshold (e.g. _10,000_ will only show swaps above this USD threshold).
+**Note**: In addition to tracking wallets, Pro/Whale members can use the Cielo Wallet Tracker to monitor swaps of a specific token. In the Cielo Wallet Tracker channel, enter the contract address for the token and set a minimum threshold (e.g. _10,000_ will only show swaps above this USD threshold).
 
 You will now receive a Telegram alert anytime someone makes a DEX trade involving that token.
 {% endhint %}
 
 #### Telegram (Basic tier) ✅
 
-1. Click on the [EVM Wallet Tracker](https://t.me/evmtrackerbot) and press the **Start** button
+1. Click on the [Cielo Wallet Tracker](https://t.me/evmtrackerbot) and press the **Start** button
 2. Press the **+Add** button to input your first wallet address
 3. To deselect any of the blockchains monitored by the bot, click on the network name e.g. _Boba_
 4. Click to deselect any transaction types you don’t wish to track e.g. _NFTs_

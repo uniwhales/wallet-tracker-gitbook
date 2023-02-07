@@ -8,7 +8,7 @@ description: How to edit your selections.
 **In short:** you might need to edit your wallet settings, such as to add or remove an address, change its assigned name, or adjust the networks and tx types it covers.
 {% endhint %}
 
-Just as when setting up the EVM Wallet Tracker, there are two ways of editing your selections: using the web app (Pro/Whale tier) or using Telegram (free tier).
+Just as when setting up the Cielo Wallet Tracker, there are two ways of editing your selections: using the web app (Pro/Whale tier) or using Telegram (free tier).
 
 #### Web app 🔑
 
@@ -19,6 +19,6 @@ Just as when setting up the EVM Wallet Tracker, there are two ways of editing yo
 
 #### Telegram ✅
 
-1. Click on the [EVM Wallet Tracker](https://t.me/EVMTrackerBot) and press the **List** button
+1. Click on the [Cielo Wallet Tracker](https://t.me/EVMTrackerBot) and press the **List** button
 2. Click the blue **edit** hyperlink for the wallet you wish to update
 3. Click on the button that corresponds to the settings you wish to adjust: _Change label/Edit filters/Edit min amount USD/Edit chains/Remove/Disable_ (Note: "_Edit min amount USD"_ is only available to Pro/Whale users.)

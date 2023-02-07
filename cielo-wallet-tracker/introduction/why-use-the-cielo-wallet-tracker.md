@@ -1,10 +1,10 @@
-# Why use the EVM Wallet Tracker?
+# Why use the Cielo Wallet Tracker?
 
 {% hint style="info" %}
-**Summary:** the EVM Wallet Tracker lets you monitor anyone's blockchain activity in real-time. Enter the wallet address you wish to track and get started in seconds.
+**Summary:** the Cielo Wallet Tracker lets you monitor anyone's blockchain activity in real-time. Enter the wallet address you wish to track and get started in seconds.
 {% endhint %}
 
-People use a blockchain bot such as the EVM Wallet Tracker for two reasons:
+People use a blockchain bot such as the Cielo Wallet Tracker for two reasons:
 
 * To monitor their own transactions
 * To monitor other people’s transactions
@@ -24,4 +24,4 @@ Monitoring third party wallets allows you to be notified of such events as:
 * High-volume sales by known crypto companies/whales
 * New activity by wallets connected to major hacks
 
-These are just a few of the possibilities for the EVM Wallet Tracker. With 13 networks to choose from and dozens of tx types, the number of options is virtually unlimited. By focusing on the most important transactions, you can filter out everything else and avoid information overload 🧠
+These are just a few of the possibilities for the Cielo Wallet Tracker. With 14 networks to choose from and dozens of tx types, the options are virtually unlimited. By focusing on the most important transactions, you can filter out everything else and avoid information overload 🧠
