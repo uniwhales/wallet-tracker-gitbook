@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Overview](README.md)
 * [Getting started](getting-started.md)
 * [Cielo Feed](cielo-feed/README.md)
   * [Connecting](cielo-feed/connecting.md)
