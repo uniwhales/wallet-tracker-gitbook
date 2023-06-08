@@ -10,7 +10,7 @@ With millions of transactions recorded onchain every day, making sense of all th
 
 From tracking hedge funds to monitoring your own wallets, Cielo demystifies the art of onchain sleuthing. In just a few clicks, you can zero in on the activities of a single trader or zoom out and see the bigger picture to discern DeFi trends 🔎
 
-
+<figure><img src=".gitbook/assets/Screenshot 2023-06-08 at 15.58.41.png" alt=""><figcaption><p>Cielo web app</p></figcaption></figure>
 
 Cielo provides an insight into who’s trading, how, where, and why.\
 
