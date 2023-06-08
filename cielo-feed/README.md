@@ -27,17 +27,18 @@ Here is an example of a transaction as it appears in your Cielo feed:
 
 The ENS or wallet name assigned within Cielo appears in the top left. Clicking on the wallet name or avatar to the left of it opens a page showing all recent activity for that wallet e.g. [https://app.cielo.finance/feed/0x…72](https://app.cielo.finance/feed/0x)
 
-\
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 16.48.06.png" alt=""><figcaption><p>Example of a transaction header</p></figcaption></figure>
+
 To the right of the wallet name, an abbreviation of the wallet address is displayed e.g. _0x73...303f_. Click on this to copy the full address to your clipboard. To the right of this, the list this wallet is assigned to is shown (if applicable). Clicking on the list name opens a new window showing all recent tx for wallets within that list. Finally, to the right of the tx header, the date and time of the transaction is displayed.\
 
 
 ### Transaction body
 
-The box on the left applies a label to the tx type e.g. _Send, Borrowed, Contract Interaction_. Below this, the protocol where the tx took place is labeled where available. The logo of the EVM chain where the tx occurred is also shown.\
+The box on the left applies a label to the tx type e.g. _Send, Borrowed, Contract Interaction_. Below this, the protocol where the tx took place is labeled where available. The logo of the EVM chain where the tx occurred is also shown.
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 16.49.05.png" alt=""><figcaption><p>Example of a transaction body</p></figcaption></figure>
 
-The larger box to the right displays the most important information about the tx: the amount being transacted, the token(s) involved, and the sender or recipient where relevant. If the tx involves an NFT, its thumbnail is displayed. Hovering your cursor over this produces a popup linking to marketplaces where this NFT can be viewed. There’s also a link to the Cielo page for that particular NFT collection.\
-
+The larger box to the right displays the most important information about the tx: the amount being transacted, the token(s) involved, and the sender or recipient where relevant. If the tx involves an NFT, its thumbnail is displayed. Hovering your cursor over this produces a popup linking to marketplaces where this NFT can be viewed. There’s also a link to the Cielo page for that particular NFT collection.
 
 If you see a star ⭐ displayed beside a tx, it means it’s the first time the wallet has purchased this particular token.
 
