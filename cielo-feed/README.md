@@ -1,35 +1,59 @@
-# Cielo Feed
+# Cielo feed
 
-Upon successfully connecting to [app.cielo.finance](https://app.cielo.finance/) you will be taken to your Feed. This is your mission control. It contains a stream of the latest transactions from wallets you’re already following with the Cielo Wallet Tracker bot.
+Think of your Cielo feed as an onchain news feed. It contains a stream of the latest transactions (tx) from wallets and lists you’re following. If you’re a serious onchain sleuth, it’s here you’ll be spending most of your time: watching transactions as they arrive in almost real-time, applying filters from the dropdown menus, and clicking through to transactions and users of interest to learn more.
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-09-20 at 11.44.00 (1).png" alt=""><figcaption><p>Cielo Feed, dark.</p></figcaption></figure>
+Your feed assigns labeling to each transaction to aid your understanding. For instance, it will tell you the DEX or market where the tx occurred, the value in USD and the native currency (e.g. ETH), and the elapsed time since the tx took place. If an NFT was purchased, a thumbnail is also shown.
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-09-20 at 11.45.11.png" alt=""><figcaption><p>Cielo Feed, light.</p></figcaption></figure>
+If you skipped the onboarding tutorial, your feed will be empty at first. There’s a couple of ways to easily remedy this:\
 
-**💡Cielo Pro** members can access one Telegram bot, while **Whale** members can access up to _five_ Telegram bots. The number of bots you have active will _not_ affect your Cielo experience: this only determines how you receive Telegram notifications for the wallets you're following.
 
-👉 Before we explain how the Feed works, let’s begin with the buttons on the periphery of the screen.
+1\. Visit [Explore](https://app.cielo.finance/explore) and follow one or more lists that are of interest.
 
-The icon on the top right denotes that your wallet is connected. Clicking on it will reveal your subscription status (Pro or Whale) and wallet address. If you wish to change wallets or disconnect from Cielo altogether, click **Disconnect**.
+2\. Go to [Configure](https://app.cielo.finance/configure) and add wallets or lists of your own.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-01-03 at 18.01.27.png" alt=""><figcaption></figcaption></figure>
+Once that’s done, you should see recent transactions start to appear in your feed.
 
-On the far left of the screen, the collapsed Cielo menu contains six icons. Click anywhere in the left menu or on the dual arrow icon to expand it. You'll then see the following options:
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 16.39.58.png" alt=""><figcaption></figcaption></figure>
 
-**Feed**: Main Cielo dashboard to view your tx stream and apply filters.
+### How to read your feed
 
-**Stats**: Statistics concerning the network, transaction, and token type for transactions featuring wallet addresses you're following.
+Your feed displays transactions chronologically and groups them by date and time for ease of comprehension. A cluster of tx from a single wallet within the space of a few minutes, for instance, will be grouped together.
 
-**NFTs**: Monitor activity for specific NFT collections.
+Here is an example of a transaction as it appears in your Cielo feed:
 
-**Customize**: Control center for adjusting your bot settings and editing Lists.
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 14.30.29.png" alt=""><figcaption></figcaption></figure>
 
-**Research**: Read exclusive Cielo content and onchain analysis.
+### Transaction header
 
-**Bridge Trackers**: Follow capital in- and outflows through five EVM networks.
+The ENS or wallet name assigned within Cielo appears in the top left. Clicking on the wallet name or avatar to the left of it opens a page showing all recent activity for that wallet e.g. [https://app.cielo.finance/feed/0x…72](https://app.cielo.finance/feed/0x)
 
-This guide will focus on the first four options since they control your Cielo experience: **Feed, Stats, NFTs,** and **Customize**.
+\
+To the right of the wallet name, an abbreviation of the wallet address is displayed e.g. _0x73...303f_. Click on this to copy the full address to your clipboard. To the right of this, the list this wallet is assigned to is shown (if applicable). Clicking on the list name opens a new window showing all recent tx for wallets within that list. Finally, to the right of the tx header, the date and time of the transaction is displayed.\
 
-In the footer of the left hand menu, there are options to toggle between light and dark mode, buy UWL, and follow Cielo’s social channels.
 
-<figure><img src="../.gitbook/assets/social.png" alt=""><figcaption></figcaption></figure>
+### Transaction body
+
+The box on the left applies a label to the tx type e.g. _Send, Borrowed, Contract Interaction_. Below this, the protocol where the tx took place is labeled where available. The logo of the EVM chain where the tx occurred is also shown.\
+
+
+The larger box to the right displays the most important information about the tx: the amount being transacted, the token(s) involved, and the sender or recipient where relevant. If the tx involves an NFT, its thumbnail is displayed. Hovering your cursor over this produces a popup linking to marketplaces where this NFT can be viewed. There’s also a link to the Cielo page for that particular NFT collection.\
+
+
+If you see a star ⭐ displayed beside a tx, it means it’s the first time the wallet has purchased this particular token.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 16.35.25.png" alt=""><figcaption></figcaption></figure>
+
+Finally, to the right of the transaction body, the elapsed time since the tx occurred is shown e.g. 2 hours. Clicking on this opens a block explorer link to this specific transaction.
+
+### Refreshing your feed
+
+\
+When there are new transactions to view in your feed, a notification like this appears at the top of the page:
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 16.38.54.png" alt=""><figcaption></figcaption></figure>
+
+Clicking on it will update your feed to show the latest tx. If you prefer, you can set your feed to auto-update so that new tx are published automatically. To do so, just click the Auto button in the bottom right. The icon will turn yellow to denote that auto-updates are on. Click it again to deactivate.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 16.37.47.png" alt=""><figcaption></figcaption></figure>
+
+\

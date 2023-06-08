@@ -2,7 +2,7 @@
 
 * [Overview](README.md)
 * [Getting started](getting-started.md)
-* [Cielo Feed](cielo-feed/README.md)
+* [Cielo feed](cielo-feed/README.md)
   * [Connecting](cielo-feed/connecting.md)
   * [Navigation](cielo-feed/navigation.md)
   * [Filtering](cielo-feed/filtering.md)
