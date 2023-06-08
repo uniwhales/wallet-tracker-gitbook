@@ -3,8 +3,6 @@
 * [Overview](README.md)
 * [Getting started](getting-started.md)
 * [Cielo feed](cielo-feed/README.md)
-  * [Connecting](cielo-feed/connecting.md)
-  * [Navigation](cielo-feed/navigation.md)
   * [Filtering](cielo-feed/filtering.md)
 * [Stats](stats.md)
 * [NFTs](nfts.md)

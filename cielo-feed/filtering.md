@@ -1,8 +1,6 @@
 # Filtering
 
-**Pro** members can track up to 600 wallets and smart contracts using the EVM Wallet Tracker bot and **Whales** up to 1,000 wallets. By default, every tx associated with these wallets appears in your Cielo Feed. If you’re tracking dozens or even hundreds of wallets, your Feed – like your Telegram bot – can quickly become crowded.
-
-Thankfully, Cielo provides a range of ways to filter and segment the signals you receive. Not only does this prevent information overload, but it makes it easier to discern trends for verticals that you’re interested in such as _NFTs_ or _DeFi_.
+Cielo provides a range of ways to filter and segment the signals you receive. Not only does this prevent information overload, but it makes it easier to discern trends for verticals that you’re interested in such as _NFTs_ or _DeFi_.
 
 The top menu for your Feed looks like this:
 
@@ -55,8 +53,6 @@ Any time you wish to clear your filters, just click the small **x** alongside th
 <figure><img src="../.gitbook/assets/arb.jpg" alt=""><figcaption><p>Filtering for trades that occur on Arbitrum and Optimism only.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/RPL.jpg" alt=""><figcaption><p>Filtering for swaps and LPs involving the RPL token.</p></figcaption></figure>
-
-
 
 ## Summary
 
