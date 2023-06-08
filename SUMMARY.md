@@ -4,8 +4,6 @@
 * [Getting started](getting-started.md)
 * [Cielo feed](cielo-feed/README.md)
   * [Filtering](cielo-feed/filtering.md)
-* [Stats](stats.md)
-* [NFTs](nfts.md)
 * [Configure](customize.md)
 * [Lists](lists/README.md)
   * [Importing](lists/importing.md)
@@ -13,6 +11,8 @@
   * [Deleting](lists/deleting.md)
   * [Creating](lists/creating.md)
   * [Sharing](lists/sharing.md)
+* [NFTs](nfts.md)
+* [Stats](stats.md)
 
 ## Cielo Wallet Tracker
 
