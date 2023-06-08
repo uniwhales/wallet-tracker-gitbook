@@ -16,11 +16,15 @@ The primary pages that form the Cielo web app are as follows:\
 
 [**Stats**](https://app.cielo.finance/stats): View analytics for the wallets, tokens, and networks you’re tracking. This feature is only available to Pro + Whale tier users.
 
-To fully access Cielo and populate the dashboard with wallets of your choice you need to connect your web wallet. To do so, click the Connect button at the bottom of the page. This will initiate the onboarding tutorial.
+<figure><img src=".gitbook/assets/Screenshot 2023-06-08 at 16.24.15.png" alt=""><figcaption><p>Cielo web app in preview mode</p></figcaption></figure>
 
+To fully access Cielo and populate the dashboard with wallets of your choice you need to connect your web wallet. To do so, click the **Connect** button at the bottom of the page. This will initiate the onboarding tutorial.
 
+<figure><img src=".gitbook/assets/Screenshot 2023-06-08 at 16.25.41.png" alt=""><figcaption></figcaption></figure>
 
 Click **Get Started** and you will be prompted to connect using MetaMask or Wallet Connect. Your web wallet will then ask you to sign a message confirming you wish to log in to Cielo.
+
+<figure><img src=".gitbook/assets/Screenshot 2023-06-08 at 16.28.43.png" alt=""><figcaption><p>MetaMask tx signing prompt</p></figcaption></figure>
 
 {% hint style="info" %}
 Note: Signing this transaction does not authorize Cielo to access any assets in your wallet. Its sole function is to verify that you control the wallet.
