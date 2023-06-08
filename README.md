@@ -35,9 +35,9 @@ Included with the Cielo web app:
 * Track up to 250 wallets (that’s 10x more than comparable platforms)
 * Create 5 themed lists (e.g. NFT Traders; Onchain Whales; DAOs)
 * Track 5 tokens in the Cielo Wallet Tracker bot (e.g. ARB swaps)
-* Higher wallet + token tracking thresholds for Pro + Whale users
+* Higher number of lists, wallets + tokens for Pro + Whale users
 * Integrated NFT dashboard
-* Controls for setting the Cielo Wallet Tracker bot to receive Telegram alerts (up to 6 bots for Pro + Whale)
+* Cielo Wallet Tracker settings to receive Telegram alerts (up to 6 bots for Pro + Whale)
 
 {% hint style="info" %}
 Cielo currently supports the following EVM blockchains: Ethereum, Polygon, Fantom, Arbitrum, Avalanche, Dogechain, Boba, Metis, Aurora, Optimism, BNB Chain, Gnosis, Evmos, Canto, zkSync PulseChain, and Polygon zkEVM.
