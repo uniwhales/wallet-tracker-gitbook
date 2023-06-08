@@ -1,37 +1,44 @@
 # Getting started
 
-To use Cielo, you require the following:
+Visit[ app.cielo.finance](https://app.cielo.finance/) and you’ll see the Cielo web app in preview mode. This mode displays recent transactions from a preselected number of wallets. While in preview, you can navigate through Cielo using the links in the left sidebar and apply filters from the dropdown menus at the top of the page.\
 
-* Web wallet such as MetaMask
-* At least 5,000 UWL tokens in the wallet
-* At least one active [Cielo Wallet Tracker](cielo-wallet-tracker/introduction/what-is-the-cielo-wallet-tracker.md) bot
 
-If you’ve already used the EVM Tracker Bot, you’re halfway to mastering Cielo. If not, you can find the EVM Tracker Bot documentation [here](broken-reference) 👈
+The primary pages that form the Cielo web app are as follows:\
 
-The relationship between the Cielo web app and the Cielo Wallet Tracker bot is as follows: the web app is designed to enhance and segment everything that the bot does.
 
-#### _If the Cielo Wallet Tracker gives you onchain powers, the Cielo web app gives you superpowers 💪_
+[**Feed**](https://app.cielo.finance/feed): This is where recent transactions are displayed. It’s your window into the world of onchain activity and is populated with wallets you’re following.
 
-{% hint style="info" %}
-**Note**: You need at least one active Telegram bot in order to use Cielo.
-{% endhint %}
+[**NFTs**](https://app.cielo.finance/nft/trending): Explore NFT collections and view useful statistics on floor prices, top traders, and much more.
 
-## Setup
+[**Explore**](https://app.cielo.finance/explore): Discover themed lists created by Cielo users and follow lists of interest
 
-Connect to the Ethereum network and, with at least 5,000 UWL in your web wallet, visit [app.cielo.finance](https://app.cielo.finance/) and click **Connect**.
+[**Configure**](https://app.cielo.finance/configure): This is where you add wallets, create lists, and control settings for the accompanying Cielo Wallet Tracker Telegram bot.
 
-<figure><img src=".gitbook/assets/Screenshot 2022-11-18 at 13.26.25.png" alt=""><figcaption></figcaption></figure>
+[**Stats**](https://app.cielo.finance/stats): View analytics for the wallets, tokens, and networks you’re tracking. This feature is only available to Pro + Whale tier users.
 
-Your web wallet will prompt you to sign the following message:
+To fully access Cielo and populate the dashboard with wallets of your choice you need to connect your web wallet. To do so, click the Connect button at the bottom of the page. This will initiate the onboarding tutorial.
 
-<figure><img src=".gitbook/assets/signature request.png" alt=""><figcaption></figcaption></figure>
+
+
+Click **Get Started** and you will be prompted to connect using MetaMask or Wallet Connect. Your web wallet will then ask you to sign a message confirming you wish to log in to Cielo.
 
 {% hint style="info" %}
-**Note**: Signing this transaction does _not_ authorize UniWhales or Cielo to access the contents of your wallet. Its sole function is to verify that you control the wallet and to check it holds a minimum of 5,000 UWL tokens.
+Note: Signing this transaction does not authorize Cielo to access any assets in your wallet. Its sole function is to verify that you control the wallet.
 {% endhint %}
 
-If you do not have the required number of tokens, clicking on your avatar in the top right of the Cielo screen will produce the following notification:
 
-<figure><img src=".gitbook/assets/Screenshot 2022-11-18 at 13.28.18.png" alt=""><figcaption></figcaption></figure>
 
-To fix this, go to [Uniswap](https://info.uniswap.org/#/pools/0x6a61cd16ec0c73b3855beecc4c378dcbdb63f88e) and purchase the required number of UWL tokens. Then return to [app.cielo.finance](https://app.cielo.finance/), refresh and connect again.
+You will now be asked to connect to the Cielo Wallet Tracker bot via Telegram. Select **Skip** if you have no desire to do so. However, to enjoy the full Cielo experience, it is recommended that you complete this step.
+
+If you are an existing user of the Cielo Wallet Tracker, this will pair the Telegram bot with the wallet you have just used to authenticate. If you have never used the Cielo Wallet Tracker, this will initiate the bot and pair it with your web wallet.
+
+Click the Telegram icon and a link will open in Telegram. Follow the instructions within the Telegram bot to complete this stage and then return to Cielo and click Continue.\
+
+
+The onboarding tutorial will now start. This consists of a series of pop-ups that display options for personalizing your Cielo feed and guide you through using the platform. It’s recommended that you complete the tutorial, which takes around 60 seconds. If you wish to skip this step, however, click **x**. You can always revisit the tutorial later from the link in the left menu.
+
+
+
+Once the tutorial has completed, you should have a good idea of how Cielo works. We will now proceed to explore each of these pages and features in turn.
+
+\
