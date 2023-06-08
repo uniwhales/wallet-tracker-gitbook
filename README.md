@@ -21,12 +21,9 @@ Cielo provides an insight into who’s trading, how, where, and why.\
 
 **Where**: Watch the action unfold across all the leading EVM chains and hundreds of protocols, all accurately named for ease of identification.
 
-**Why**: Cielo makes it easy to decode the meaning behind the whale trades and influencer buys that move markets and kickstart trends.
+**Why**: Cielo makes it easy to decode the meaning behind the whale trades and influencer buys that move markets and kickstart trends
 
-
-
-The most powerful implementation of Cielo can be found in the [web app](https://app.cielo.finance) that includes an interface for creating themed lists, bulk importing wallet addresses, and a sophisticated NFT dashboard for viewing collections and tracking the best traders.\
-
+The most powerful implementation of Cielo can be found in the [web app](https://app.cielo.finance) that includes an interface for creating themed lists, bulk importing wallet addresses, and a sophisticated NFT dashboard for viewing collections and tracking the best traders.
 
 The Cielo web app is enhanced by a complementary [Telegram bot](https://t.me/EVMTrackerbot) for receiving real-time alerts on the go. The two products can be used independently or combined for the full Cielo experience: the granular control of the web app coupled with the instant notifications supplied by the Cielo Wallet Tracker bot.\
 
