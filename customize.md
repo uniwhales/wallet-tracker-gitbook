@@ -1,8 +1,6 @@
-# Customize
+# Configure
 
-
-
-[Customize](https://app.cielo.finance/customize) is the nerve center of Cielo. It’s where you control not only what appears in your Feed, but also in your Cielo Wallet Tracker bot Telegram channels. In Customize you can:
+The [configure](https://app.cielo.finance/configure) page is your mission control. It’s where you adjust the setting for wallets you’re following and the corresponding Telegram bot(s) they’re paired with.
 
 * Create custom lists
 * Import premade Cielo lists
@@ -12,7 +10,7 @@
 
 ## Getting started
 
-If you have no wallets assigned to your Telegram bots, the Customize page shows the following message:
+If you have no wallets assigned to your Telegram bots, the configure page shows the following message:
 
 <figure><img src=".gitbook/assets/unnamed (8).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +32,7 @@ This is one of Vitalik Buterin’s known public wallets. It’s already labeled 
 
 💁‍♀️ And that’s it. You’re now following your first wallet in Cielo.
 
-You’ll see the wallet appear on the Customize page like so:
+You’ll see the wallet appear like so:
 
 <figure><img src=".gitbook/assets/unnamed (10).png" alt=""><figcaption></figcaption></figure>
 

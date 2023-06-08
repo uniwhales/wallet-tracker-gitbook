@@ -6,7 +6,7 @@
   * [Filtering](cielo-feed/filtering.md)
 * [Stats](stats.md)
 * [NFTs](nfts.md)
-* [Customize](customize.md)
+* [Configure](customize.md)
 * [Lists](lists/README.md)
   * [Importing](lists/importing.md)
   * [Editing](lists/editing.md)
