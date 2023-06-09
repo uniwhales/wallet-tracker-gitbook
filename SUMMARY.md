@@ -11,6 +11,7 @@
   * [Deleting](lists/deleting.md)
   * [Creating](lists/creating.md)
   * [Sharing](lists/sharing.md)
+* [Explore](explore.md)
 * [NFTs](nfts.md)
 * [Stats](stats.md)
 
