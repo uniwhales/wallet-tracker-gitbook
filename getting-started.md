@@ -3,8 +3,7 @@
 Visit[ app.cielo.finance](https://app.cielo.finance/) and you’ll see the Cielo web app in preview mode. This mode displays recent transactions from a preselected number of wallets. While in preview, you can navigate through Cielo using the links in the left sidebar and apply filters from the dropdown menus at the top of the page.\
 
 
-The primary pages that form the Cielo web app are as follows:\
-
+The primary pages that form the Cielo web app are as follows:
 
 [**Feed**](https://app.cielo.finance/feed): This is where recent transactions are displayed. It’s your window into the world of onchain activity and is populated with wallets you’re following.
 
@@ -20,7 +19,7 @@ The primary pages that form the Cielo web app are as follows:\
 
 To fully access Cielo and populate the dashboard with wallets of your choice you need to connect your web wallet. To do so, click the **Connect** button at the bottom of the page. This will initiate the onboarding tutorial.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-08 at 16.25.41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1_Cielo_onboarding_start.png" alt=""><figcaption></figcaption></figure>
 
 Click **Get Started** and you will be prompted to connect using MetaMask or Wallet Connect. Your web wallet will then ask you to sign a message confirming you wish to log in to Cielo.
 
@@ -32,16 +31,18 @@ Note: Signing this transaction does not authorize Cielo to access any assets in 
 
 
 
+<figure><img src=".gitbook/assets/3_Cielo_onboarding_telegram.png" alt=""><figcaption></figcaption></figure>
+
 You will now be asked to connect to the Cielo Wallet Tracker bot via Telegram. Select **Skip** if you have no desire to do so. However, to enjoy the full Cielo experience, it is recommended that you complete this step.
 
 If you are an existing user of the Cielo Wallet Tracker, this will pair the Telegram bot with the wallet you have just used to authenticate. If you have never used the Cielo Wallet Tracker, this will initiate the bot and pair it with your web wallet.
 
-Click the Telegram icon and a link will open in Telegram. Follow the instructions within the Telegram bot to complete this stage and then return to Cielo and click Continue.\
+Click the Telegram icon and a link will open in Telegram. Follow the instructions within the Telegram bot to complete this stage and then return to Cielo and click Continue.
 
+<figure><img src=".gitbook/assets/4_Cielo_onboarding_interests.png" alt=""><figcaption></figcaption></figure>
 
+\
 The onboarding tutorial will now start. This consists of a series of pop-ups that display options for personalizing your Cielo feed and guide you through using the platform. It’s recommended that you complete the tutorial, which takes around 60 seconds. If you wish to skip this step, however, click **x**. You can always revisit the tutorial later from the link in the left menu.
-
-
 
 Once the tutorial has completed, you should have a good idea of how Cielo works. We will now proceed to explore each of these pages and features in turn.
 
