@@ -3,7 +3,7 @@
 * [Overview](README.md)
 * [Getting started](getting-started.md)
 * [Cielo feed](cielo-feed/README.md)
-  * [Filtering](cielo-feed/filtering.md)
+  * [Filters](cielo-feed/filtering.md)
 * [Configure](customize.md)
 * [Lists](lists/README.md)
   * [Importing](lists/importing.md)
