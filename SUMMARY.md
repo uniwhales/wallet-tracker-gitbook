@@ -6,13 +6,14 @@
   * [Filters](cielo-feed/filtering.md)
 * [Configure](customize.md)
 * [Lists](lists/README.md)
-  * [Importing](lists/importing.md)
-  * [Editing](lists/editing.md)
-  * [Deleting](lists/deleting.md)
   * [Creating](lists/creating.md)
+  * [Editing](lists/editing.md)
   * [Sharing](lists/sharing.md)
+  * [Deleting](lists/deleting.md)
+  * [Importing](lists/importing.md)
 * [Explore](explore.md)
 * [NFTs](nfts.md)
+* [Pro + Whale membership](pro-+-whale-membership.md)
 * [Stats](stats.md)
 
 ## Cielo Wallet Tracker
