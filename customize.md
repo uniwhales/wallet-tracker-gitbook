@@ -23,7 +23,7 @@ This is one of Vitalik Buterin’s known public wallets and is labeled as such o
 1. Click the blue button marked **Add wallets**.
 2. Paste in the wallet address and assign an optional label. Here, we’ll call it VB.
 3. Choose which list you wish to assign it to. If you have yet to create any lists, it will default to **All**.
-4. Under **Alert Settings** are some optional controls. Assigning a bot ID will enableTelegram alerts for this wallet.
+4. Under **Alert Settings** are some optional controls. Assigning a bot ID will activate Telegram alerts for this wallet.
 5. Click **Save changes**.
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-10 at 10.53.23.png" alt=""><figcaption></figcaption></figure>
@@ -34,13 +34,13 @@ The wallet will now appear in configure:
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-10 at 10.57.14.png" alt=""><figcaption></figcaption></figure>
 
-Visit your Cielo [feed](https://app.cielo.finance/feed) and you’ll see it’s now populated with recent tx involving this wallet:
+Visit your Cielo [feed](https://app.cielo.finance/feed) and you’ll see recent tx involving this wallet:
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-10 at 10.58.31.png" alt=""><figcaption></figcaption></figure>
 
-Now let’s return to Customize and add a second wallet. This time we’ll go with an ENS address. _99th.eth_ is an active NFT collector with a few BAYC to their name. There’s no need to add their wallet address: the ENS will suffice.
+Now let’s return to [configure](https://app.cielo.finance/configure) and add a second wallet. This time we’ll go with an ENS address. _99th.eth_ is an active NFT collector. There’s no need to add their wallet address: the ENS will suffice. We'll apply the wallet label _BAYC Collector_.
 
-This time, we'll click **Advanced Settings** and include some additional filters. In the pop-up that appears you can set a minimum transaction value (in USD), deselect any chains you don’t wish to receive alerts for, and do the same for transaction types you wish to screen under **Alert Filter**.
+Now, under **Alert Settings**, we'll add some additional filters. In the pop-up that appears you can set a minimum transaction value (in USD), deselect any chains you don’t wish to receive alerts for, and do the same for transaction types you wish to screen under **Alert Filter**.
 
 {% hint style="info" %}
 **Note:** Advanced Settings only filters tx that appear in your Telegram bot. It does not exert any effect on Cielo. For example, if you select _Avalanche_ only under Advanced Settings, your Telegram bot will only show tx from that occur on Avalanche network – but Cielo will display tx across all 12 EVM chains.
