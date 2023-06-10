@@ -1,44 +1,42 @@
 # Configure
 
-The [configure](https://app.cielo.finance/configure) page is your mission control. It’s where you adjust the setting for wallets you’re following and the corresponding Telegram bot(s) they’re paired with.
+The [configure](https://app.cielo.finance/configure) page is your mission control. It’s where you add wallets, set alert filters, configure Telegram notifications, and create lists. There’s a lot you can do in configure. Mastering the features contained within this page is the key to mastering Cielo.
 
-* Create custom lists
-* Import premade Cielo lists
-* Activate and deactivate wallets you’re following
-* Rename wallets and map them to different bots
-* Set advanced filters for tx alerts
+### Getting started
 
-## Getting started
+If you're not following any wallets, your configure page will start out blank:
 
-If you have no wallets assigned to your Telegram bots, the configure page shows the following message:
+<figure><img src=".gitbook/assets/Screenshot 2023-06-10 at 10.45.59.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/unnamed (8).png" alt=""><figcaption></figcaption></figure>
+If you _are_ already following wallets or public lists, however, your configure page will look like this:
 
-You can start adding wallets by pasting their address into the box on the right hand side. Let’s run through an example of how to do that.
+<figure><img src=".gitbook/assets/Screenshot 2023-06-10 at 10.46.51.png" alt=""><figcaption></figcaption></figure>
+
+We'll explain how to edit wallets, lists, and Telegram bots shortly. But first, we'll demonstrate how to add a wallet address and assign it to a list.
 
 We’re going to create an alert for the following address:
 
 _0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B_
 
-This is one of Vitalik Buterin’s known public wallets. It’s already labeled as such on [Etherscan](https://etherscan.io/address/0xab5801a7d398351b8be11c439e05c5b3259aec9b). Here’s how to add it to Cielo:
+This is one of Vitalik Buterin’s known public wallets and is labeled as such on [Etherscan](https://etherscan.io/address/0xab5801a7d398351b8be11c439e05c5b3259aec9b). Here’s how to add it to Cielo:
 
-1. Paste the address into the **Wallet Address** field.
-2. Add an optional label. Here, we’ll call it VB.
-3. Choose which List you wish to assign it to. In this example, we only have one List created so it will default to **All**.
-4. Choose which bot you wish to assign the wallet to (Whale members only).
-5. Click **Add Alert**.
+1. Click the blue button marked **Add wallets**.
+2. Paste in the wallet address and assign an optional label. Here, we’ll call it VB.
+3. Choose which list you wish to assign it to. If you have yet to create any lists, it will default to **All**.
+4. Under **Alert Settings** are some optional controls. Assigning a bot ID will enableTelegram alerts for this wallet.
+5. Click **Save changes**.
 
-<figure><img src=".gitbook/assets/unnamed (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-06-10 at 10.53.23.png" alt=""><figcaption></figcaption></figure>
 
 💁‍♀️ And that’s it. You’re now following your first wallet in Cielo.
 
-You’ll see the wallet appear like so:
+The wallet will now appear in configure:
 
-<figure><img src=".gitbook/assets/unnamed (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-06-10 at 10.57.14.png" alt=""><figcaption></figcaption></figure>
 
-Go to your Cielo Feed and you’ll see it’s now populated with recent tx involving this wallet. As you can see, Vitalik’s address receives a lot of spam tx.
+Visit your Cielo [feed](https://app.cielo.finance/feed) and you’ll see it’s now populated with recent tx involving this wallet:
 
-<figure><img src=".gitbook/assets/unnamed (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-06-10 at 10.58.31.png" alt=""><figcaption></figcaption></figure>
 
 Now let’s return to Customize and add a second wallet. This time we’ll go with an ENS address. _99th.eth_ is an active NFT collector with a few BAYC to their name. There’s no need to add their wallet address: the ENS will suffice.
 
