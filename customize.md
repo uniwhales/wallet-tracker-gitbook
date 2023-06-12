@@ -90,6 +90,16 @@ From left to right, each wallet as it appears on the configure page can be read 
 * **List name**: Name of the list the wallet is assigned to. If no list is selected, this will default to _All_.
 * **Telegram alerts**: Denotes whether Telegram bot alerts are on/off for the wallet.
 
+Clicking the select iconn to the left of a wallet produces the following options:
+
+<figure><img src=".gitbook/assets/Screenshot 2023-06-12 at 14.33.59.png" alt=""><figcaption></figcaption></figure>
+
+* **Unfollow**: Deletes this wallet from the Cielo web app and bot.
+* **Remove from list**: Removes this wallet from the list it is assigned to but does _not_ delete the wallet from Cielo.
+* Add to list
+
+
+
 ### Making bulk edits
 
 At the top of the configure page, a range of icons and menus are available to simplify making bulk edits to wallets you're following:
@@ -98,7 +108,9 @@ At the top of the configure page, a range of icons and menus are available to si
 
 * **Search bar**: Enter the name or address of a wallet you're following to quickly locate it.
 * **All**: This dropdown menu allows you to select a specific list and make edits that apply only to wallets within that list.
-* Telegram Bots:&#x20;
+* **Telegram Bots**: Enable/disable your Cielo Wallet Tracker bot(s).
+* **Select All**: Clicking the circle icon on the left will apply a yellow tick denoting that all wallets have been selected.
+*
 
 Near the top of the Customize page is an option titled **Bulk Actions**. Clicking on this produces a range of editing options you can apply to some or all wallets you’ve added. Click **Bulk Actions** again and a tick icon will appear alongside all of your wallets. Now click on any wallet(s) you _don’t_ wish to edit. Finally, click on the action you wish to perform (e.g. _Unfollow_) and it will be applied to all wallets that have been ticked.
 
