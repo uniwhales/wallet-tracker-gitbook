@@ -38,17 +38,17 @@ Visit your Cielo [feed](https://app.cielo.finance/feed) and you’ll see recent 
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-10 at 10.58.31.png" alt=""><figcaption></figcaption></figure>
 
-Now let’s return to [configure](https://app.cielo.finance/configure) and add a second wallet. This time we’ll go with an ENS address. _99th.eth_ is an active NFT collector. There’s no need to add their wallet address: the ENS will suffice. We'll apply the wallet label _BAYC Collector_.
+Now let’s return to [configure](https://app.cielo.finance/configure) and add a second wallet. This time we’ll go with an ENS address. _99th.eth_ is an active NFT collector. There’s no need to add their wallet address: the ENS will suffice. We'll apply the wallet label _NFT Holder_.
 
-Now, under **Alert Settings**, we'll add some additional filters. In the pop-up that appears you can set a minimum transaction value (in USD), deselect any chains you don’t wish to receive alerts for, and do the same for transaction types you wish to screen under **Alert Filter**.
+Now, under **Alert Settings**, we'll add some Telegram bot filters. In the pop-up that appears you can set a minimum transaction value (in USD), deselect any chains you _don’t_ wish to receive alerts for, and do the same for transaction types you wish to screen under **Alert Filter**.
 
 {% hint style="info" %}
-**Note:** Advanced Settings only filters tx that appear in your Telegram bot. It does not exert any effect on Cielo. For example, if you select _Avalanche_ only under Advanced Settings, your Telegram bot will only show tx from that occur on Avalanche network – but Cielo will display tx across all 12 EVM chains.
+**Note:** Alert Settings only apply filters to your Telegram bot(s). They do not affect tx as they appear in the Cielo web app. For example, if you limit your chain selection to _Avalanche_, your Telegram bot will only show tx that occur on Avalanche network – but the Cielo web app will continue to display tx for all EVM chains.
 {% endhint %}
 
-When you’ve finished adjusting Advanced Settings, click the blue **Add Alert** button and within a couple of seconds the wallet will appear in your list of addresses on the Customize page.
+<figure><img src=".gitbook/assets/Screenshot 2023-06-12 at 11.51.42.png" alt=""><figcaption><p>Using the settings shown here, the Telegram bot will only show alerts for tx involving NFTs.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/unnamed (12).png" alt=""><figcaption></figcaption></figure>
+When you’ve finished adjusting **Alert Settings**, click **Save changes** and the wallet will appear in your list of addresses on the configure page.
 
 Now let’s adjust some settings for the two wallets we’ve just added. As you can see, the bot that each address is assigned to is clearly displayed, while hovering over the wallet address allows you to copy it to clipboard.
 
