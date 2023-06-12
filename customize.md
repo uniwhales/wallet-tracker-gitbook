@@ -14,6 +14,10 @@ If you _are_ already following wallets or public lists, however, your configure 
 
 We'll explain how to edit wallets, lists, and Telegram bots shortly. But first, we'll demonstrate how to add a wallet address and assign it to a list.
 
+
+
+### Adding wallets
+
 We’re going to create an alert for the following address:
 
 _0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B_
@@ -50,21 +54,26 @@ Now, under **Alert Settings**, we'll add some Telegram bot filters. In the pop-u
 
 When you’ve finished adjusting **Alert Settings**, click **Save changes** and the wallet will appear in your list of addresses on the configure page.
 
-Now let’s adjust some settings for the two wallets we’ve just added. As you can see, the bot that each address is assigned to is clearly displayed, while hovering over the wallet address allows you to copy it to clipboard.
 
-Click on the three horizontal dots and you’ll be given three options:
 
-**Profile**: Takes you to a Cielo page showing all recent tx for that address.
+### Editing wallets
 
-**Edit Alert**: Opens a popup where you can adjust the wallet name, bot, and any lists it’s assigned to.
+After manually adding wallets to Cielo or following one or more public lists, your configure page will look something like this:
 
-**Unfollow**: Delete the wallet from your Cielo dashboard and Telegram altogether.
+<figure><img src=".gitbook/assets/Screenshot 2023-06-12 at 12.02.13 (1).png" alt=""><figcaption><p>The two wallets at the top of the page (NFT Collector + VB) were manually added. The remaining wallets have been imported by following a public list called <em>NewWhaleWallets</em>.</p></figcaption></figure>
 
-The final option that appears alongside each wallet is a blue button. Click on this to disable Telegram alerts for the wallet.
 
-{% hint style="info" %}
-**Note**: After switching off the blue button, the wallet will remain in Cielo and its tx will be visible in your Cielo Feed. It will only disappear from the Telegram bot channel. Click the button again to re-enable Telegram alerts.
-{% endhint %}
+
+From left to right, each wallet as it appears on the configure page can be read and interacted with as follows:
+
+* **Select button**: Click the circular button on the left to select the wallet. Repeat this action to select multiple wallets.
+* **Avatar**: Click the colored avatar to open a new Cielo page for the wallet in question. This will display all recent tx involving this wallet.
+* **Wallet name**: Descriptive label applied when you added the wallet to Cielo or when the list creator added it e.g. _NFT Collector_.
+* **Edit icon**: Clicking the icon to the right of the wallet name opens a popup where you can edit the wallet settings.
+* **Address:** Displays abbreviated view of the wallet's address e.g. _0x01...795a_. Click the icon to the right of the wallet to copy the full address to your clipboard.
+* **Last active**: Time elapsed since the wallet last made a transaction.
+* **List name**: Name of the list the wallet is assigned to. If no list is selected, this will default to _All_.
+* **Telegram alerts**: Denotes whether Telegram bot alerts are on/off for the wallet.
 
 ## Add Contacts
 
