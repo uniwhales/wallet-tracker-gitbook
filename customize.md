@@ -96,30 +96,17 @@ Clicking the select iconn to the left of a wallet produces the following options
 
 * **Unfollow**: Deletes this wallet from the Cielo web app and bot.
 * **Remove from list**: Removes this wallet from the list it is assigned to but does _not_ delete the wallet from Cielo.
-* Add to list
+* **Add to list**: Add the selected wallet to a new or existing list.
+* **Advanced:** Applies advanced settings to all wallets within the selected list. Includes setting minimum tx value, tx type, chain selection, and bot selection.
 
-
-
-### Making bulk edits
-
-At the top of the configure page, a range of icons and menus are available to simplify making bulk edits to wallets you're following:
+At the top of the configure page, a range of icons and menus are available for managing and editing wallets you're following:
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-12 at 12.56.33.png" alt=""><figcaption></figcaption></figure>
 
 * **Search bar**: Enter the name or address of a wallet you're following to quickly locate it.
-* **All**: This dropdown menu allows you to select a specific list and make edits that apply only to wallets within that list.
+* **All**: Select a specific list and make edits that apply only to wallets within that list.
 * **Telegram Bots**: Enable/disable your Cielo Wallet Tracker bot(s).
-* **Select All**: Clicking the circle icon on the left will apply a yellow tick denoting that all wallets have been selected.
-*
-
-Near the top of the Customize page is an option titled **Bulk Actions**. Clicking on this produces a range of editing options you can apply to some or all wallets you’ve added. Click **Bulk Actions** again and a tick icon will appear alongside all of your wallets. Now click on any wallet(s) you _don’t_ wish to edit. Finally, click on the action you wish to perform (e.g. _Unfollow_) and it will be applied to all wallets that have been ticked.
-
-The **Bulk Actions** option is particularly useful when managing a large number of wallets.
-
-To disable Telegram alerts for all wallets or a particular List, under Customize select **Bulk Actions** and then click to tick the yellow circle that appears:
-
-Click the blue toggle switch to the right and the following pop-up will appear:
-
-Select **Continue** and Telegram alerts will be disabled for all wallets you have selected.
-
-Click the toggle switch at the top right of the page to reverse this process and re-enable Telegram alerts.
+* **Select All**: Clicking the circle icon on the left applies a yellow tick denoting that all wallets have been selected.
+* **Slider icon**: Click this to apply advanced edits to all wallets within the selected list.
+* **Brush icon**: Click this to display wallets that are currently unassigned to a list. Note: wallets that default to _All_ are classified as unassigned.
+* **Wallets**: Displays the number of wallets you are following. In the screeenshot above, the user is following 36 wallets.
