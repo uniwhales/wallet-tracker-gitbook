@@ -97,7 +97,7 @@ Clicking the select iconn to the left of a wallet produces the following options
 * **Unfollow**: Deletes this wallet from the Cielo web app and bot.
 * **Remove from list**: Removes this wallet from the list it is assigned to but does _not_ delete the wallet from Cielo.
 * **Add to list**: Add the selected wallet to a new or existing list.
-* **Advanced:** Applies advanced settings to all wallets within the selected list. Includes setting minimum tx value, tx type, chain selection, and bot selection.
+* **Advanced:** Applies advanced settings to all wallets within the selected list. Includes setting minimum tx value, tx type, chain selection, and bot selection. Note: advanced settings apply to Telegram bots only and _not_ the web app.
 
 At the top of the configure page, a range of icons and menus are available for managing and editing wallets you're following:
 
@@ -110,3 +110,5 @@ At the top of the configure page, a range of icons and menus are available for m
 * **Slider icon**: Click this to apply advanced edits to all wallets within the selected list.
 * **Brush icon**: Click this to display wallets that are currently unassigned to a list. Note: wallets that default to _All_ are classified as unassigned.
 * **Wallets**: Displays the number of wallets you are following. In the screeenshot above, the user is following 36 wallets.
+
+Now that we've explained how to add and edit wallets, we'll move on to lists, the final ability that the configure section of Cielo provides.
