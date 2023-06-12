@@ -54,7 +54,22 @@ Now, under **Alert Settings**, we'll add some Telegram bot filters. In the pop-u
 
 When you’ve finished adjusting **Alert Settings**, click **Save changes** and the wallet will appear in your list of addresses on the configure page.
 
+### Bulk adding wallets
 
+If you have multiple wallets to add, Cielo allows you to import these in bulk. There are two ways to do this:
+
+1. Importing a CSV file.
+2. Using Twitter Connect.
+
+For the latter option, click the **Twitter Connect** button in the top right of the configure page. You will then be connected to the Twitter API which will import your Twitter contacts who have an ENS in their profile name or bio. Note that it can take over a minute for your Twitter contacts to be analyzed and imported.
+
+Alternatively, you can bulk add up to 50 wallets by uploading a CSV. Click **Add Wallets** and then **Import CSV**.
+
+<figure><img src=".gitbook/assets/Screenshot 2023-06-12 at 12.45.56.png" alt=""><figcaption></figcaption></figure>
+
+Wallet addresses should be placed in column one of the file and an optional label for each one should go in column two.
+
+After uploading the CSV, wait a few seconds and your imported addresses will appear in configure. They can then be added to a new or existing list if desired.
 
 ### Editing wallets
 
@@ -75,43 +90,23 @@ From left to right, each wallet as it appears on the configure page can be read 
 * **List name**: Name of the list the wallet is assigned to. If no list is selected, this will default to _All_.
 * **Telegram alerts**: Denotes whether Telegram bot alerts are on/off for the wallet.
 
-## Add Contacts
+### Making bulk edits
 
-With Cielo, you can import the ENS addresses for the Twitter accounts you’re following. This is a useful way of creating a custom List for accounts of interest without the need to import them manually.
+At the top of the configure page, a range of icons and menus are available to simplify making bulk edits to wallets you're following:
 
-<figure><img src=".gitbook/assets/Screenshot 2022-10-17 at 12.14.50.png" alt=""><figcaption><p>Add Contacts can be found in the top right of the Customize page.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-06-12 at 12.56.33.png" alt=""><figcaption></figcaption></figure>
 
-In [Customize](https://app.cielo.finance/customize), click the **Add Contacts** button at the top of the page. You will then be connected to the Twitter API which will prompt you to import your contacts. Cielo will only import accounts you’re following that meet this criteria. It does this by scanning their username and bio to detect a .ens handle.
-
-Note that it can take over a minute for your Twitter contacts to be analyzed and imported.
-
-## Bulk Add
-
-Bulk Add is a convenient way of importing multiple addresses in one go. Using this feature, you can import up to 50 wallet addresses from a CSV file.
-
-<figure><img src=".gitbook/assets/Screenshot 2022-10-17 at 12.15.48.png" alt=""><figcaption><p>Bulk Add can be found in the top right of the Customize page.</p></figcaption></figure>
-
-Under Customize, click the **Bulk Add** button at the top of the page. You will then be prompted to import the file. As the pop-up explains, addresses should be placed in column one of the file and an optional label for each one should go in column two.
-
-<figure><img src=".gitbook/assets/Screenshot 2022-10-17 at 12.16.31.png" alt=""><figcaption></figcaption></figure>
-
-After uploading the CSV, wait a few seconds and your imported addresses will appear in your Cielo dashboard. They can then be added to a new or existing custom list if desired.
-
-## Bulk Actions
+* **Search bar**: Enter the name or address of a wallet you're following to quickly locate it.
+* **All**: This dropdown menu allows you to select a specific list and make edits that apply only to wallets within that list.
+* Telegram Bots:&#x20;
 
 Near the top of the Customize page is an option titled **Bulk Actions**. Clicking on this produces a range of editing options you can apply to some or all wallets you’ve added. Click **Bulk Actions** again and a tick icon will appear alongside all of your wallets. Now click on any wallet(s) you _don’t_ wish to edit. Finally, click on the action you wish to perform (e.g. _Unfollow_) and it will be applied to all wallets that have been ticked.
 
 The **Bulk Actions** option is particularly useful when managing a large number of wallets.
 
-<figure><img src=".gitbook/assets/unnamed (13).png" alt=""><figcaption></figcaption></figure>
-
 To disable Telegram alerts for all wallets or a particular List, under Customize select **Bulk Actions** and then click to tick the yellow circle that appears:
 
-<figure><img src=".gitbook/assets/Screenshot 2022-10-17 at 11.59.09.png" alt=""><figcaption></figcaption></figure>
-
 Click the blue toggle switch to the right and the following pop-up will appear:
-
-<figure><img src=".gitbook/assets/Screenshot 2022-10-17 at 12.01.25.png" alt=""><figcaption></figcaption></figure>
 
 Select **Continue** and Telegram alerts will be disabled for all wallets you have selected.
 
