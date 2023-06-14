@@ -8,8 +8,8 @@
 * [Lists](lists.md)
 * [Explore](explore.md)
 * [NFTs](nfts.md)
-* [Pro + Whale membership](pro-+-whale-membership.md)
 * [Stats](stats.md)
+* [Pro + Whale membership](pro-+-whale-membership.md)
 
 ## Cielo Wallet Tracker
 
