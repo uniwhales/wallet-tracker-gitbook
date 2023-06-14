@@ -1,36 +1,34 @@
 # NFTs
 
-The NFT section of Cielo is for monitoring specific NFT collections and collectors. It allows you to tell at a glance who’s minting a particular collection, how many NFTs each of its leading collectors owns, and other key metrics. Floor price, volume, unique holders and much more can be gleaned directly from your NFT dashboard.
+Cielo's [NFT](https://app.cielo.finance/nft/trending) dashboard is designed for monitoring specific NFT collections and collectors. It allows you to tell at a glance who’s minting a particular collection, how many NFTs each of its leading collectors owns, and other key metrics. Floor price, volume, unique holders and much more can be gleaned directly from your NFT dashboard.
 
-<figure><img src=".gitbook/assets/Screenshot 2022-11-18 at 13.58.28.png" alt=""><figcaption><p>CryptoPunks collection page.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-06-14 at 20.41.50.png" alt=""><figcaption></figcaption></figure>
 
-## Getting started
+### Getting started
 
-Clicking on the NFT button in the left hand Cielo menu produces a dropdown menu with two options: [**Trending**](https://app.cielo.finance/nft/trending) and [**Favorites**](https://app.cielo.finance/nft/favorites).
-
-<figure><img src=".gitbook/assets/Screenshot 2022-11-18 at 13.50.56.png" alt=""><figcaption></figcaption></figure>
+Upon visiting the [NFT](https://app.cielo.finance/nft/trending) dashboard, you will see two options at the top of the page: **Trending** and **Favorites**.
 
 **Trending** is your gateway for exploring NFT collections. A list of popular NFT collections that are currently trending is displayed by default. You can instantly start monitoring the activity for any of these by clicking the **Watch** button.
 
-<figure><img src=".gitbook/assets/Screenshot 2022-11-18 at 13.51.44.png" alt=""><figcaption><p>Cielo Trending page.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-06-14 at 20.45.29.png" alt=""><figcaption><p>In this example, the Bored Ape Yacht Club collection is being followed.</p></figcaption></figure>
 
-You can also view at-a-glance information for each of the collections listed: 24-hour volume, floor price, number of holders, tracked holders, and tracked minters (i.e. accounts you are following that hold/minted these NFTs). For example, [**this**](https://app.cielo.finance/collection/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d) is the collection page for Bored Ape Yacht Club.
+You can also view at-a-glance information for each of the collections : 24-hour volume, floor price, market cap, and number of holders.
 
-Initially, Cielo only provides data for NFTs on Ethereum but Optimism and Arbitrum coverage will be activated in the near future. Once available, you can choose which networks you wish to be included in your NFTs feed by clicking the icons in the top right.
+At present, Cielo provides data for NFTs on Ethereum but Optimism and Arbitrum coverage will be activated in the near future.
 
-<figure><img src=".gitbook/assets/Screenshot 2022-11-18 at 14.01.32.png" alt=""><figcaption></figcaption></figure>
+If you can’t see the NFT collection you’re looking for, paste its smart contract address into the search bar at the top and Cielo will produce it. One way of finding the smart contract address for an NFT collection is via an NFT marketplace such as OpenSea. At the top of the marketplace collection page, select **View on EtherScan**, copy the contract address, then paste it into Cielo.
 
-If you can’t see the NFT collection you’re looking for, paste its smart contract address into the search bar at the top and Cielo will produce it. One way of finding the smart contract address for an NFT collection is via an NFT marketplace such as OpenSea. At the top of the marketplace collection page, select “View on EtherScan,” copy the contract address, then paste it into Cielo.
+Another way to check out an NFT collection of interest is by starting in your Cielo feed. Any time an NFT tx appears in your feed, such as when a wallet purchases an NFT, a thumbnail image will appear. Hover over the thumbnail and you’ll see a blue **Explore** button. Click on it to be taken to the Cielo page for that NFT collection.
 
-Another way to check out an NFT collection of interest is by starting in your Cielo Feed. Any time an NFT tx appears in your Feed, such as when an account you’re following purchases an NFT, a thumbnail image will appear. Hover over the thumbnail and you’ll see a blue Explore button. Click on it to be taken to the Cielo page for that NFT collection.
+<figure><img src=".gitbook/assets/Screenshot 2023-06-14 at 20.48.05.png" alt=""><figcaption></figcaption></figure>
 
 The second tab within Cielo’s NFTs section is [**Favorites**](https://app.cielo.finance/nft/favorites). This is where you can track and edit settings for collections you’re following.
 
-<figure><img src=".gitbook/assets/Screenshot 2022-11-18 at 14.02.33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-06-14 at 20.49.01.png" alt=""><figcaption></figcaption></figure>
 
-In **Favorites**, click the eye icon on the right hand side to stop following a particular collection.
+Click the eye icon to the right of a collection to stop following that particular collection.
 
-## Navigation
+### Navigation
 
 If you’d like to keep tabs on all activity for the NFT collection in question, click the blue **Watch** button in the top right. Above this button, you will see a blockchain explorer link to the ERC721 address for the NFT collection.
 
