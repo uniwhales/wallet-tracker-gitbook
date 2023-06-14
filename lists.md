@@ -2,6 +2,8 @@
 
 Your Cielo feed can be likened to a music player, populated with a diverse collection of your favorite songs. Cielo lists are your playlists for managing all this music 🎶
 
+<figure><img src=".gitbook/assets/Screenshot 2023-06-14 at 20.33.25.png" alt=""><figcaption><p>A list of DeFi traders created with Cielo.</p></figcaption></figure>
+
 Lists are how you segment transactions from specific wallets and focus on areas of interest. In just a few clicks, you can create a themed list and populate it with relevant addresses and transaction types. This makes it easier to discern market trends, sentiment, and behaviors.\
 
 
@@ -64,6 +66,6 @@ All of the wallets contained within that list will be selected and four options 
 **Note**: A wallet can be assigned to a maximum of one list.
 {% endhint %}
 
-\
+To view recent tx involving a specific list, visit your Cielo [feed](https://app.cielo.finance/feed) and select the list from the dropdown menu at the top of the page. You can then apply filters using the accompanying menus to further filter results, based on wallets within that list.\
 
 
