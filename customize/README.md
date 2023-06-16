@@ -6,11 +6,11 @@ The [configure](https://app.cielo.finance/configure) page is your mission contro
 
 If you're not following any wallets, your configure page will start out blank:
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-10 at 10.45.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-10 at 10.45.59.png" alt=""><figcaption></figcaption></figure>
 
 If you _are_ already following wallets or public lists, however, your configure page will look like this:
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-10 at 10.46.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-10 at 10.46.51.png" alt=""><figcaption></figcaption></figure>
 
 We'll explain how to edit wallets, lists, and Telegram bots shortly. But first, we'll demonstrate how to add a wallet address and assign it to a list.
 
@@ -30,17 +30,17 @@ This is one of Vitalik Buterin’s known public wallets and is labeled as such o
 4. Under **Alert Settings** are some optional controls. Assigning a bot ID will activate Telegram alerts for this wallet.
 5. Click **Save changes**.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-10 at 10.53.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-10 at 10.53.23.png" alt=""><figcaption></figcaption></figure>
 
 💁‍♀️ And that’s it. You’re now following your first wallet in Cielo.
 
 The wallet will now appear in configure:
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-10 at 10.57.14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-10 at 10.57.14.png" alt=""><figcaption></figcaption></figure>
 
 Visit your Cielo [feed](https://app.cielo.finance/feed) and you’ll see recent tx involving this wallet:
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-10 at 10.58.31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-10 at 10.58.31.png" alt=""><figcaption></figcaption></figure>
 
 Now let’s return to [configure](https://app.cielo.finance/configure) and add a second wallet. This time we’ll go with an ENS address. _99th.eth_ is an active NFT collector. There’s no need to add their wallet address: the ENS will suffice. We'll apply the wallet label _NFT Holder_.
 
@@ -50,7 +50,7 @@ Now, under **Alert Settings**, we'll add some Telegram bot filters. In the pop-u
 **Note:** Alert Settings only apply filters to your Telegram bot(s). They do not affect tx as they appear in the Cielo web app. For example, if you limit your chain selection to _Avalanche_, your Telegram bot will only show tx that occur on Avalanche network – but the Cielo web app will continue to display tx for all EVM chains.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-12 at 11.51.42.png" alt=""><figcaption><p>Using the settings shown here, the Telegram bot will only show alerts for tx involving NFTs.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 11.51.42.png" alt=""><figcaption><p>Using the settings shown here, the Telegram bot will only show alerts for tx involving NFTs.</p></figcaption></figure>
 
 When you’ve finished adjusting **Alert Settings**, click **Save changes** and the wallet will appear in your list of addresses on the configure page.
 
@@ -65,7 +65,7 @@ For the latter option, click the **Twitter Connect** button in the top right of 
 
 Alternatively, you can bulk add up to 50 wallets by uploading a CSV. Click **Add Wallets** and then **Import CSV**.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-12 at 12.45.56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 12.45.56.png" alt=""><figcaption></figcaption></figure>
 
 Wallet addresses should be placed in column one of the file and an optional label for each one should go in column two.
 
@@ -75,7 +75,7 @@ After uploading the CSV, wait a few seconds and your imported addresses will app
 
 After manually adding wallets to Cielo or following one or more public lists, your configure page will look something like this:
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-12 at 12.02.13 (1).png" alt=""><figcaption><p>The two wallets at the top of the page (NFT Collector + VB) were manually added. The remaining wallets have been imported by following a public list called <em>NewWhaleWallets</em>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 12.02.13 (1).png" alt=""><figcaption><p>The two wallets at the top of the page (NFT Collector + VB) were manually added. The remaining wallets have been imported by following a public list called <em>NewWhaleWallets</em>.</p></figcaption></figure>
 
 
 
@@ -92,7 +92,7 @@ From left to right, each wallet as it appears on the configure page can be read 
 
 Clicking the select iconn to the left of a wallet produces the following options:
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-12 at 14.33.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 14.33.59.png" alt=""><figcaption></figcaption></figure>
 
 * **Unfollow**: Deletes this wallet from the Cielo web app and bot.
 * **Remove from list**: Removes this wallet from the list it is assigned to but does _not_ delete the wallet from Cielo.
@@ -101,7 +101,7 @@ Clicking the select iconn to the left of a wallet produces the following options
 
 At the top of the configure page, a range of icons and menus are available for managing and editing wallets you're following:
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-12 at 12.56.33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 12.56.33.png" alt=""><figcaption></figcaption></figure>
 
 * **Search bar**: Enter the name or address of a wallet you're following to quickly locate it.
 * **All**: Select a specific list and make edits that apply only to wallets within that list.
