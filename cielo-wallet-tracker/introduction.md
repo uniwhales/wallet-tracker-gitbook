@@ -30,5 +30,3 @@ The Cielo Wallet tracker can be used as a standalone application within Telegram
 {% endhint %}
 
 Use the section titles on the left to locate topics you’re interested in or read on to learn the Cielo Wallet Tracker from A-Z.
-
-_Note: Sections marked with a 🔑 describe features that are only available to Pro/Whale tier members. Sections marked with a ✅ describe features that are available as part of the Basic plan for free._
