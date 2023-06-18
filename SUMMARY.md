@@ -15,10 +15,8 @@
 
 ## Cielo Wallet Tracker
 
-* [Introduction](cielo-wallet-tracker/introduction/README.md)
-  * [Supported transactions](cielo-wallet-tracker/introduction/supported-transactions.md)
-  * [Supported blockchains](cielo-wallet-tracker/introduction/supported-blockchains.md)
-* [Getting started](cielo-wallet-tracker/getting-started/README.md)
+* [Introduction](cielo-wallet-tracker/introduction.md)
+* [Getting started: Telegram](cielo-wallet-tracker/getting-started/README.md)
   * [Disabling blockchains](cielo-wallet-tracker/getting-started/disabling-blockchains.md)
   * [Labeling](cielo-wallet-tracker/getting-started/labeling.md)
 * [Customizing](cielo-wallet-tracker/customizing/README.md)
