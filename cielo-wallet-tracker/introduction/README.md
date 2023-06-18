@@ -23,7 +23,7 @@ Using the Cielo Wallet Tracker you can:\
 
 As an example of the Cielo Wallet Tracker in action, check out our [Onchain Intrigue](https://t.me/CelsiusEVMTracker) channel. It's used for monitoring onchain activity associated with whales, hackers, VCs, and other market-movers. And here’s [another channel](https://t.me/NFTideasEVMTracker) for monitoring leading NFT traders. The Cielo Wallet Tracker allows you to set up a custom Telegram stream of alerts that are tailored to your interests.
 
-
+It’s up to you to select, segment, and sort the wallets and transaction types you wish to follow so as to optimize the signal-to-noise ratio. This will allow you to zero in on the transaction types and users that are of interest to you and to screen the rest.
 
 {% hint style="info" %}
 The Cielo Wallet tracker can be used as a standalone application within Telegram, or as a complement to the Cielo web app. Although it’s possible to manage the bot within Telegram, you may find it easier to adjust settings within the Cielo web app.

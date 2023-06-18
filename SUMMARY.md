@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
+* [Supported tx + chains](supported-tx-+-chains.md)
 * [Getting started](getting-started.md)
 * [Cielo feed](cielo-feed/README.md)
   * [Filters](cielo-feed/filtering.md)
@@ -15,7 +16,6 @@
 ## Cielo Wallet Tracker
 
 * [Introduction](cielo-wallet-tracker/introduction/README.md)
-  * [What can you track?](cielo-wallet-tracker/introduction/what-can-you-track.md)
   * [Supported transactions](cielo-wallet-tracker/introduction/supported-transactions.md)
   * [Supported blockchains](cielo-wallet-tracker/introduction/supported-blockchains.md)
 * [Getting started](cielo-wallet-tracker/getting-started/README.md)
