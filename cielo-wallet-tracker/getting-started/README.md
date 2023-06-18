@@ -59,3 +59,14 @@ Enter a value (demoninated in USD) and press return or hit **Skip** if you wish 
 
 ### Editing wallets + tokens
 
+To edit a wallet or token you're tracking, click the blue menu icon followed by the _/list_ option. This will produce a list of all wallets you're following.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-18 at 19.47.25.png" alt=""><figcaption><p>In this example, the ARB token is being tracked.</p></figcaption></figure>
+
+Click the blue edit link beneath the address to make an edit to the wallet or token. In addition to adjusting which chains and tx types are enabled (wallet) and the minimum tx size (tokens), you can disable alerts or delete the address altogether.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-18 at 19.49.33.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;To re-enable alerts for a particular address, just repeat the process above and click the **Enable** button when prompted.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-18 at 19.50.39.png" alt=""><figcaption></figcaption></figure>
