@@ -38,3 +38,24 @@ Click on an tx type you wish to disable and then hit **Confirm**. You will now s
 <figure><img src="../../.gitbook/assets/Screenshot 2023-06-18 at 19.29.03.png" alt=""><figcaption></figcaption></figure>
 
 And that's it: you're now tracking your first wallet using Cielo's Telegram bot.&#x20;
+
+
+
+### Adding a token
+
+To start tracking a token, repeat the procedure described above but select the **Token** button. You will then see the following option:
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-18 at 19.31.26.png" alt=""><figcaption><p>At present, these are the chains Cielo supports for token tracking.</p></figcaption></figure>
+
+Select your desired chain, enter the smart contract address for the token and hit return. You can find this in a block explorer or using a market data site such as [CoinGecko](https://www.coingecko.com/).
+
+You will now be asked to set a DEX swap threshold. This is to prevent you from being overwhelmed with alerts for popular tokens.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-18 at 19.34.37.png" alt=""><figcaption></figcaption></figure>
+
+Enter a value (demoninated in USD) and press return or hit **Skip** if you wish to receive alerts for all swaps, regardless of size. You will now see the following notification:
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-18 at 19.36.13.png" alt=""><figcaption></figcaption></figure>
+
+### Editing wallets + tokens
+
