@@ -15,7 +15,6 @@
 ## Cielo Wallet Tracker
 
 * [Introduction](cielo-wallet-tracker/introduction/README.md)
-  * [Why use the Cielo Wallet Tracker?](cielo-wallet-tracker/introduction/why-use-the-cielo-wallet-tracker.md)
   * [What can you track?](cielo-wallet-tracker/introduction/what-can-you-track.md)
   * [Supported transactions](cielo-wallet-tracker/introduction/supported-transactions.md)
   * [Supported blockchains](cielo-wallet-tracker/introduction/supported-blockchains.md)

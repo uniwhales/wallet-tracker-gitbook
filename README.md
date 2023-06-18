@@ -12,6 +12,26 @@ With millions of transactions recorded onchain every day, making sense of all th
 
 From tracking hedge funds to monitoring your own wallets, Cielo demystifies the art of onchain sleuthing. In just a few clicks, you can zero in on the activities of a single trader or zoom out and see the bigger picture to discern DeFi trends 🔎
 
+People use an onchain tracker like Cielo for two reasons:
+
+* To monitor their own transactions
+* To monitor other people’s transactions
+
+Monitoring your own wallet addresses allows you to be notified of such events as:
+
+* Being paid by a client
+* Being airdropped tokens
+* Selling an NFT
+* Unauthorized tx that could indicate a compromised wallet
+
+Monitoring third party wallets allows you to be notified of such events as:
+
+* DEX trades for a particular token e.g. ARB
+* Token unlocks for projects you’re invested in
+* NFT purchases by crypto influencers
+* High-volume sales by known crypto companies/whales
+* New activity by wallets connected to major hacks
+
 <figure><img src=".gitbook/assets/Screenshot 2023-06-08 at 15.58.41.png" alt=""><figcaption><p>Cielo web app</p></figcaption></figure>
 
 Cielo provides an insight into who’s trading, how, where, and why.\
