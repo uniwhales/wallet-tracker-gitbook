@@ -17,7 +17,6 @@
 
 * [Introduction](cielo-wallet-tracker/introduction.md)
 * [Getting started: Telegram](cielo-wallet-tracker/getting-started/README.md)
-  * [Disabling blockchains](cielo-wallet-tracker/getting-started/disabling-blockchains.md)
   * [Labeling](cielo-wallet-tracker/getting-started/labeling.md)
 * [Customizing](cielo-wallet-tracker/customizing/README.md)
   * [Disabling wallet alerts](cielo-wallet-tracker/customizing/disabling-wallet-alerts.md)
