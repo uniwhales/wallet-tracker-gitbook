@@ -17,3 +17,24 @@ Four options are displayed:
 * **Menu**: View master menu that includes options for setting group and channel alerts.
 * **Bot settings**: Opens options to disable bot or reset chat.
 
+
+
+### Adding a wallet
+
+To add a wallet using the Telegram bot, click the blue menu icon followed by the top option that appears: **Add new wallet or token**.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-18 at 19.23.49.png" alt=""><figcaption></figcaption></figure>
+
+Then click the **Wallet** button and paste in the wallet address followed by a space and then an optional name for the wallet e.g. _My Trading Wallet_. By default, all of the chains that Cielo tracks are enabled. If you wish to disable alerts for any of these chains, just click the relevant button to disable the selection.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-18 at 19.26.29.png" alt=""><figcaption></figcaption></figure>
+
+When you're done, click **Confirm**. You'll then see the following screen for controlling tx types:
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-18 at 19.27.13.png" alt=""><figcaption></figcaption></figure>
+
+Click on an tx type you wish to disable and then hit **Confirm**. You will now see the following notification:
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-18 at 19.29.03.png" alt=""><figcaption></figcaption></figure>
+
+And that's it: you're now tracking your first wallet using Cielo's Telegram bot.&#x20;
