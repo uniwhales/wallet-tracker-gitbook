@@ -19,6 +19,5 @@
 * [Getting started: Telegram](cielo-wallet-tracker/getting-started.md)
 * [Getting started: web app](cielo-wallet-tracker/getting-started-web-app.md)
 * [Adding to groups + channels](cielo-wallet-tracker/adding-to-groups-+-channels.md)
-* [Labeling](cielo-wallet-tracker/labeling.md)
 * [Feedback](cielo-wallet-tracker/feedback/README.md)
   * [Privacy policy](cielo-wallet-tracker/feedback/privacy-policy.md)
