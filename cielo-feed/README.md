@@ -23,9 +23,11 @@ Here is an example of a transaction as it appears in your Cielo feed:
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 14.30.29.png" alt=""><figcaption></figcaption></figure>
 
-If you see a **High TX** label like this:
+If you see a green **High TX** label like this:
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-05 at 17.02.34.png" alt=""><figcaption></figcaption></figure>
 
+...it means the wallet in question has high transaction volume. You can still add the address to Cielo, but it could fill your feed with an excessive number of tx.
 
 ### Transaction header
 
