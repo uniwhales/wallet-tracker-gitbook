@@ -59,7 +59,7 @@ When you’ve finished adjusting **Alert Settings**, click **Save changes** and 
 If you have multiple wallets to add, Cielo allows you to import these in bulk. There are two ways to do this:
 
 1. Importing a CSV file.
-2. Using Twitter Connect.
+2. Using Twitter Connect. **NOTE**: _Twitter Connect is temporarily unavailable_.
 
 For the latter option, click the **Twitter Connect** button in the top right of the configure page. You will then be connected to the Twitter API which will import your Twitter contacts who have an ENS in their profile name or bio. Note that it can take over a minute for your Twitter contacts to be analyzed and imported.
 
