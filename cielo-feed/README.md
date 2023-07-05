@@ -23,6 +23,10 @@ Here is an example of a transaction as it appears in your Cielo feed:
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 14.30.29.png" alt=""><figcaption></figcaption></figure>
 
+If you see a **High TX** label like this:
+
+
+
 ### Transaction header
 
 The ENS or wallet name assigned within Cielo appears in the top left. Clicking on the wallet name or avatar to the left of it opens a page showing all recent activity for that wallet e.g. [https://app.cielo.finance/feed/0x…72](https://app.cielo.finance/feed/0x)
