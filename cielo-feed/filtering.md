@@ -38,7 +38,7 @@ Below this, four dropdown menus allow you to set your own filters:\
 
 Any time you wish to reset the filters you’ve applied, just click **Clear Filters**.
 
-<figure><img src="../.gitbook/assets/chrome-capture-2023-6-12 (2) (2).gif" alt=""><figcaption><p>Applying filters to show Ethereum swaps >$10K.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/cielo filters.gif" alt=""><figcaption><p>Applying filters to show Ethereum swaps >$10K.</p></figcaption></figure>
 
 
 
