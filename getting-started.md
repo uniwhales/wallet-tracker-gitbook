@@ -19,6 +19,10 @@ The primary pages that form the Cielo web app are as follows:
 
 To fully access Cielo and populate the dashboard with wallets of your choice you need to connect your web wallet. To do so, click the **Connect** button at the bottom of the page. This will initiate the onboarding tutorial.
 
+<figure><img src=".gitbook/assets/chrome-capture-2023-6-12 (1).gif" alt=""><figcaption><p>Connecting to Cielo for the first time.</p></figcaption></figure>
+
+
+
 <figure><img src=".gitbook/assets/1_Cielo_onboarding_start.png" alt=""><figcaption></figcaption></figure>
 
 Click **Get Started** and you will be prompted to connect using MetaMask or Wallet Connect. Your web wallet will then ask you to sign a message confirming you wish to log in to Cielo.
