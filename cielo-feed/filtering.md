@@ -1,4 +1,4 @@
-# Filtering
+# Filters
 
 By default, your feed populates with the latest transactions from all of the wallets and lists you’re following. If you’d like to zero in on a particular network, transaction type, list, or token, however, you can. Not only does this prevent information overload, but it makes it easier to discern trends for verticals that you’re interested in such as NFTs or DeFi.
 
@@ -37,6 +37,8 @@ Below this, four dropdown menus allow you to set your own filters:\
 
 
 Any time you wish to reset the filters you’ve applied, just click **Clear Filters**.
+
+<figure><img src="../.gitbook/assets/chrome-capture-2023-6-12.gif" alt=""><figcaption><p>Applying filters to show Ethereum swaps >$10K.</p></figcaption></figure>
 
 
 
