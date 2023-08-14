@@ -22,7 +22,7 @@ Smart contracts that can be monitored by the tracker include:
 
 ### &#x20;Supported networks
 
-The Cielo Wallet Tracker currently supports the following EVM blockchains: Ethereum, Polygon, Polygon zkEVM, Fantom, Arbitrum, Avalanche, Dogechain, Boba, Metis, Aurora, Optimism, BNB Chain, Gnosis, Evmos, PulseChain, zkSync, Evmos, and Canto.\
+The Cielo Wallet Tracker currently supports the following EVM blockchains: Ethereum, Polygon, Polygon zkEVM, Fantom, Arbitrum, Avalanche, Dogechain, Boba, Metis, Aurora, Optimism, BNB Chain, Gnosis, Evmos, PulseChain, zkSync, Canto, and Base.\
 
 
 ℹ️ Please note that the tracker is only compatible with the EVM implementation of these networks. For instance, the tracker can follow tx that occur on Avalanche C-Chain but not on X-Chain or P-Chain.
