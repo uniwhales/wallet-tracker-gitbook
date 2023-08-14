@@ -59,7 +59,7 @@ All of the wallets contained within that list will be selected and four options 
 
 * **Remove**: Deletes the wallet from the list and removes the wallet from Cielo altogether.
 * **Remove from list**: Removes the wallet from the list but keeps it in Cielo.
-* A**dd to list**: If the wallet is unassigned to a list, you may assign it to one.
+* **Add to list**: If the wallet is unassigned to a list, you may assign it to one.
 * **Advanced**: Opens Telegram bot settings.
 
 {% hint style="info" %}
