@@ -4,17 +4,11 @@ The [configure](https://app.cielo.finance/configure) page is your mission contro
 
 ### Getting started
 
-If you're not following any wallets, your configure page will start out blank:
+If you're not following any public lists or wallets, your configure page will contain no entries. If you _are_ following wallets or public lists, however, your configure page will look like this:
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-10 at 10.45.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 09.19.49.png" alt=""><figcaption></figcaption></figure>
 
-If you _are_ already following wallets or public lists, however, your configure page will look like this:
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-10 at 10.46.51.png" alt=""><figcaption></figcaption></figure>
-
-We'll explain how to edit wallets, lists, and Telegram bots shortly. But first, we'll demonstrate how to add a wallet address and assign it to a list.
-
-
+We'll explain how to edit wallets, lists, and Telegram and Discord bots shortly. But first, we'll demonstrate how to add a wallet address and assign it to a list.
 
 ### Adding wallets
 
@@ -25,18 +19,18 @@ _0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B_
 This is one of Vitalik Buterin’s known public wallets and is labeled as such on [Etherscan](https://etherscan.io/address/0xab5801a7d398351b8be11c439e05c5b3259aec9b). Here’s how to add it to Cielo:
 
 1. Click the blue button marked **Add wallets**.
-2. Paste in the wallet address and assign an optional label. Here, we’ll call it VB.
+2. Paste in the wallet address and assign an optional label. Here, we’ll call it _VB_.
 3. Choose which list you wish to assign it to. If you have yet to create any lists, it will default to **All**.
 4. Under **Alert Settings** are some optional controls. Assigning a bot ID will activate Telegram alerts for this wallet.
 5. Click **Save changes**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-10 at 10.53.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 09.21.19.png" alt="" width="375"><figcaption></figcaption></figure>
 
 💁‍♀️ And that’s it. You’re now following your first wallet in Cielo.
 
 The wallet will now appear in configure:
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-10 at 10.57.14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 09.22.41.png" alt=""><figcaption></figcaption></figure>
 
 Visit your Cielo [feed](https://app.cielo.finance/feed) and you’ll see recent tx involving this wallet:
 
@@ -47,10 +41,10 @@ Now let’s return to [configure](https://app.cielo.finance/configure) and add a
 Now, under **Alert Settings**, we'll add some Telegram bot filters. In the pop-up that appears you can set a minimum transaction value (in USD), deselect any chains you _don’t_ wish to receive alerts for, and do the same for transaction types you wish to screen under **Alert Filter**.
 
 {% hint style="info" %}
-**Note:** Alert Settings only apply filters to your Telegram bot(s). They do not affect tx as they appear in the Cielo web app. For example, if you limit your chain selection to _Avalanche_, your Telegram bot will only show tx that occur on Avalanche network – but the Cielo web app will continue to display tx for all EVM chains.
+**Note:** Alert Settings only applies filters to your Telegram or Discord bots. It does not alter the tx that appear in the Cielo web app. For example, if you limit your chain selection to _Avalanche_, your Telegram bot will only show tx that occur on Avalanche network – but your Cielo feed will continue to display tx for all EVM chains.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 11.51.42.png" alt=""><figcaption><p>Using the settings shown here, the Telegram bot will only show alerts for tx involving NFTs.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 09.25.39.png" alt="" width="375"><figcaption><p>Using the above filters, the Telegram/Discord bot will only show alerts for tx involving NFTs.</p></figcaption></figure>
 
 When you’ve finished adjusting **Alert Settings**, click **Save changes** and the wallet will appear in your list of addresses on the configure page.
 
@@ -75,11 +69,9 @@ After uploading the CSV, wait a few seconds and your imported addresses will app
 
 After manually adding wallets to Cielo or following one or more public lists, your configure page will look something like this:
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 12.02.13 (1).png" alt=""><figcaption><p>The two wallets at the top of the page (NFT Collector + VB) were manually added. The remaining wallets have been imported by following a public list called <em>NewWhaleWallets</em>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 09.31.33.png" alt=""><figcaption></figcaption></figure>
 
-
-
-From left to right, each wallet as it appears on the configure page can be read and interacted with as follows:
+From left to right, each wallet entry can be read and interacted with as follows:
 
 * **Select button**: Click the circular button on the left to select the wallet. Repeat this action to select multiple wallets.
 * **Avatar**: Click the colored avatar to open a new Cielo page for the wallet in question. This will display all recent tx involving this wallet.
@@ -90,14 +82,14 @@ From left to right, each wallet as it appears on the configure page can be read 
 * **List name**: Name of the list the wallet is assigned to. If no list is selected, this will default to _All_.
 * **Telegram alerts**: Denotes whether Telegram bot alerts are on/off for the wallet.
 
-Clicking the select iconn to the left of a wallet produces the following options:
+Clicking the select icon to the left of a wallet produces the following options:
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 14.33.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 09.44.41.png" alt=""><figcaption></figcaption></figure>
 
-* **Unfollow**: Deletes this wallet from the Cielo web app and bot.
+* **Remove**: Deletes this wallet from your Cielo web app and bot.
 * **Remove from list**: Removes this wallet from the list it is assigned to but does _not_ delete the wallet from Cielo.
-* **Add to list**: Add the selected wallet to a new or existing list.
-* **Advanced:** Applies advanced settings to all wallets within the selected list. Includes setting minimum tx value, tx type, chain selection, and bot selection. Note: advanced settings apply to Telegram bots only and _not_ the web app.
+* **Add to list**: Adds the selected wallet to a new or existing list.
+* **Advanced:** Applies advanced settings to all wallets within the selected list. Includes setting minimum tx value, tx type, chain selection, and bot selection. Note: advanced settings apply to Telegram/Discord bots only and _not_ the web app.
 
 At the top of the configure page, a range of icons and menus are available for managing and editing wallets you're following:
 
