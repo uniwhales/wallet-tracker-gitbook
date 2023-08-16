@@ -1,6 +1,8 @@
-# Getting started: Telegram
+# Telegram
 
-It's recommended that you use the Cielo Wallet Tracker bot in conjunction with the Cielo [web app](https://app.cielo.finance). The app is free to use and its GUI makes it easy to adjust wallet settings. If you'd rather just use the Telegram bot without the web app, however, read on.
+It's possible to use the Cielo Wallet Tracker as a standalone Telegram bot, without pairing it to the Cielo web app.
+
+It's recommended that you use the bot in conjunction with the Cielo [web app](https://app.cielo.finance) however. The app is free to use and its interface makes it easier to adjust wallet settings than doing so within Telegram. If you'd rather just use the Telegram bot on its own, however, read on.
 
 To initialize the [Cielo Wallet Tracker bot](https://t.me/evmtrackerbot), open it in Telegram and press the blue **Start** button.
 
