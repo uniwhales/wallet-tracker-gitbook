@@ -6,7 +6,7 @@ coverY: 0
 
 # Overview
 
-Cielo is a human-readable information layer for web3. It allows anyone to create a real-time feed of onchain activity and filter it by transaction type, chain, and size.
+Cielo is a human-readable information layer for web3. It allows anyone to create a real-time feed of onchain activity and filter it by transaction type, chain, and size. Transactions can be viewed within the Cielo web app or in Discord or Telegram using the Cielo bot.
 
 With millions of transactions recorded onchain every day, making sense of all this activity is beyond the remit of a simple block explorer. Smarter tooling is required to discern what’s taking place on crypto networks and to leverage this information to your advantage. Cielo is a tool for deciphering the onchain transactions that matter.
 
@@ -32,7 +32,7 @@ Monitoring third party wallets allows you to be notified of such events as:
 * High-volume sales by known crypto companies/whales
 * New activity by wallets connected to major hacks
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-08 at 15.58.41.png" alt=""><figcaption><p>Cielo web app</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-08-16 at 08.58.49.png" alt=""><figcaption><p>Cielo web app</p></figcaption></figure>
 
 Cielo provides an insight into who’s trading, how, where, and why.\
 
@@ -47,7 +47,7 @@ Cielo provides an insight into who’s trading, how, where, and why.\
 
 The most powerful implementation of Cielo can be found in the [web app](https://app.cielo.finance) that includes an interface for creating themed lists, bulk importing wallet addresses, and a sophisticated NFT dashboard for viewing collections and tracking the best traders.
 
-The Cielo web app is enhanced by a complementary [Telegram bot](https://t.me/EVMTrackerbot) for receiving real-time alerts on the go. The two products can be used independently or combined for the full Cielo experience: the granular control of the web app coupled with the instant notifications supplied by the Cielo Wallet Tracker bot.\
+The Cielo web app is enhanced by a complementary [Telegram bot](https://t.me/EVMTrackerbot) for receiving real-time alerts on the go. The two products can be used independently or combined for the full Cielo experience: the granular control of the web app coupled with the instant notifications supplied by the Cielo Wallet Tracker bot. There's also a Discord bot that performs the same role for users who prefer to receive their alerts within a Discord server.\
 
 
 Included with the Cielo web app:
@@ -56,13 +56,13 @@ Included with the Cielo web app:
 * Sophisticated protocol labeling and tx types
 * Track up to 250 wallets (that’s 10x more than comparable platforms)
 * Create 5 themed lists (e.g. NFT Traders; Onchain Whales; DAOs)
-* Track 5 tokens in the Cielo Wallet Tracker bot (e.g. ARB swaps)
+* Track 5 tokens in the Cielo Wallet Tracker bot or Discord (e.g. ARB swaps)
 * Higher number of lists, wallets + tokens for Pro + Whale users
 * Integrated NFT dashboard
 * Cielo Wallet Tracker settings to receive Telegram alerts (up to 6 bots for Pro + Whale)
 
 {% hint style="info" %}
-Cielo currently supports the following EVM blockchains: Ethereum, Polygon, Fantom, Arbitrum, Avalanche, Dogechain, Boba, Metis, Aurora, Optimism, BNB Chain, Gnosis, Evmos, Canto, zkSync PulseChain, and Polygon zkEVM.
+Cielo currently supports the following EVM blockchains: Ethereum, Polygon, Fantom, Arbitrum, Avalanche, Dogechain, Boba, Base, Metis, Aurora, Optimism, BNB Chain, Gnosis, Evmos, Canto, zkSync PulseChain, and Polygon zkEVM.
 {% endhint %}
 
 Because Cielo content is user-curated, it’s dependent upon you to input useful addresses and correctly set their parameters. Otherwise, you risk being overwhelmed with junk data or conversely missing out on significant events because you’re following irrelevant onchain interactions. The Cielo web app makes it easy to dial down the noise and amplify the signal.
