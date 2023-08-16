@@ -62,7 +62,7 @@ Included with the Cielo web app:
 * Cielo Wallet Tracker settings to receive Telegram alerts (up to 6 bots for Pro + Whale)
 
 {% hint style="info" %}
-Cielo currently supports the following EVM blockchains: Ethereum, Polygon, Fantom, Arbitrum, Avalanche, Dogechain, Boba, Base, Metis, Aurora, Optimism, BNB Chain, Gnosis, Evmos, Canto, zkSync PulseChain, and Polygon zkEVM.
+Cielo currently supports the following EVM blockchains: Ethereum, Polygon, Fantom, Arbitrum, Avalanche, Dogechain, Boba, Base, Metis, Aurora, Optimism, BNB Chain, Gnosis, Evmos, Canto, zkSync PulseChain, Mantle, opBNB, and Polygon zkEVM.
 {% endhint %}
 
 Because Cielo content is user-curated, it’s dependent upon you to input useful addresses and correctly set their parameters. Otherwise, you risk being overwhelmed with junk data or conversely missing out on significant events because you’re following irrelevant onchain interactions. The Cielo web app makes it easy to dial down the noise and amplify the signal.
