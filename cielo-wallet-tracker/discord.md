@@ -2,6 +2,8 @@
 
 Cielo allows you to add a custom bot that will share notifications within a Discord channel. You can enable this feature and customize the bot using the Cielo web app. You will also require admin rights for the channel within the Discord server you intend to use. If the server owner is unwilling to grant you admin privileges within the Discord channel, you will be unable to connect a Cielo bot.
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 15.01.01.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 If the owner of a Discord server is willing to allow a Cielo bot to be added to a channel, but does not wish to share admin rights, they can connect to the Cielo [web app](https://app.cielo.finance/) themselves and complete the process. Each Cielo user can access one Discord bot for free.
 {% endhint %}
