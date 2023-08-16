@@ -1,7 +1,7 @@
 ---
 description: >-
   The Cielo Wallet Tracker is a Telegram and Discord bot that provides real-time
-  alerts for onchain transactions. It can monitor activity across 19+
+  alerts for onchain transactions. It can monitor activity across 20
   EVM-compatible blockchains.
 ---
 
