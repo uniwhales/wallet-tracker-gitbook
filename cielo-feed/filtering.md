@@ -9,18 +9,20 @@ The dropdown menus at the top of your feed can be used to temporarily filter out
 **Tip**: If there’s a particular filter you use a lot in your Cielo feed, bookmark it for future reference. Cielo creates a unique URL for each of the filters applied (e.g. NFT+Polygon), making it easy to load these settings by revisiting the URL.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-09 at 12.20.25.png" alt=""><figcaption></figcaption></figure>
-
-At the top of your feed, there are four icons that apply preset filters when clicked:\
+At the top of your feed, there are five icons that apply preset filters when clicked:\
 
 
-**All:** the default setting for your feed, set to show all tx.
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 09.15.24.png" alt=""><figcaption></figcaption></figure>
+
+**All:** the default setting for your feed, displaying all tx made by wallets you're following.
+
+**DeFi**: DeFi swaps, loans, perps, and other trading activity.
+
+**NFTs**: NFT mints, trades, and loans.
+
+**New Trades**: Displays tokens traded by a wallet for the first time. Good for finding new tokens.
 
 **Highlights**: displays noteworthy tx, typically high value transactions.
-
-**DeFi**: displays DeFi swaps, loans and other trading activity.
-
-**NFTs**: displays NFT mints, trades, and loans.
 
 
 
@@ -33,7 +35,7 @@ Below this, four dropdown menus allow you to set your own filters:\
 
 **Filter tokens:** Enter a token or NFT symbol (e.g. USDT; BAYC)
 
-**Min. USD**: This applies a minimum $ threshold for tx in your feed. Entering 5000 for example will only show transactions worth more than $5K.\
+**Min. USD**: This applies a minimum $ threshold for tx in your feed. Entering _5000_ for example will only show transactions worth more than $5K.\
 
 
 Any time you wish to reset the filters you’ve applied, just click **Clear Filters**.

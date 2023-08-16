@@ -13,7 +13,7 @@ If you skipped the onboarding tutorial, your feed will be empty at first. Thereâ
 
 Once thatâ€™s done, you should see recent transactions start to appear in your feed.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 16.39.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 09.11.26.png" alt=""><figcaption></figcaption></figure>
 
 ### How to read your feed
 
