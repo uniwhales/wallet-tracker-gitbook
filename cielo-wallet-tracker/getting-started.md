@@ -33,19 +33,17 @@ When you're done, click **Confirm**. You'll then see the following screen for co
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-06-18 at 19.27.13.png" alt=""><figcaption></figcaption></figure>
 
-Click on an tx type you wish to disable and then hit **Confirm**. You will now see the following notification:
+Click on a tx type you wish to disable and then hit **Confirm**. You will now see the following notification:
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-06-18 at 19.29.03.png" alt=""><figcaption></figcaption></figure>
 
 And that's it: you're now tracking your first wallet using Cielo's Telegram bot.&#x20;
 
-
-
 ### Adding a token
 
 To start tracking a token, repeat the procedure described above but select the **Token** button. You will then see the following option:
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-18 at 19.31.26.png" alt=""><figcaption><p>At present, these are the chains Cielo supports for token tracking.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 10.17.20.png" alt=""><figcaption></figcaption></figure>
 
 Select your desired chain, enter the smart contract address for the token and hit return. You can find this in a block explorer or using a market data site such as [CoinGecko](https://www.coingecko.com/).
 
