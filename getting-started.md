@@ -1,19 +1,18 @@
 # Getting started
 
-Visit[ app.cielo.finance](https://app.cielo.finance/) and you’ll see the Cielo web app in preview mode. This mode displays recent transactions from a preselected number of wallets. While in preview, you can navigate through Cielo using the links in the left sidebar and apply filters from the dropdown menus at the top of the page.\
+Visit[ app.cielo.finance](https://app.cielo.finance/) and you’ll see the Cielo web app in preview mode. This mode displays recent transactions from a preselected number of wallets. While in preview, you can navigate through Cielo using the links in the left sidebar and apply filters from the dropdown menus at the top of the page.
 
-
-The primary pages that form the Cielo web app are as follows:
+The Cielo web app is comprised of the following pages:
 
 [**Feed**](https://app.cielo.finance/feed): This is where recent transactions are displayed. It’s your window into the world of onchain activity and is populated with wallets you’re following.
 
-[**NFTs**](https://app.cielo.finance/nft/trending): Explore NFT collections and view useful statistics on floor prices, top traders, and much more.
+[**NFTs**](https://app.cielo.finance/nft/trending): Explore NFT collections and view useful statistics on floor prices, top traders, and PnL.
 
-[**Explore**](https://app.cielo.finance/explore): Discover themed lists created by Cielo users and follow lists of interest
+[**Explore**](https://app.cielo.finance/explore): Discover themed lists created by Cielo users and follow lists of interest.
 
-[**Configure**](https://app.cielo.finance/configure): This is where you add wallets, create lists, and control settings for the accompanying Cielo Wallet Tracker Telegram bot.
+[**Configure**](https://app.cielo.finance/configure): This is where you add wallets, create lists, and control settings for the Cielo Wallet Tracker Telegram and Discord bots.
 
-[**Stats**](https://app.cielo.finance/stats): View analytics for the wallets, tokens, and networks you’re tracking. This feature is only available to Pro + Whale tier users.
+[**Stats**](https://app.cielo.finance/stats): View analytics for the wallets, tokens, and networks you’re tracking. This feature is only available to Pro and Whale tier users.
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-08 at 16.24.15.png" alt=""><figcaption><p>Cielo web app in preview mode</p></figcaption></figure>
 
