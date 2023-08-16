@@ -18,6 +18,7 @@
 * [Introduction](cielo-wallet-tracker/introduction.md)
 * [Telegram](cielo-wallet-tracker/getting-started.md)
 * [Telegram via web app](cielo-wallet-tracker/telegram-via-web-app.md)
+* [Discord](cielo-wallet-tracker/discord.md)
 * [Adding to Telegram groups + channels](cielo-wallet-tracker/adding-to-telegram-groups-+-channels.md)
 * [Feedback](cielo-wallet-tracker/feedback/README.md)
   * [Privacy policy](cielo-wallet-tracker/feedback/privacy-policy.md)
