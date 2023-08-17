@@ -8,9 +8,9 @@ To initialize the [Cielo Wallet Tracker bot](https://t.me/evmtrackerbot), open i
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-06-18 at 19.10.51.png" alt=""><figcaption></figcaption></figure>
 
-Press the blue menu icon to view wallet settings.
+Press the blue menu icon to view wallet settings:
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-18 at 19.14.12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-18 at 19.14.12.png" alt="" width="261"><figcaption></figcaption></figure>
 
 Four options are displayed:
 

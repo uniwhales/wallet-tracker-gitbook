@@ -46,6 +46,14 @@ The box on the left applies a label to the tx type e.g. _Send, Borrowed, Contrac
 
 The larger box to the right displays the most important information about the tx: the amount being transacted, the token(s) involved, and the sender or recipient where relevant. If the tx involves an NFT, its thumbnail is displayed. Hovering your cursor over this produces a popup linking to marketplaces where this NFT can be viewed. There’s also a link to the Cielo page for that particular NFT collection.
 
+Hover over a token icon to produce the following pop-up:&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-17 at 15.23.05.png" alt=""><figcaption></figcaption></figure>
+
+Then click on the address to copy the token contract or click **Stats** to view current market data:
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-17 at 15.23.17.png" alt="" width="371"><figcaption></figcaption></figure>
+
 If you see a star ⭐ displayed beside a tx, it means it’s the first time the wallet has purchased this particular token.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 16.35.25.png" alt=""><figcaption></figcaption></figure>
