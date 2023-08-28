@@ -82,3 +82,25 @@ Cielo allows you to choose which trading terminal you would like the **Chart** l
 <figure><img src="../.gitbook/assets/Screenshot 2023-06-19 at 14.50.02.png" alt=""><figcaption></figcaption></figure>
 
 Then choose which of the four available terminals you would like to use for charting and hit **Confirm**.
+
+
+
+### Viewing Contract Address
+
+\
+To trade a token that is displayed in the Cielo web app or Telegram bot, the contract address is required. Upon pasting this into a DEX such as Uniswap or an aggregator like Dexscreener, you can trade the token in question. There are a number of ways to obtain the contract address:\
+
+
+1\. Click the **ViewTx** link to inspect the transaction in a block explorer.
+
+2\. Click **Chart** to view the tx in a platform such as Gecko Terminal.
+
+3\. Enable one-click contract address copy within Telegram.
+
+
+
+To enable the latter option when using the Cielo Telegram bot, select **Menu** > **Alert Settings** > **Show Token Address**. When activated, this displays the contract address with each tx alert, allowing you to trade tokens faster and on the platform of your choosing.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-28 at 11.52.29.png" alt=""><figcaption><p>The contract address is shown in red.</p></figcaption></figure>
+
+\
