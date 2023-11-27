@@ -7,7 +7,7 @@ The Cielo web app and Cielo Wallet Tracker bot are free to use. Up to 250 wallet
 
 ### Pro
 
-* 5,000 UWL tokens required
+* 1 **Pro** [UniWhales DAO NFT](https://opensea.io/collection/uniwhales-dao-nft) required
 * Includes access to DAO Telegram channel
 * Track up to 1,000 wallets
 * Run two separate Cielo Wallet Tracker bots
@@ -18,7 +18,7 @@ The Cielo web app and Cielo Wallet Tracker bot are free to use. Up to 250 wallet
 
 ### Whale
 
-* 16,000 UWL tokens required
+* 1 **Whale** [UniWhales DAO NFT](https://opensea.io/collection/uniwhales-dao-nft) required
 * Includes access to DAO Telegram channel
 * Track up to 10,000 wallets
 * Run six separate Cielo Wallet Tracker bots
@@ -26,9 +26,9 @@ The Cielo web app and Cielo Wallet Tracker bot are free to use. Up to 250 wallet
 * Track up to 30 tokens
 * Statistics dashboard&#x20;
 
-To become a Pro or Whale user, you must hold the minimum number of tokens in your web wallet to access that tier. For instance, you require 5,000 UWL to become a Pro user. These tokens should be held in the same wallet you are using with Cielo. UWL can be acquired on [Uniswap](https://info.uniswap.org/#/pools/0x6a61cd16ec0c73b3855beecc4c378dcbdb63f88e).\
+To become a Pro or Whale user, you must hold the corresponding NFT in your web wallet to access that tier. NFTs can be acquired on [OpenSea](https://opensea.io/collection/uniwhales-dao-nft).\
 
 
-Should you later sell your UWL tokens, your Cielo account will revert to a free account and your permissions will reduce accordingly.
+Should you later sell your UniWhales NFT, your Cielo account will revert to a free account and your permissions will reduce accordingly.
 
 \
