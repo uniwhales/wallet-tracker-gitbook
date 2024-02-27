@@ -24,7 +24,9 @@ Monitoring third party wallets including smart contract addresses reveals such e
 * Whale trades
 * New tokens traded by wallets you're following
 
-<figure><img src=".gitbook/assets/Screenshot 2023-08-16 at 08.58.49.png" alt=""><figcaption><p>Cielo web app</p></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/Screenshot 2024-02-27 at 11.45.21.png" alt=""><figcaption><p>Cielo web app</p></figcaption></figure>
 
 Cielo provides an insight into **who’s** trading, **how**, **where**, and **why**.\
 
