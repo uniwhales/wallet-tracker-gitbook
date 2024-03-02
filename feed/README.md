@@ -20,50 +20,36 @@ Click on the name or label assigned to a wallet (e.g. _dolgame.eth_; _Major Aird
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 15.34.31.png" alt=""><figcaption><p>0xprinterr.eth, which has been labeled in Cielo as <strong>Onchain267</strong></p></figcaption></figure>
 
-The **High TX** label alongside this wallet shows that it is highly active onchain.
+The **High TX** label alongside this wallet shows that it is extremely active onchain. If you enable Telegram alerts for this wallet, you'll receive a lot of notifications by default. You can resolve this by clicking the **Edit** icon for this wallet and selecting **Alert Settings**.
 
-...it means the wallet in question has high transaction volume. You can still add the address to Cielo, but it could fill your feed with an excessive number of tx.
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 15.40.47.png" alt="" width="348"><figcaption><p>Cielo lets you specify alerts for each wallet</p></figcaption></figure>
 
-### Transaction header
+## Learning more
 
-The ENS or wallet name assigned within Cielo appears in the top left. Clicking on the wallet name or avatar to the left of it opens a page showing all recent activity for that wallet e.g. [https://app.cielo.finance/feed/0x…72](https://app.cielo.finance/feed/0x)
+Cielo displays multiple data points for each tx that appears in your feed. Click on the icons, wallet name, and other metadata to learn more.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 16.48.06.png" alt=""><figcaption><p>Example of a transaction header</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 15.53.53.png" alt=""><figcaption></figcaption></figure>
 
-To the right of the wallet name, an abbreviation of the wallet address is displayed e.g. _0x73...303f_. Click on this to copy the full address to your clipboard. To the right of this, the list this wallet is assigned to is shown (if applicable). Clicking on the list name opens a new window showing all recent tx for wallets within that list. Finally, to the right of the tx header, the date and time of the transaction is displayed.\
+In the above transaction, the following actions are available:
+
+**Wallet Name** _(Onchain209)_: Click to open wallet profile page
+
+**List** (_Library  Onchain_): Click to open the list containing this wallet
+
+**Wallet Address** _(0xac)_: Click to copy the address to clipboard
+
+**Token Icon**: Click to view recent market data for this token and chart.
+
+**Timestamp** _(3 mins ago)_: Click to open blockchain explorer link.
 
 
-### Transaction body
 
-The box on the left applies a label to the tx type e.g. _Send, Borrowed, Contract Interaction_. Below this, the protocol where the tx took place is labeled where available. The logo of the EVM chain where the tx occurred is also shown.
+If you see a rocket icon displayed beside a tx, it means it’s the first time the wallet has traded this particular token:
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 16.49.05.png" alt=""><figcaption><p>Example of a transaction body</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 16.06.59.png" alt=""><figcaption></figcaption></figure>
 
-The larger box to the right displays the most important information about the tx: the amount being transacted, the token(s) involved, and the sender or recipient where relevant. If the tx involves an NFT, its thumbnail is displayed. Hovering your cursor over this produces a popup linking to marketplaces where this NFT can be viewed. There’s also a link to the Cielo page for that particular NFT collection.
+Depending on the transaction, other information displayed may include include the tx type, number of tokens swapped, token price, and total tx value.
 
-Hover over a token icon to produce the following pop-up:&#x20;
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-17 at 15.23.05.png" alt=""><figcaption></figcaption></figure>
-
-Then click on the address to copy the token contract or click **Stats** to view current market data:
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-17 at 15.23.17.png" alt="" width="371"><figcaption></figcaption></figure>
-
-If you see a star ⭐ displayed beside a tx, it means it’s the first time the wallet has purchased this particular token.
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 16.35.25.png" alt=""><figcaption></figcaption></figure>
-
-Finally, to the right of the transaction body, the elapsed time since the tx occurred is shown e.g. 2 hours. Clicking on this opens a block explorer link to this specific transaction.
-
-### Refreshing your feed
-
-\
-When there are new transactions to view in your feed, a notification like this appears at the top of the page:
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 16.38.54.png" alt=""><figcaption></figcaption></figure>
-
-Clicking on it will update your feed to show the latest tx. If you prefer, you can set your feed to auto-update so that new tx are published automatically. To do so, just click the Auto button in the bottom right. The icon will turn yellow to denote that auto-updates are on. Click it again to deactivate.
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 16.37.47.png" alt=""><figcaption></figcaption></figure>
+###
 
 \
