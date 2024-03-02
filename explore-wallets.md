@@ -3,6 +3,8 @@
 The [explore](https://app.cielo.finance/explore) section of the Cielo web app is where you can browse public lists. These are lists that have been created by other Cielo users and made shareable so that anyone can view and follow them.\
 
 
+<figure><img src=".gitbook/assets/Screenshot 2024-03-02 at 16.49.08.png" alt=""><figcaption></figcaption></figure>
+
 [Explore](https://app.cielo.finance/explore) is a good place to start if you’re new to Cielo. It allows you to get a feel for the sort of lists that users are creating and to follow and unfollow lists at will. Whenever you click the **Follow** button alongside a list, transactions made by wallets within that list will start to appear in your feed.
 
 {% hint style="info" %}
@@ -38,8 +40,6 @@ Any Cielo user can create a list and set it to public. Doing so will make it vis
 {% hint style="info" %}
 **Note**: Setting a list as public does not reveal any information about its creator. Your wallet address will not be visible and there will be no personal details shown unless you chose to add your Twitter.
 {% endhint %}
-
-<figure><img src=".gitbook/assets/Screenshot 2023-06-09 at 19.36.56.png" alt=""><figcaption><p>Viewing recent tx for a public list called <a href="https://app.cielo.finance/feed/preview/586-Debank-Top-Wallets">Debank Top Wallets</a>.</p></figcaption></figure>
 
 \
 Public lists are a great way to glean how other people are using Cielo and to gather ideas of your own. They also provide a quick way to fill your feed with interesting tx and monitor the types of trades that are taking place onchain every day.\
