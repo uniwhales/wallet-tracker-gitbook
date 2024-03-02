@@ -1,6 +1,26 @@
 # Getting started
 
-Visit[ app.cielo.finance](https://app.cielo.finance/) and you’ll see the Cielo web app in preview mode. This mode displays recent transactions from a preselected number of wallets. While in preview, you can navigate through Cielo using the links in the left sidebar and apply filters from the dropdown menus at the top of the page.
+To get started, visit[ app.cielo.finance](https://app.cielo.finance/) where you’ll see the Cielo web app in preview mode:
+
+
+
+<figure><img src=".gitbook/assets/Screenshot 2024-03-02 at 13.01.00.png" alt=""><figcaption><p>Cielo web app: preview mode</p></figcaption></figure>
+
+
+
+**My Feed** displays recent transactions by wallets Cielo has preselected for you. You can edit these wallets and add new ones once you're logged in.
+
+To start using Cielo, you need to log in by connecting your web wallet. To do so, click the **Connect Wallet** button in the bottom left of the page.
+
+<figure><img src=".gitbook/assets/Screenshot 2024-03-02 at 13.09.07.png" alt=""><figcaption></figcaption></figure>
+
+Your web wallet will prompt you to sign a message confirming you wish to log in to Cielo.
+
+{% hint style="info" %}
+Note: Signing this transaction does not authorize Cielo to access assets in your wallet. Its sole function is to verify that you control the wallet.
+{% endhint %}
+
+
 
 The Cielo web app is comprised of the following pages:
 
@@ -14,23 +34,9 @@ The Cielo web app is comprised of the following pages:
 
 [**Stats**](https://app.cielo.finance/stats): View analytics for the wallets, tokens, and networks you’re tracking. This feature is only available to Pro and Whale tier users.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-08 at 16.24.15.png" alt=""><figcaption><p>Cielo web app in preview mode</p></figcaption></figure>
 
-To fully access Cielo and populate the dashboard with wallets of your choice you need to connect your web wallet. To do so, click the **Connect** button at the bottom of the page. This will initiate the onboarding tutorial.
 
 <figure><img src=".gitbook/assets/chrome-capture-2023-6-12 (1).gif" alt=""><figcaption><p>Connecting to Cielo for the first time.</p></figcaption></figure>
-
-
-
-<figure><img src=".gitbook/assets/1_Cielo_onboarding_start.png" alt=""><figcaption></figcaption></figure>
-
-Click **Get Started** and you will be prompted to connect using MetaMask or Wallet Connect. Your web wallet will then ask you to sign a message confirming you wish to log in to Cielo.
-
-<figure><img src=".gitbook/assets/Screenshot 2023-06-08 at 16.28.43.png" alt=""><figcaption><p>MetaMask tx signing prompt</p></figcaption></figure>
-
-{% hint style="info" %}
-Note: Signing this transaction does not authorize Cielo to access any assets in your wallet. Its sole function is to verify that you control the wallet.
-{% endhint %}
 
 
 
