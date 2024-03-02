@@ -1,18 +1,13 @@
 # Public Lists
 
-The [explore](https://app.cielo.finance/explore) section of the Cielo web app is where you can browse public lists. These are lists that have been created by other Cielo users and made shareable so that anyone can view and follow them.\
+Public lists are themed wallet lists that have been created by Cielo users. Anyone can view and follow a public list. You can also create and share your own public lists.\
 
 
 <figure><img src=".gitbook/assets/Screenshot 2024-03-02 at 16.49.08.png" alt=""><figcaption></figcaption></figure>
 
-[Explore](https://app.cielo.finance/explore) is a good place to start if you’re new to Cielo. It allows you to get a feel for the sort of lists that users are creating and to follow and unfollow lists at will. Whenever you click the **Follow** button alongside a list, transactions made by wallets within that list will start to appear in your feed.
-
 {% hint style="info" %}
 **Note**: The wallets contained within a public list count towards the total number of Cielo wallets you can follow. If following a particular list will send you over your maximum wallet threshold, you will receive an alert.
 {% endhint %}
-
-If following a certain list will exceed your maximum wallets, you can alternatively bookmark the list. This allows you to view recent transactions for this list, even though you are not following its wallets. In the public list explorer, click on the name of any list and it will open in a new window.\
-
 
 ### Browsing public lists
 
