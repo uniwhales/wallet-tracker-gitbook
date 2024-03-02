@@ -1,17 +1,10 @@
-# Cielo feed
+# Feed
 
-Think of your Cielo feed as an onchain news feed. It contains a stream of the latest transactions (tx) from wallets and lists you’re following. If you’re a serious onchain sleuth, it’s here you’ll be spending most of your time: watching transactions as they arrive in almost real-time, applying filters from the dropdown menus, and clicking through to transactions and users of interest to learn more.
+Your feed displays recent transactions (tx) from wallets you’re following. Each row represents an onchain tx and is enhanced with labeling and links to aid your understanding.
 
-Your feed assigns labeling to each transaction to aid your understanding. For instance, it will tell you the DEX or market where the tx occurred, the value in USD and the native currency (e.g. ETH), and the elapsed time since the tx took place. If an NFT was purchased, a thumbnail is also shown.
-
-If you skipped the onboarding tutorial, your feed will be empty at first. There’s a couple of ways to easily remedy this:\
+A typical example might the tx type (_Swap_), network (_Arbitrum_), protocol (_Uniswap_), tokens exchanged (_ETH>USDC_), tx value ($800) and  elapsed time since the tx occured (_2 mins ago_). If an NFT was involved, a thumbnail of the NFT is also shown.
 
 
-1\. Visit [Explore](https://app.cielo.finance/explore) and follow one or more lists that are of interest.
-
-2\. Go to [Configure](https://app.cielo.finance/configure) and add wallets or lists of your own.
-
-Once that’s done, you should see recent transactions start to appear in your feed.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 09.11.26.png" alt=""><figcaption></figcaption></figure>
 
