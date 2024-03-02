@@ -2,23 +2,25 @@
 
 Your feed displays recent transactions (tx) from wallets you’re following. Each row represents an onchain tx and is enhanced with labeling and links to aid your understanding.
 
-A typical example might the tx type (_Swap_), network (_Arbitrum_), protocol (_Uniswap_), tokens exchanged (_ETH>USDC_), tx value ($800) and  elapsed time since the tx occured (_2 mins ago_). If an NFT was involved, a thumbnail of the NFT is also shown.
+A typical entry might show the wallet (_Address or ENS/.sol_) tx type (_Swap_), network (_Arbitrum_), protocol (_Uniswap_), tokens exchanged (_ETH>USDC_), tx value ($800), and  elapsed time since the tx occured (_2 mins ago_). For NFTs a thumbnail is also shown.
 
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 15.18.25.png" alt=""><figcaption></figcaption></figure>
 
+## Reading your feed
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 09.11.26.png" alt=""><figcaption></figcaption></figure>
+A single transaction looks like this:
 
-### How to read your feed
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 15.22.57.png" alt=""><figcaption></figcaption></figure>
 
-Your feed displays transactions chronologically and groups them by date and time for ease of comprehension. A cluster of tx from a single wallet within the space of a few minutes, for instance, will be grouped together.
+Or if a wallet makes a series of related transactions within a short timeframe, Cielo will cluster them:
 
-Here is an example of a transaction as it appears in your Cielo feed:
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 15.28.21.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 14.30.29.png" alt=""><figcaption></figcaption></figure>
+Click on the name or label assigned to a wallet (e.g. _dolgame.eth_; _Major Airdrop Receiver_) to open a new page for that wallet profile. For example, [**this**](https://app.cielo.finance/profile/0xe3c5f195efb34d723543d8bd5bf85a910a22852e) is the wallet profile for 0xprinterr.eth.
 
-If you see a green **High TX** label like this:
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 15.34.31.png" alt=""><figcaption><p>0xprinterr.eth, which has been labeled in Cielo as <strong>Onchain267</strong></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-07-05 at 17.02.34.png" alt=""><figcaption></figcaption></figure>
+The **High TX** label alongside this wallet shows that it is highly active onchain.
 
 ...it means the wallet in question has high transaction volume. You can still add the address to Cielo, but it could fill your feed with an excessive number of tx.
 
