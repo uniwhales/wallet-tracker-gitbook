@@ -1,6 +1,6 @@
 ---
 description: What is Cielo?
-cover: .gitbook/assets/Cielo_Blog_Artwork.jpeg
+cover: .gitbook/assets/Blog Artwork (1).png
 coverY: 0
 ---
 
