@@ -1,57 +1,27 @@
 # Filters
 
-By default, your feed populates with the latest transactions from all of the wallets and lists you’re following. If you’d like to zero in on a particular network, transaction type, list, or token, however, you can. Not only does this prevent information overload, but it makes it easier to discern trends for verticals that you’re interested in such as NFTs or DeFi.
+By default, your feed displays the latest tx from all the wallets you’re following. Use the tabs at the top of your feed to filter results. These allow you to focus on a specific list, use case, network, tx type, and size.&#x20;
 
-The dropdown menus at the top of your feed can be used to temporarily filter out tx you don’t want to see, letting you focus on the most important stuff. When you’re done, you can reset your feed to its default state in just a click.\
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 16.12.38.png" alt=""><figcaption></figcaption></figure>
 
+**All activity:** Shows all tx made by wallets you're following. Click to filter by New Trades, DeFi, NFTs, or Highlights.
 
-{% hint style="info" %}
-**Tip**: If there’s a particular filter you use a lot in your Cielo feed, bookmark it for future reference. Cielo creates a unique URL for each of the filters applied (e.g. NFT+Polygon), making it easy to load these settings by revisiting the URL.
-{% endhint %}
+**Chains:** Filter to display tx from specific networks. You can make multiple selections.
 
-At the top of your feed, there are five icons that apply preset filters when clicked:\
+**Transaction types**: Filter to display specific tx e.g _Swaps_. You can make multiple selections.
 
+**Tokens/NFTs:** Enter a token or NFT name e.g. _ARB_ or select from the Top Tokens popup. You can make multiple selections.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 09.15.24.png" alt=""><figcaption></figcaption></figure>
+**USD Value**: Enter a minimum tx value between 1 and 250,000 (USD).
 
-**All:** the default setting for your feed, displaying all tx made by wallets you're following.
+**Lists**: Filter to show wallet activity from specific lists you're following.
 
-**DeFi**: DeFi swaps, loans, perps, and other trading activity.
+Using these options, you can set multiple filters that will determine the tx shown in your feed. After enabling filters, click **Save** and enter a label to store these settings for future use e.g. _New Swaps on Blast >$10K_.
 
-**NFTs**: NFT mints, trades, and loans.
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 16.27.31.png" alt="" width="353"><figcaption></figcaption></figure>
 
-**New Trades**: Displays tokens traded by a wallet for the first time. Good for finding new tokens.
-
-**Highlights**: displays noteworthy tx, typically high value transactions.
-
-
-
-Below this, four dropdown menus allow you to set your own filters:\
-
-
-**Lists**: Displays tx from a specific list.
-
-**Tx Types & Chains**: Displays tx from specific networks and transaction types (e.g. _Avalanche + Ethereum + NFT Lending + Reward_)
-
-**Filter tokens:** Enter a token or NFT symbol (e.g. USDT; BAYC)
-
-**Min. USD**: This applies a minimum $ threshold for tx in your feed. Entering _5000_ for example will only show transactions worth more than $5K.\
-
-
-Any time you wish to reset the filters you’ve applied, just click **Clear Filters**.
-
-<figure><img src="../.gitbook/assets/cielo filters.gif" alt=""><figcaption><p>Applying filters to show Ethereum swaps >$10K.</p></figcaption></figure>
-
-
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-09 at 12.21.58.png" alt=""><figcaption><p>Applying filters for USDC tx >$5,000 on Ethereum</p></figcaption></figure>
-
-{% hint style="info" %}
-**Note**: You can mix and match filters to show multiple search parameters e.g. _Avalanche **+** Ethereum **+** NFT lending **+** perps **+** ETH._
-{% endhint %}
+Any time you wish to reset the filters you’ve applied, click **Clear all**.
 
 ## Summary
 
-Your Cielo feed is a powerful tool for viewing onchain transactions and making sense of them at a glance. These could be your own trades, those of influencers you’re following, or of an entire sector you’re trying to monitor e.g. onchain perps.
-
-Using the basic filters that appear at the top of your feed, you can quickly burrow deeper into areas of interest, be it a particular blockchain, transaction type, wallet, or theme.
+Your Cielo feed is a powerful tool for viewing onchain transactions and making sense of them at a glance. These could be your own trades, those of influencers you’re following, or of an entire sector you’re trying to monitor e.g. DeFi.
