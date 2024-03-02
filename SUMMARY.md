@@ -5,7 +5,7 @@
 * [Feed](feed/README.md)
   * [Filters](feed/filtering.md)
 * [Explore Wallets](explore-wallets.md)
-* [Public Lists](lists.md)
+* [Public Lists](public-lists.md)
 * [Stats](stats.md)
 * [My Wallets](my-wallets/README.md)
   * [Tokens](my-wallets/tokens.md)
