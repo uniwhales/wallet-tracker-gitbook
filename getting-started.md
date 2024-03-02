@@ -48,4 +48,6 @@ The Cielo web app comprises the following pages:
 
 
 
+<figure><img src=".gitbook/assets/Screenshot 2024-03-02 at 15.08.27.png" alt="" width="195"><figcaption><p>Cielo web app menu</p></figcaption></figure>
+
 \
