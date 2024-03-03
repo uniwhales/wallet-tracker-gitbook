@@ -1,14 +1,10 @@
 # Tokens
 
-Click the [tokens tab](https://app.cielo.finance/configure/tokens) at the top of the configure page to add and edit Telegram/Discord bot alerts for token tracking. Cielo supports alerts for transactions involving tokens issued on Ethereum, Arbitrum, Optimism, Base, and Polygon.
+Cielo supports alerts for token transactions on Ethereum, Arbitrum, Optimism, Base, and Polygon.
 
-You can follow up to five tokens and receive alerts sent directly to your Telegram/Discord bots. (Pro users can track up to 10 tokens and Whale can track 30.)
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 09.55.56.png" alt=""><figcaption></figcaption></figure>
+Free users can follow up to five tokens and receive Telegram/Discord alerts while Pro users can track 10 tokens and Whale can track 30.
 
 To get started, click the **Add tokens** button on the [tokens page](https://app.cielo.finance/configure/tokens) and enter the smart contract address for the token you wish to follow. (You can find this on a block explorer for the network in question or from a market data aggregator such as CoinGecko.)
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 09.53.55.png" alt="" width="375"><figcaption><p>Adding ApeCoin (APE)</p></figcaption></figure>
 
 After entering the token address, select a chain, a minimum tx amount, and choose a Telegram bot to assign alerts to. Then click the **Add token** button to save your selection.\
 
