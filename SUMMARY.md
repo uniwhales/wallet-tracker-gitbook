@@ -11,7 +11,7 @@
   * [Lists](my-wallets/lists.md)
   * [Tokens](my-wallets/tokens.md)
 * [Settings](settings.md)
-* [Subscription](subscription.md)
+* [Subscribe](subscribe.md)
 
 ## Discord + Telegram Bots
 
