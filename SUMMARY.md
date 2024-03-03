@@ -8,6 +8,7 @@
 * [Public Lists](explore-wallets.md)
 * [Stats](stats.md)
 * [My Wallets](my-wallets/README.md)
+  * [Lists](my-wallets/lists.md)
   * [Tokens](my-wallets/tokens.md)
 * [Settings](settings.md)
 * [Subscription](subscription.md)
