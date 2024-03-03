@@ -34,13 +34,13 @@ In the above transaction, the following actions are available:
 
 **Wallet Name** _(Onchain209)_: Click to open wallet profile page
 
-**List** (_Library  Onchain_): Click to open the list containing this wallet
+**List** (_Library Onchain_): Click to open the list containing this wallet
 
 **Wallet Address** _(0xac)_: Click to copy the address to clipboard
 
-**Token Icon**: Click to view recent market data for this token and chart.
+**Token Icon**: Click to view recent market data for this token and chart (You can change your default chart provider in [Settings](https://app.cielo.finance/settings))
 
-**Timestamp** _(3 mins ago)_: Click to open blockchain explorer link.
+**Timestamp** _(3 mins ago)_: Click to open blockchain explorer link
 
 
 
