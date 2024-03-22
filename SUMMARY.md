@@ -12,6 +12,7 @@
   * [Tokens](my-wallets/tokens.md)
 * [Settings](settings.md)
 * [Subscribe](subscribe.md)
+* [Cielo Web Extension](cielo-web-extension.md)
 
 ## Discord + Telegram Bots
 
