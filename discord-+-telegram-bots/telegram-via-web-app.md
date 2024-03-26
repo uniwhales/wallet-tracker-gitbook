@@ -14,6 +14,6 @@ By default, Cielo allows you to use one Telegram bot. Any wallets or tokens you 
 
 This allows you to map specific tx types to a specific bot. For instance, you could use one bot for your own wallets, another for NFT traders, and another for DEX whales.
 
-To activate your Telegram bots, on the [configure](https://app.cielo.finance/configure) page of Cielo, click the Telegram icon. This will open a popup where you can activate and deactivate your bots.
+To activate your Telegram bots, in the Cielo web app visit [Settings](https://app.cielo.finance/settings). This will open a popup where you can activate and deactivate your bots.
 
 To change which bot a wallet is assigned to, on the configure page, click the edit icon alongside the wallet name. In the popup that appears, click the dropdown titled **Telegram bot**. Pick a desired bot and then hit **Save changes**.

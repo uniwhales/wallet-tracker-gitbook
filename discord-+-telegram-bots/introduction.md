@@ -12,8 +12,8 @@ The Cielo Wallet Tracker works as a customizable bot that detects onchain transa
 
 Using the Cielo Wallet Tracker you can:
 
-* Track up to 250 wallets
-* Track up to 5 tokens
+* Track wallets
+* Track tokens
 * Receive real-time alerts for swaps, NFT mints, LP adds etc
 * Add the bot to Telegram groups and Discord channels
 

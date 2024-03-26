@@ -20,15 +20,15 @@ The Cielo web app and Telegram/Discord bots are free to use. Up to 250 wallets c
 
 * Enhanced web app
 * Follow 10,000 wallets
-* 100 Solana wallets inc.
+* 200 Solana wallets inc.
 * Track 30 tokens
 * Create 20 lists
 * 10 Discord channels
-* 6 Telegram bots
+* 9 Telegram bots
 * Wallet discovery
 * Onchain summary
 * API
 
-Learn more about Cielo plans and upgrade [**here**](https://app.cielo.finance/settings/plans). Pro and Whale plans can be paid for monthly using credit/debit card or six-monthly using crypto. Should you subscription expire, your Cielo account will revert to free and your permissions will reduce accordingly.
+Learn more about Cielo plans and upgrade [**here**](https://app.cielo.finance/settings/plans). Pro and Whale plans can be purchased for one month, six months, or 12 months using credit/debit card. They can alternatively be purchased for six moths or 12 months using crypto. Should you subscription expire, your Cielo account will revert to free and your permissions will reduce accordingly.
 
 \
