@@ -27,6 +27,18 @@ Tick the checkbox at the top of the page to select all wallets or select individ
 
 After selecting one or more wallets, click the pencil icon to make edits. When you're done, click **Save Changes**.
 
+
+
+## Token Filters
+
+Cielo allows you set alerts when a wallet you're following trades specific tokens or NFTs. That way you can receive a notification when wallets swap particular tokens you're interested in and screen the rest of their onchain activity.
+
+To set an alert, in **My Wallets** click the filter icon for a particular wallet or select all wallets if you want to batch add a token alert.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-27 at 19.36.32.png" alt="" width="342"><figcaption><p>Click the filter icon on the right to add a token alert</p></figcaption></figure>
+
+In the popup window that appears, enter the token address and chain for each token alert you wish to add. You can enable up to 10 unique token alerts per wallet.
+
 ## Lists
 
 Your Cielo feed can be likened to a music player, populated with a diverse collection of sounds. Cielo lists are your playlists for managing all this music 🎶
@@ -59,7 +71,5 @@ To permanently delete a list, load the list in **My Wallets** and then click **D
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-03 at 14.00.20.png" alt="" width="343"><figcaption></figcaption></figure>
 
 If you choose to retain the wallets within the list, they will remain in your Cielo feed and will revert to _Unassigned_. You can subsequently add these wallets to a new or existing list if desired.
-
-
 
 \
