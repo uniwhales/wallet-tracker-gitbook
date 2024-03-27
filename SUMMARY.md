@@ -9,7 +9,6 @@
 * [Insights](insights.md)
 * [My Wallets](my-wallets/README.md)
   * [Lists](my-wallets/lists.md)
-  * [Tokens](my-wallets/tokens.md)
 * [Custom Alerts](custom-alerts.md)
 * [Settings](settings.md)
 * [Subscribe](subscribe.md)
