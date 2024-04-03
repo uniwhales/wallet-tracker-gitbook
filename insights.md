@@ -6,7 +6,7 @@ description: >-
 
 # Insights
 
-Insights Cgives you an overview of the activity for addresses you're following. It aggregates all of the recent transactions for your feed based on activity in the last 24 hours, 7 days, or 30 days. Click the tabs in the top right of the stats page to cycle through timeframes.
+Insights gives you an overview of the activity for addresses you're following. It aggregates all of the recent transactions for your feed based on activity in the last 24 hours, 7 days, or 30 days. Click the tabs in the top right of the stats page to cycle through timeframes.
 
 
 
