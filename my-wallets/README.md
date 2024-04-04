@@ -29,6 +29,20 @@ After selecting one or more wallets, click the pencil icon to make edits. When y
 
 
 
+## Bulk Edits
+
+You can edit multiple wallets to save time. This allows you to bulk edit Telegram/Discord alerts for all of the wallets you're following or a subset of wallets. For instance, you can enable Telegram alerts for _Swaps over $100_ or for _NFT Mints on Base_. You will still be able to see all of the onchain activity for these wallets in your Cielo feed but will only receive bot alerts for tx that match your criteria.
+
+To make a bulk edit, click the checkbox in the top left of the screen. This will select all wallets on the page. To select all wallets that youi're following, click **Select all XXX of your wallets**:
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-04 at 10.26.26.png" alt=""><figcaption></figcaption></figure>
+
+You can alternatively select all wallets within a specific list. To do so, click the **Lists** tab at the top of the poage and select the desired list. Then tick the **All Wallets** box.
+
+When you have selected the wallets you wish to bulk edit, click **Alert Settings** or **Token / NFT Filters** _(Pro+Whale)_ at the bottom of the page.
+
 ## Token Filters
 
 Cielo allows you set alerts when a wallet you're following trades specific tokens or NFTs _(Pro+Whale)._ That way you can receive a notification when wallets swap particular tokens you're interested in and screen the rest of their onchain activity.
