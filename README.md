@@ -22,5 +22,6 @@ You don’t need to know every last feature of Cielo to start using Cielo. Here�
 10. Next, click **Alert Settings** (bottom of page) or click the edit icon to the right of the wallet label.
 11. Finally pick the transaction types, USD value, and networks you wish to receive Telegram/Discord alerts for.
 12. View all transactions by wallets you’re following in your Cielo [feed](https://app.cielo.finance/feed). Use the tabs at the top of your feed to filter results and click **Save** to store your favorite filters.
+13. Unlock additional features and more wallets by visiting [**Settings**](https://app.cielo.finance/settings) and subscribing to a Pro or Whale plan.
 
 \
