@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Quick Start Guide](README.md)
-* [Overview](<README (1).md>)
+* [Overview](README.md)
+* [Quick Start Guide](<README (1).md>)
 * [Getting started](getting-started.md)
 * [Feed](feed/README.md)
   * [Filters](feed/filtering.md)
