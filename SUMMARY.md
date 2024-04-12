@@ -22,5 +22,6 @@
 * [Telegram via web app](discord-+-telegram-bots/telegram-via-web-app.md)
 * [Telegram groups + channels](discord-+-telegram-bots/telegram-groups-+-channels.md)
 * [Discord](discord-+-telegram-bots/discord.md)
+* [FAQ](discord-+-telegram-bots/faq.md)
 * [Feedback](discord-+-telegram-bots/feedback/README.md)
   * [Privacy policy](discord-+-telegram-bots/feedback/privacy-policy.md)

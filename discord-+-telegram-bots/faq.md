@@ -1,0 +1,43 @@
+---
+description: >-
+  If you're experiencing an issue with Cielo, read the Frequently Asked
+  Questions to identify a solution. If you're still stuck, contact support.
+---
+
+# FAQ
+
+<details>
+
+<summary>Why aren't I receiving alerts?</summary>
+
+If you’re not receiving Telegram or Discord alerts, go to [Settings](https://app.cielo.finance/settings) and make sure you have at least one Telegram or Discord bot activated. Flick the toggle switch to blue to activate a Telegram bot.
+
+Next, go to [My Wallets](https://app.cielo.finance/my-wallets) and select the wallets you wish to receive alerts for. Click the edit icon beside the wallet or select all and click **Alert Settings**. Make sure that alerts are being sent to the Telegram bot or Discord channel you’ve activated under settings.\
+\
+Finally, click on **Transaction type filters** and make sure you’ve enabled alerts for the tx you wish to see.
+
+Remember, the number of Telegram/Discord alerts you can receive is capped at 120 per hour for Free users and 1,000/3,000 for Pro/Whale. If you hit this limit, alerts will temporarily be halted but will resume at the start of the next hour.
+
+\
+
+
+</details>
+
+<details>
+
+<summary>I’m receiving too many alerts</summary>
+
+Go to [My Wallets](https://app.cielo.finance/my-wallets) and select all wallets or select the wallets that are sending too many alerts. Click Alert Settings and adjust the filters. There are several ways to reduce the number of alerts you receive:
+
+1\. Set a minimum USD tx value. This will filter out low value tx.
+
+2\. Reduce the number of tx types you receive alerts for.
+
+3\. Reduce the number of chains you receive alerts for.
+
+4\. Disable alerts for wallets marked High tx that are particularly active.
+
+\
+
+
+</details>
