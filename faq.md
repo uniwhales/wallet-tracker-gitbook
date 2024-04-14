@@ -10,7 +10,7 @@ description: >-
 
 <summary>Why aren't I receiving alerts?</summary>
 
-If you’re not receiving Telegram or Discord alerts, go to [Settings](https://app.cielo.finance/settings) and make sure you have at least one Telegram or Discord bot activated. Flick the toggle switch to blue to activate a Telegram bot.
+If you’re not receiving Telegram or Discord alerts, go to **Settings** > [**Advanced**](https://app.cielo.finance/settings/advanced) and make sure you have at least one Telegram or Discord bot activated. Flick the toggle switch to blue to activate a Telegram bot.
 
 Next, go to [My Wallets](https://app.cielo.finance/my-wallets) and select the wallets you wish to receive alerts for. Click the edit icon beside the wallet or select all and click **Alert Settings**. Make sure that alerts are being sent to the Telegram bot or Discord channel you’ve activated under settings.\
 \
@@ -38,6 +38,24 @@ Go to [My Wallets](https://app.cielo.finance/my-wallets) and select all wallets 
 4\. Disable alerts for wallets marked High tx that are particularly active.
 
 \
+
+
+</details>
+
+<details>
+
+<summary>How do I change the default charting tool?</summary>
+
+By default, this is set to GeckoTerminal but Cielo supports multiple options. Go to **Settings** > [**Advanced** ](https://app.cielo.finance/settings/advanced)and select a different charting tool from the dropdown menu. Options include DEX Screener, DEXTools, and Photon.\
+
+
+</details>
+
+<details>
+
+<summary>How do I view the smart contract address for token alerts?</summary>
+
+To enable this feature, go to **Settings** > [**Advanced** ](https://app.cielo.finance/settings/advanced) and check the box marked _Display Token Address in Alerts_. Now, whenever you receive a Telegram or Discord alert for a token swap, the smart contract address will be displayed and can be copied in one click.\
 
 
 </details>
