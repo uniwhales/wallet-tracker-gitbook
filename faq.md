@@ -53,7 +53,7 @@ By default, this is set to GeckoTerminal but Cielo supports multiple options. Go
 
 <details>
 
-<summary>How do I view the smart contract address for token alerts?</summary>
+<summary>How do I view the token contract address in swap alerts?</summary>
 
 To enable this feature, go to **Settings** > [**Advanced** ](https://app.cielo.finance/settings/advanced) and check the box marked _Display Token Address in Alerts_. Now, whenever you receive a Telegram or Discord alert for a token swap, the smart contract address will be displayed and can be copied in one click.\
 
