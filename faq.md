@@ -59,3 +59,29 @@ To enable this feature, go to **Settings** > [**Advanced** ](https://app.cielo.f
 
 
 </details>
+
+<details>
+
+<summary>Where can I find wallets to follow?</summary>
+
+The following resources can be used to find wallets and add them to your Cielo feed:
+
+* [Public Lists](https://app.cielo.finance/public-lists)
+* [Wallet Discovery](https://app.cielo.finance/wallet-discovery) (Pro+Whale)
+* [Onchain Intrigue](https://t.me/onchainintrigue)
+* [Etherscan](https://etherscan.io/) and other block explorers: filter tokens by top holders and add major wallets
+* Dex Screener and DEXTools: In [Dex Screener](https://dexscreener.com/) click on **Top Traders** for a token, open the wallet in a block explorer and copy the address
+* Twitter/Telegram: Follow accounts that share the wallets of top traders
+
+\
+
+
+</details>
+
+<details>
+
+<summary>How do I track tokens?</summary>
+
+Go to [Custom Alerts](https://app.cielo.finance/custom-alerts) and select **Add Alert**. Enter the token address, select minimum swap value, and select the network.
+
+</details>
