@@ -44,6 +44,14 @@ Go to [My Wallets](https://app.cielo.finance/my-wallets) and select all wallets 
 
 <details>
 
+<summary>Why are there certain wallets that I can't follow?</summary>
+
+Some wallets generate an extremely high volume of transactions. To prevent your feed and alerts from being overwhelmed with tx, you are unable to follow these wallets. Only a fraction of all wallets fall into this category, which typically includes bots and smart contract addresses for popular protocols.
+
+</details>
+
+<details>
+
 <summary>How do I change the default charting tool?</summary>
 
 By default, this is set to GeckoTerminal but Cielo supports multiple options. Go to **Settings** > [**Advanced** ](https://app.cielo.finance/settings/advanced)and select a different charting tool from the dropdown menu. Options include DEX Screener, DEXTools, and Photon.\
