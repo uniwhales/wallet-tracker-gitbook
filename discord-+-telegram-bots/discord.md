@@ -10,7 +10,7 @@ The bot does not require admin privileges to be added to a public channel: it si
 If the owner of a Discord server is willing to allow a Cielo bot to be added to a channel, but does not wish to share admin rights, they can connect to the Cielo [web app](https://app.cielo.finance/) themselves and complete the process. Each Cielo user can access one Discord bot for free.
 {% endhint %}
 
-To activate a Discord bot, first make sure your web wallet is connected to [Cielo](https://app.cielo.finance/). In [configure](https://app.cielo.finance/configure), click the Discord icon in the top right, connect to Discord and select the server you wish to authenticate. Then return to Cielo, refresh the configure page and click the Discord icon again. You will now be able to select a channel within the Discord server you have connected to receive bot notifications.
+To activate a Discord bot, first make sure your web wallet is connected to [Cielo](https://app.cielo.finance/). In [Alerts](https://app.cielo.finance/settings/alerts), connect to Discord and select the server you wish to authenticate. Then return to Cielo, refresh the page and click the Discord icon again. You will now be able to select a channel within the Discord server you have connected to receive bot notifications.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 14.57.20.png" alt=""><figcaption><p>Discord activated within the Cielo app.</p></figcaption></figure>
 
