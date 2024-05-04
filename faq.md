@@ -88,6 +88,16 @@ The following resources can be used to find wallets and add them to your Cielo f
 
 <details>
 
+<summary>How do I bulk edit wallets?</summary>
+
+In [My Wallets](https://app.cielo.finance/my-wallets), click the checkbox to the left of **All Wallets**. This will select all wallets on the current page. To select all of the wallets you are following, click on the text that reads "Select all XXX of your wallets."
+
+Then click the button at the bottom of the page marked Alert Settings. Any changes you subsequently make will be applied to all of the wallets you have selected. To bulk edit wallets within a specific list, first select the list from the dropdown menu at the top of the page and then follow the instructions above.
+
+</details>
+
+<details>
+
 <summary>How do I track tokens?</summary>
 
 Go to [Custom Alerts](https://app.cielo.finance/custom-alerts) and select **Add Alert**. Enter the token address, select minimum swap value, and select the network.
