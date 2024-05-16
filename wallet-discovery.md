@@ -1,8 +1,7 @@
 ---
 description: >-
-  Your Cielo feed is only as good as the wallets it contains. The Wallet
-  Discovery dashboard helps you identify valuable wallets and follow them in one
-  click.
+  Your Cielo feed is only as good as the wallets it contains. Wallet Discovery
+  (Pro+Whale) helps you identify valuable wallets and follow them in one click.
 ---
 
 # Wallet Discovery
