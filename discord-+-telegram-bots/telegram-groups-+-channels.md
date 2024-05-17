@@ -1,4 +1,4 @@
-# Adding to groups + channels
+# Telegram groups + channels
 
 You can add the Cielo Wallet Tracker to any Telegram group you’re a member of (provided you have admin rights).
 
@@ -12,9 +12,11 @@ There are many reasons why this might be desirable:
 
 ### Adding to a group
 
-To add the bot to a group you're a member of, click the blue menu icon in the [Cielo Wallet Tracker](https://t.me/EVMTrackerbot) channel and select _/main_.
+To add the bot to a group you're a member of, click the blue menu icon in the [Cielo Wallet Tracker](https://t.me/EVMTrackerbot) channel and select _/menu_.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-18 at 20.23.34.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-17 at 13.52.44.png" alt=""><figcaption></figcaption></figure>
 
 Then click **Group Alerts** followed by **Add to group.**
 
