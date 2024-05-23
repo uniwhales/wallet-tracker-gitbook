@@ -52,6 +52,16 @@ Some wallets generate an extremely high volume of transactions. To prevent your 
 
 <details>
 
+<summary>Why can't I access full transaction data for certain wallets?</summary>
+
+Cielo provides transaction alerts and PnL for hundreds of thousands of EVM and non-EVM wallets. However, with certain wallets providing full or even partial data is impossible. This is typically because the wallet in question is a complex MEV bot that routes trades through its own closed source contracts.
+
+Some of these bots, which are operated by sophisticated teams, perform hundreds of trades within a single block. For this reason, it is impractical to provide transaction data or accurate PnL for these wallets.
+
+</details>
+
+<details>
+
 <summary>How do I change the default charting tool?</summary>
 
 By default, this is set to GeckoTerminal but Cielo supports multiple options. Go to **Settings** > [**Advanced** ](https://app.cielo.finance/settings/advanced)and select a different charting tool from the dropdown menu. Options include DEX Screener, DEXTools, and Photon.\
