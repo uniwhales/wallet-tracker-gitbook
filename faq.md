@@ -48,6 +48,8 @@ Go to [My Wallets](https://app.cielo.finance/my-wallets) and select all wallets 
 
 Some wallets generate an extremely high volume of transactions. To prevent your feed and alerts from being overwhelmed with tx, you are unable to follow these wallets. Only a fraction of all wallets fall into this category, which typically includes bots and smart contract addresses for popular protocols.
 
+You are unable to follow Solana wallets that generate more than 3,000 tx per day, while high volume EVM wallets are also excluded. Most of the wallets that fall into this category are MEV bots, some of which generate hundreds of tx within a single block. The more sophisticated bots route trades through proprietary closed source contracts, rendering them impossible to track.
+
 </details>
 
 <details>
