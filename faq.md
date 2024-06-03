@@ -117,3 +117,18 @@ Then click the button at the bottom of the page marked Alert Settings. Any chang
 Go to [Custom Alerts](https://app.cielo.finance/custom-alerts) and select **Add Alert**. Enter the token address, select minimum swap value, and select the network.
 
 </details>
+
+<details>
+
+<summary>How is PnL calculated?</summary>
+
+PnL is a unit for measuring the net profit or loss recorded by onchain traders. Cielo calculates both Realized and Unrealized PnL for wallets.
+
+* **Realized PnL** applies to tokens a wallet has bought and since sold, be it for profit or loss.
+* **Unrealized PnL** calculates the value of the tokens a wallet is still holding based on their current market price.
+
+Both realized and unrealized PnL can be viewed for wallet profiles, while Wallet Discovery ranks wallets on _realized_ PnL only.
+
+**Note**: While the basic formula for calculating PnL is simple, there are many variables that can affect the PnL that is displayed for a particular wallet. Due to the presence of honeypots (tokens that can be bought but not sold) and the complexities of blockchain architecture such as Solana, there may be occasions when Cielo is unable to accurately calculate PnL for a wallet. We are constantly working to improve our PnL calculation algorithm with the goal of providing accurate wallet PnL.
+
+</details>
