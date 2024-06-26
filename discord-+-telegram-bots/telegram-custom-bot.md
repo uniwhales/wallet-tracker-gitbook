@@ -38,7 +38,7 @@ You can create as many custom bots as your current Cielo plan permits. Visit [Al
 To make it easier to keep track of your Cielo bots, including custom bots, it is recommended that you create a dedicated Telegram folder and assign all bots to it.
 
 {% hint style="info" %}
-The alerts you assign to your custom bot must be made using the Cielo web app. The normal menu options available with a regular Cielo Telegram bot, such as for adding wallets, are unavailable with a custom bot.\
+The alerts you assign to your custom bot must be made using the Cielo web app. The normal menu options available with a regular Cielo Telegram bot, such as for adding wallets, are unavailable with a custom bot. You are also unable to add custom Cielo bots to Telegram groups or channels.\
 \
 In every other respect, however, your custom bot will operate as normal with the added bonus of greater speed and reliability.
 {% endhint %}
