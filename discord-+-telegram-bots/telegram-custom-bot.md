@@ -10,6 +10,12 @@ Cielo provides a number of Telegram bots that can be used to receive custom aler
 
 To resolve this, Cielo Pro + Whale users can create custom bots that are exclusive to their personal use. This will ensure that alerts are delivered promptly and consistently. Just as experienced onchain users can create a custom RPC to access a faster blockchain connection, creating a custom Cielo bot ensures a consistent alert stream.
 
+
+
+{% hint style="info" %}
+Custom Telegram bots are available _in addition_ to your existing Cielo bots e.g. if you are a Pro user, the two bots you currently have can now be complemented by two additional custom bots.
+{% endhint %}
+
 ## Creating a Custom Bot <a href="#creating-a-custom-bot" id="creating-a-custom-bot"></a>
 
 Creating a custom bot is quick and easy. Here’s how:
