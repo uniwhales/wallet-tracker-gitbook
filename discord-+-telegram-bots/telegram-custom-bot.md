@@ -31,9 +31,11 @@ Creating a custom bot is quick and easy. Here’s how:
 9. Click the menu button marked _Custom bots_ to see a list of all custom bots you have active
 10. Open the Cielo web app, go to [My Wallets](https://app.cielo.finance/my-wallets) and you can start assigning wallets to your custom bot(s).
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-26 at 14.45.59.png" alt=""><figcaption><p>Select "Add custom bot" from the menu of an existing Cielo Telegram bot.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-26 at 14.45.59.png" alt="" width="375"><figcaption><p>Select "Add custom bot" from the menu of an existing Cielo Telegram bot.</p></figcaption></figure>
 
 You can create as many custom bots as your current Cielo plan permits. Visit [Alerts](https://app.cielo.finance/settings/alerts) in the Cielo web app and you will see all of your custom bots listed.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-27 at 12.46.16.png" alt=""><figcaption><p>After creating a custom bot, it will appear in <strong>My Wallets</strong> as a bot you can assign alerts to.</p></figcaption></figure>
 
 To make it easier to keep track of your Cielo bots, including custom bots, it is recommended that you create a dedicated Telegram folder and assign all bots to it.
 
