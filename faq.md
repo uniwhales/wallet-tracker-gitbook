@@ -25,6 +25,16 @@ Remember, the number of Telegram/Discord alerts you can receive is capped at 120
 
 <details>
 
+<summary>Why are Telegram alerts delayed?</summary>
+
+Due to the limits of Telegram's architecture, high user demand can occasionally max out the capacity of bots such as Cielo wallet trackers. While this issue quickly corrects, it can cause temporary delays in receiving alerts or for alerts to drop out altogether.
+
+To solve this, Pro and Whale users can create custom Cielo bots that are exclusive to their use. This provides a more reliable alert stream and overcomes the limitations inherent to using public Telegram bots. Find out how to create a custom bot [here.](https://docs.cielo.finance/discord-+-telegram-bots/telegram-custom-bot)
+
+</details>
+
+<details>
+
 <summary>I’m receiving too many alerts</summary>
 
 Go to [My Wallets](https://app.cielo.finance/my-wallets) and select all wallets or select the wallets that are sending too many alerts. Click Alert Settings and adjust the filters. There are several ways to reduce the number of alerts you receive:
