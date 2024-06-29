@@ -54,6 +54,14 @@ Go to [My Wallets](https://app.cielo.finance/my-wallets) and select all wallets 
 
 <details>
 
+<summary>How do I view my connected wallet in Telegram?</summary>
+
+To view the wallet connected with your Telegram account, open the Cielo Telegram bot and press the menu button or type _/menu_. Your wallet will be displayed at the top of the menu bar that appears. To change this wallet, visit [Settings](https://app.cielo.finance/settings/general) in the Cielo web app.
+
+</details>
+
+<details>
+
 <summary>Why are there certain wallets that I can't follow?</summary>
 
 Some wallets generate an extremely high volume of transactions. To prevent your feed and alerts from being overwhelmed with tx, you are unable to follow these wallets. Only a fraction of all wallets fall into this category, which typically includes bots and smart contract addresses for popular protocols.
