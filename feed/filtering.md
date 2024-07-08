@@ -22,6 +22,8 @@ Using these options, you can set multiple filters that will determine the tx sho
 
 Any time you wish to reset the filters you’ve applied, click **Clear all**.
 
+To load saved filters, click the **All activity** tab and scroll to the bottom of the list to view your selections.
+
 ## Summary
 
 Your Cielo feed is a powerful tool for viewing onchain transactions and making sense of them at a glance. These could be your own trades, those of influencers you’re following, or of an entire sector you’re trying to monitor e.g. DeFi.
