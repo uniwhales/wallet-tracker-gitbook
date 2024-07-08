@@ -57,3 +57,6 @@ The Cielo web app comprises the following pages:
 
 
 There's also a global search bar in the top left of the Cielo web app. Use this to find wallets, tokens, NFTs, and lists. The search function will suggest results based on content you're currently following as well as from content you have yet to add to your feed.\
+
+
+<figure><img src=".gitbook/assets/search (1).gif" alt=""><figcaption><p>Cielo search</p></figcaption></figure>
