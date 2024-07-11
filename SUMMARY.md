@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Quick start guide](quickstart.md)
-* [Getting started](getting-started.md)
+* [Quick Start Guide](quickstart.md)
+* [Getting Started](getting-started.md)
 * [Feed](feed/README.md)
   * [Filters](feed/filtering.md)
 * [Wallet Discovery](wallet-discovery.md)
@@ -20,9 +20,8 @@
 
 * [Introduction](discord-+-telegram-bots/introduction.md)
 * [Telegram](discord-+-telegram-bots/getting-started.md)
-* [Telegram via web app](discord-+-telegram-bots/telegram-via-web-app.md)
-* [Telegram custom bot](discord-+-telegram-bots/telegram-custom-bot.md)
-* [Telegram groups + channels](discord-+-telegram-bots/telegram-groups-+-channels.md)
+* [Telegram Custom Bot](discord-+-telegram-bots/telegram-custom-bot.md)
+* [Telegram Groups + Channels](discord-+-telegram-bots/telegram-groups-+-channels.md)
 * [Discord](discord-+-telegram-bots/discord.md)
 * [Feedback](discord-+-telegram-bots/feedback/README.md)
   * [Privacy policy](discord-+-telegram-bots/feedback/privacy-policy.md)

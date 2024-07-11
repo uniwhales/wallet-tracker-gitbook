@@ -1,27 +1,18 @@
 ---
 description: >-
-  Cielo provides Telegram and Discord bots that provides real-time alerts for
-  onchain transactions. It can monitor activity across dozens of blockchains.
+  Cielo provides Telegram and Discord bots that deliver real-time alerts for
+  onchain transactions across dozens of blockchains.
 ---
 
 # Introduction
 
-Bots can be set up within the Cielo web app or directly within Telegram. Once initialized, it will deliver a Telegram alert any time a tx occurs that matches your criteria. The Discord bot works in exactly the same way but must be configured within the Cielo web app.
+Bots can be set up within the Cielo web app or directly within Telegram. Once initialized, the bot will deliver a Telegram alert any time a tx occurs that matches your criteria. The Discord bot works in exactly the same way but must be configured within the Cielo web app.
 
-The Cielo Wallet Tracker works as a customizable bot that detects onchain transactions and relays them to Telegram/Discord. It allows you to monitor addresses and transaction types that are relevant to your interests while filtering out everything else. Tx are labeled to show the network, tx type, value, and protocol where it occurred together with informational links.
-
-Using the Cielo Wallet Tracker you can:
-
-* Track wallets
-* Track tokens
-* Receive real-time alerts for swaps, NFT mints, LP adds etc
-* Add the bot to Telegram groups and Discord channels
-
-…and much more
+Cielo bots allow you to monitor addresses and transaction types that are relevant to your interests while filtering out everything else. Tx are labeled to show the network, tx type, value, and protocol together with informational links.
 
 ### Labeling
 
-The Cielo Wallet Tracker automatically labels tx involving known tokens, DEXs, lending platforms, NFTs, bridges, and other DeFi protocols. This makes it easier to understand which asset is being used by whom, where, and why. For instance:
+Cielo automatically labels tx involving known tokens, DEXs, lending platforms, NFTs, bridges, and other DeFi protocols. This makes it easier to understand which asset is being used by whom, where, and why. For instance:
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-03 at 14.19.07.png" alt=""><figcaption></figcaption></figure>
 

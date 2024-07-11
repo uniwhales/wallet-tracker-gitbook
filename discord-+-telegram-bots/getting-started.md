@@ -1,8 +1,18 @@
 # Telegram
 
-It's possible to use the Cielo Wallet Tracker as a standalone Telegram bot, without pairing it to the Cielo web app.
+Cielo provides free users with one Telegram bot. Any wallets or tokens you enable alerts for will automatically be assigned to this bot. However, Pro + Whale members can access **two** and **six** bots respectively.
 
-It's recommended that you use the bot in conjunction with the Cielo [web app](https://app.cielo.finance) however. The app is free to use and its interface makes it easier to adjust wallet settings than doing so within Telegram. If you'd rather just use the Telegram bot on its own, however, read on.
+This allows you to map specific tx types to a specific bot. For instance, you could use one bot for your own wallets, another for NFT traders, and another for DEX whales.
+
+To activate your Telegram bots, in the Cielo web app visit [Alerts](https://app.cielo.finance/settings/alerts).
+
+To change which bot a wallet is assigned to, on the configure page, click the edit icon alongside the wallet name. In the popup that appears, click the dropdown titled **Telegram bot**. Pick a desired bot and then hit **Save changes**.
+
+## Bypassing the Cielo Web App
+
+It's possible to use the Cielo as a standalone Telegram bot, without pairing it to the Cielo web app.
+
+It's recommended, however, that you use the bot in conjunction with the Cielo [web app](https://app.cielo.finance). The app is free to use and its interface makes it easier to adjust wallet settings than doing so within Telegram. If you'd rather just use the Telegram bot on its own, however, read on.
 
 To initialize the [Cielo Wallet Tracker bot](https://t.me/evmtrackerbot), open it in Telegram and press the blue **Start** button.
 
