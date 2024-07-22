@@ -10,11 +10,17 @@ description: >-
 
 <summary>Why aren't I receiving alerts?</summary>
 
+There are typically three reasons why you might not be receiving bot alerts:
+
+1. You haven't assigned alerts to a specific Telegram bot or Discord channel.
+2. You've set a minimum USD filter so aren't receiving alerts below this threshold.
+3. You've deselected certain EVM networks so aren't receiving alerts for tx on these chains.
+
 If you’re not receiving Telegram or Discord alerts, go to **Settings** > [**Advanced**](https://app.cielo.finance/settings/advanced) and make sure you have at least one Telegram or Discord bot activated. Flick the toggle switch to blue to activate a Telegram bot.
 
 Next, go to [My Wallets](https://app.cielo.finance/my-wallets) and select the wallets you wish to receive alerts for. Click the edit icon beside the wallet or select all and click **Alert Settings**. Make sure that alerts are being sent to the Telegram bot or Discord channel you’ve activated under settings.\
 \
-Finally, click on **Transaction type filters** and make sure you’ve enabled alerts for the tx you wish to see.
+Finally, click on **Transaction type filters** and make sure you’ve enabled alerts for the tx you wish to see. Ensure that you haven't set a USD minimum or deselected certain networks.
 
 Remember, the number of Telegram/Discord alerts you can receive is capped at 120 per hour for Free users and 1,000/3,000 for Pro/Whale. If you hit this limit, alerts will temporarily be halted but will resume at the start of the next hour.
 
