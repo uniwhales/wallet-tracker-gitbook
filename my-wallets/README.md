@@ -39,7 +39,7 @@ To make a bulk edit, click the checkbox in the top left of the screen. This will
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-04-04 at 10.26.26.png" alt=""><figcaption></figcaption></figure>
 
-You can alternatively select all wallets within a specific list. To do so, click the **Lists** tab at the top of the poage and select the desired list. Then tick the **All Wallets** box.
+You can alternatively select all wallets within a specific list. To do so, click the **Lists** tab at the top of the page and select the desired list. Then tick the **All Wallets** box.
 
 When you have selected the wallets you wish to bulk edit, click **Alert Settings** or **Token / NFT Filters** _(Pro+Whale)_ at the bottom of the page.
 
