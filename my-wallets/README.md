@@ -2,6 +2,15 @@
 
 [**My Wallets**](https://app.cielo.finance/my-wallets) is your mission control. It’s where you add, edit, and delete wallets and lists. It’s also where you control the Telegram/Discord alerts you receive for wallets and lists you’re following.
 
+### Contents
+
+1. [**Adding Wallets**](./#adding-wallets)
+2. [**Editing Wallets**](./#editing-wallets)
+3. [**Bulk Edits**](./#bulk-edits)
+4. [**Token Filters**](./#token-filters)
+
+
+
 ## Adding Wallets
 
 Click **Add Wallets** in the top right to add a wallet to your Cielo feed. You can add an Ethereum address, Solana address, ENS, or .sol.
