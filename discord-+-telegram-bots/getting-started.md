@@ -12,7 +12,7 @@ To change which bot a wallet is assigned to, on the configure page, click the ed
 
 It's possible to use the Cielo as a standalone Telegram bot, without pairing it to the Cielo web app.
 
-It's recommended, however, that you use the bot in conjunction with the Cielo [web app](https://app.cielo.finance). The app is free to use and its interface makes it easier to adjust wallet settings than doing so within Telegram. If you'd rather just use the Telegram bot on its own, however, read on.
+However it's recommended that you use the bot in conjunction with the Cielo [web app](https://app.cielo.finance). The app is free to use and its interface makes it easier to adjust wallet settings than doing so within Telegram. If you'd rather just use the Telegram bot on its own, however, read on.
 
 To initialize the [Cielo Wallet Tracker bot](https://t.me/evmtrackerbot), open it in Telegram and press the blue **Start** button.
 
@@ -22,7 +22,7 @@ Press the blue menu icon to view wallet settings:
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-06-18 at 19.14.12.png" alt="" width="261"><figcaption></figcaption></figure>
 
-Four options are displayed:
+The following options are displayed:
 
 * **Add wallet or token**: Input the address and label for a wallet you wish to track or the smart contracxt address for a token.
 * **List**: View all of the wallets that you're currently tracking. You can then click on the edit option beside each wallet to adjust its settings.
@@ -113,4 +113,13 @@ To enable the latter option when using the Cielo Telegram bot, select **Menu** >
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-28 at 11.52.29.png" alt=""><figcaption><p>The contract address is shown in red.</p></figcaption></figure>
 
-\
+### Telegram Trading With Banana Gun
+
+Using Cielo Telegram bots, you can execute trades directly within Telegram with Banana Gun. Cielo has integrated Banana Gun allowing you to click the **Buy on Banana Gun** link that appears in Cielo Telegram alerts.
+
+{% hint style="info" %}
+_**Disclaimer**: Trading tokens, particularly new memecoins, is risky as there is a high chance of financial loss. It is the responsibility of each user to research any asset they wish to purchase and to acknowledge the risks inherent to Telegram trading. Cielo has no control over the Banana Gun bot used for executing swaps is not liable for losses incurred due to tokens losing value due to rug pulls and major sell-offs._
+
+_tl;dr DYOR._
+{% endhint %}
+
