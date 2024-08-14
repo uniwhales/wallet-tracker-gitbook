@@ -1,5 +1,15 @@
 # Telegram
 
+1. [**Bypassing the Cielo web app**](getting-started.md#bypassing-the-cielo-web-app)
+2. [**Adding a wallet**](getting-started.md#adding-a-wallet)
+3. [**Adding a token**](getting-started.md#adding-a-token)
+4. [**Editing wallets + tokens**](getting-started.md#editing-wallets--tokens)
+5. [**Alert settings**](getting-started.md#alert-settings)
+6. [**Viewing contract address**](getting-started.md#viewing-contract-address)
+7. [**Telegram trading with Banana Gun**](getting-started.md#telegram-trading-with-banana-gun)
+
+
+
 Cielo provides free users with one Telegram bot. Any wallets or tokens you enable alerts for will automatically be assigned to this bot. However, Pro + Whale members can access **two** and **six** bots respectively.
 
 This allows you to map specific tx types to a specific bot. For instance, you could use one bot for your own wallets, another for NFT traders, and another for DEX whales.
@@ -8,7 +18,7 @@ To activate your Telegram bots, in the Cielo web app visit [Alerts](https://app.
 
 To change which bot a wallet is assigned to, on the configure page, click the edit icon alongside the wallet name. In the popup that appears, click the dropdown titled **Telegram bot**. Pick a desired bot and then hit **Save changes**.
 
-## Bypassing the Cielo Web App
+## Bypassing the Cielo web app
 
 It's possible to use the Cielo as a standalone Telegram bot, without pairing it to the Cielo web app.
 
@@ -95,7 +105,7 @@ Then choose which of the four available terminals you would like to use for char
 
 
 
-### Viewing Contract Address
+### Viewing contract address
 
 \
 To trade a token that is displayed in the Cielo web app or Telegram bot, the contract address is required. Upon pasting this into a DEX such as Uniswap or an aggregator like Dexscreener, you can trade the token in question. There are a number of ways to obtain the contract address:\
@@ -113,7 +123,7 @@ To enable the latter option when using the Cielo Telegram bot, select **Menu** >
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-28 at 11.52.29.png" alt=""><figcaption><p>The contract address is shown in red.</p></figcaption></figure>
 
-### Telegram Trading With Banana Gun
+### Telegram trading with Banana Gun
 
 Using Cielo Telegram bots, you can execute trades directly within Telegram with Banana Gun. Cielo has integrated Banana Gun allowing you to click the **Buy on Banana Gun** link that appears in Cielo Telegram alerts.
 
@@ -123,3 +133,8 @@ _**Disclaimer**: Trading tokens, particularly new memecoins, is risky as there i
 _tl;dr DYOR._
 {% endhint %}
 
+To enable Telegram swaps, create a [**Banana Gun bot**](https://t.me/BananaGunRegister\_bot). You can then click the **Buy on Banana Gun** link displayed in Cielo alerts to instantly buy the token in question.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-08-14 at 14.14.18.png" alt=""><figcaption></figcaption></figure>
+
+If you _don't_ wish to see a Banana Gun link, you can disable this option in the [**Settings menu**](https://app.cielo.finance/settings/advanced) or within the Cielo Telegram bot menu by selecting **Menu > Alert Settings > Banana Gun**.
