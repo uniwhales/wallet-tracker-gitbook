@@ -128,7 +128,7 @@ To enable the latter option when using the Cielo Telegram bot, select **Menu** >
 Using Cielo Telegram bots, you can execute trades directly within Telegram with Banana Gun. Cielo has integrated Banana Gun allowing you to click the **Buy on Banana Gun** link that appears in Cielo Telegram alerts.
 
 {% hint style="info" %}
-_**Disclaimer**: Trading tokens, particularly new memecoins, is risky as there is a high chance of financial loss. It is the responsibility of each user to research any asset they wish to purchase and to acknowledge the risks inherent to Telegram trading. Cielo has no control over the Banana Gun bot used for executing swaps is not liable for losses incurred due to tokens losing value due to rug pulls and major sell-offs._
+_**Disclaimer**: Trading tokens, particularly new memecoins, is risky as there is a high chance of financial loss. It is the responsibility of each user to research any asset they wish to purchase and to acknowledge the risks inherent to Telegram trading. Cielo has no control over the Banana Gun bot used for executing swaps and is not liable for losses incurred due to tokens losing value due to rug pulls and major sell-offs._
 
 _tl;dr DYOR._
 {% endhint %}
