@@ -10,6 +10,10 @@ Bots can be set up within the Cielo web app or directly within Telegram. Once in
 
 Cielo bots allow you to monitor addresses and transaction types that are relevant to your interests while filtering out everything else. Tx are labeled to show the network, tx type, value, and protocol together with informational links.
 
+{% hint style="info" %}
+Because Cielo Telegram bots are integrated with Banana Gun, you can trade tokens instantly within Telegram. First create a [**Banana Gun bot**](https://t.me/BananaGunRegister\_bot). You can then click the **Buy on Banana Gun** link displayed in Cielo Telegram alerts to instantly buy the token in question.
+{% endhint %}
+
 ### Labeling
 
 Cielo automatically labels tx involving known tokens, DEXs, lending platforms, NFTs, bridges, and other DeFi protocols. This makes it easier to understand which asset is being used by whom, where, and why. For instance:

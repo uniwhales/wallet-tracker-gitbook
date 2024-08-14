@@ -6,7 +6,7 @@ coverY: 0
 
 # Overview
 
-Cielo is an information layer for web3. It allows you to discover wallets and tokens and add them to a real-time feed of onchain activity. Transactions can be filtered by type, size, and network and viewed in the Cielo web app or in Discord/Telegram using a Cielo bot.
+Cielo is an information layer for web3. It allows you to discover wallets and tokens and add them to a real-time feed of onchain activity. Transactions can be filtered by type, size, and network and viewed in the Cielo web app or in Discord/Telegram using a Cielo bot. Tokens can also be traded directly within Telegram using the integrated Banana Gun bot.
 
 From tracking whales to monitoring personal wallets, Cielo deciphers the onchain transactions that matter. Zero in on a smart wallet or zoom out to discern broader trends 🔎
 
@@ -43,7 +43,7 @@ Cielo provides an insight into **who’s** trading, **how**, **where**, and **wh
 The Cielo web app is enhanced by complementary Discord and Telegram bots for receiving real-time alerts on the go. The web app can be used on its own or combined with bots for a richer experience: the granular control of the app boosted by instant bot alerts.
 
 {% hint style="info" %}
-Cielo currently supports Solana, dYdX, and the following EVM blockchains: Ethereum, Polygon, Fantom, Arbitrum, Avalanche, Dogechain, Boba, Base, Metis, Aurora, Optimism, BNB Chain, Gnosis, Evmos, Canto, zkSync PulseChain, Mantle, opBNB, Blast and Polygon zkEVM.
+Cielo currently supports Bitcoin, Solana, dYdX, and the following EVM blockchains: Ethereum, Polygon, Fantom, Arbitrum, Avalanche, Dogechain, Boba, Base, Metis, Aurora, Optimism, BNB Chain, Gnosis, Evmos, Canto, zkSync PulseChain, Mantle, opBNB, Blast and Polygon zkEVM.
 {% endhint %}
 
 This documentation explains how Cielo works and reveals how to harness its capabilities to get the most out of your onchain exploration 🧠
