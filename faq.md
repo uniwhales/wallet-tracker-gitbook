@@ -80,6 +80,22 @@ We also take additional measures to exclude high volume wallets. For example, if
 
 <details>
 
+<summary>Why is there a limit on the number of wallet profiles I can view?</summary>
+
+To prevent our servers from melting, we're obliged to place a cap on the number of wallet profiles that can be viewed within a 24-hour period as follows:
+
+* **Free**: 100
+* **Pro**: 1,000
+* **Whale**: 5,000
+
+The vast majority of users will never hit this limit, but should this occur you will receive a notification. Your alert limit will reset 24 hours later, allowing you to start loading wallet profiles again.
+
+You can check the amount of alerts you have used [here](https://app.cielo.finance/settings/alert-limits).
+
+</details>
+
+<details>
+
 <summary>Why can't I access full transaction data for certain wallets?</summary>
 
 Cielo provides transaction alerts and PnL for hundreds of thousands of EVM and non-EVM wallets. However, with certain wallets providing full or even partial data is impossible. This is typically because the wallet in question is a complex MEV bot that routes trades through its own closed source contracts.
