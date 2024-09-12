@@ -26,7 +26,7 @@ However it's recommended that you use the bot in conjunction with the Cielo [web
 
 To initialize the [Cielo Wallet Tracker bot](https://t.me/evmtrackerbot), open it in Telegram and press the blue **Start** button.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-18 at 19.10.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-12 at 14.36.28.png" alt=""><figcaption></figcaption></figure>
 
 Press the blue menu icon to view wallet settings:
 
@@ -49,7 +49,7 @@ To add a wallet using the Telegram bot, click the blue menu icon followed by the
 
 Then click the **Wallet** button and paste in the wallet address followed by a space and then an optional name for the wallet e.g. _My Trading Wallet_. By default, all of the chains that Cielo tracks are enabled. If you wish to disable alerts for any of these chains, just click the relevant button to disable the selection.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-18 at 19.26.29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-12 at 14.46.35.png" alt=""><figcaption></figcaption></figure>
 
 When you're done, click **Confirm**. You'll then see the following screen for controlling tx types:
 
@@ -65,7 +65,7 @@ And that's it: you're now tracking your first wallet using Cielo's Telegram bot.
 
 To start tracking a token, repeat the procedure described above but select the **Token** button. You will then see the following option:
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 10.17.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-12 at 14.49.54 (1).png" alt=""><figcaption></figcaption></figure>
 
 Select your desired chain, enter the smart contract address for the token and hit return. You can find this in a block explorer or using a market data site such as [CoinGecko](https://www.coingecko.com/).
 
