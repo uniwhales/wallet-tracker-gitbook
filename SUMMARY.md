@@ -20,7 +20,7 @@
 
 * [Introduction](discord-+-telegram-bots/introduction.md)
 * [Telegram](discord-+-telegram-bots/getting-started.md)
-* [Telegram Custom Bot](discord-+-telegram-bots/telegram-custom-bot.md)
+* [Telegram Private Bot](discord-+-telegram-bots/telegram-private-bot.md)
 * [Telegram Groups + Channels](discord-+-telegram-bots/telegram-groups-+-channels.md)
 * [Discord](discord-+-telegram-bots/discord.md)
 * [Feedback](discord-+-telegram-bots/feedback/README.md)
