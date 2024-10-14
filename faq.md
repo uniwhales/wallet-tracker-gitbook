@@ -172,3 +172,14 @@ Both realized and unrealized PnL can be viewed for wallet profiles, while Wallet
 **Note**: While the basic formula for calculating PnL is simple, there are many variables that can affect the PnL that is displayed for a particular wallet. Due to the presence of honeypots (tokens that can be bought but not sold) and the complexities of blockchain architecture such as Solana, there may be occasions when Cielo is unable to accurately calculate PnL for a wallet. We are constantly working to improve our PnL calculation algorithm with the goal of providing accurate wallet PnL.
 
 </details>
+
+<details>
+
+<summary>What data is utilized in generating the Popular Wallets tag?</summary>
+
+Cielo assigns tags to certain wallets to support filtering for Wallet Discovery. The same tag is also displayed on the profile page of qualifying wallets. The Popular Wallets tag is added to any wallet that is being followed by more than 30 users on the Cielo free plan. Because Cielo uses aggregated data to generate this tag, information concerning the behavior of individual users is neither stored nor discoverable by other users. Moreover, aggregated Pro and Whale data is not used in the calculation of the Popular Wallets tag.
+
+\
+
+
+</details>
