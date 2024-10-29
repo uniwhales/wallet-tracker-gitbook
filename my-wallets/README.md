@@ -7,10 +7,6 @@
 1. [**Adding Wallets**](./#adding-wallets)
 2. [**Editing Wallets**](./#editing-wallets)
 3. [**Bulk Edits**](./#bulk-edits)
-4. [**New Trade Alerts**](./#new-trade-alerts)
-5. [**Token Filters**](./#token-filters)
-
-
 
 ## Adding Wallets
 
@@ -52,30 +48,6 @@ To make a bulk edit, click the checkbox in the top left of the screen. This will
 You can alternatively select all wallets within a specific list. To do so, click the **Lists** tab at the top of the page and select the desired list. Then tick the **All Wallets** box.
 
 When you have selected the wallets you wish to bulk edit, click **Alert Settings** or **Token / NFT Filters** _(Pro+Whale)_ at the bottom of the page.
-
-
-
-## New Trade Alerts
-
-Available to Pro and Whale users, New Trade Alerts enables you to receive an alert whenever a wallet you're following trades a particular token for the first time. To enable this feature, in **My Wallets** click the edit icon alongside a particular wallet and then click the tab marked **Alert Settings**. (Alternatively, select all wallets on a page or within a list and then click the **Alert Settings** button to make bulk edits.)
-
-For the wallet(s) selected, click the **New Trade Alerts** switch to activate this feature. In the **Wallet Info** tab, make sure you have assigned the wallet(s) to a particular bot. You will now receive a bot alert whenever the selected wallet(s) trades a particular token for the first time.
-
-
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-29 at 15.52.21.png" alt="" width="357"><figcaption><p>Toggle the New Trade Alerts switch to activate this feature</p></figcaption></figure>
-
-
-
-## Token Filters
-
-Cielo allows you set alerts when a wallet you're following trades specific tokens or NFTs _(Pro+Whale)._ That way you can receive a notification when wallets swap particular tokens you're interested in and screen the rest of their onchain activity.
-
-To set an alert, in **My Wallets** click the filter icon for a particular wallet or select all wallets if you want to batch add a token alert.
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-03-27 at 19.36.32.png" alt="" width="342"><figcaption><p>Click the filter icon on the right to add a token alert</p></figcaption></figure>
-
-In the popup window that appears, enter the token address and chain for each token alert you wish to add. You can enable up to 10 unique token alerts per wallet.
 
 
 

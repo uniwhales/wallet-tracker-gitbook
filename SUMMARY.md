@@ -9,6 +9,8 @@
 * [Public Lists](explore-wallets.md)
 * [Insights](insights.md)
 * [My Wallets](my-wallets/README.md)
+  * [New Trade Alerts](my-wallets/new-trade-alerts.md)
+  * [Token Filters](my-wallets/token-filters.md)
   * [Lists](my-wallets/lists.md)
 * [Custom Alerts](custom-alerts.md)
 * [Settings](settings.md)
