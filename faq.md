@@ -60,6 +60,23 @@ Go to [My Wallets](https://app.cielo.finance/my-wallets) and select all wallets 
 
 <details>
 
+<summary>What’s the difference between Premium and Private bots?</summary>
+
+Tl;dr: Private bots are faster than Premium but can’t be added to groups or channels.
+
+Premium is the name given to Cielo Telegram bots that are available to Pro + Whale users e.g. Cielo Premium Bot #1. While the alerts published by each of these bots is unique to the user, the bandwidth is shared. In other words, there might be 2,000 users accessing Premium Bot #1 concurrently.
+
+Private bots allow Pro + Whale users to access the same service through a dedicated Telegram channel that is exclusively theirs. This should ensure more consistent alert delivery, since bandwidth isn’t at risk of being consumed by other users. While there is no obligation to use private bots, it is recommended that Pro + Whale users do so.
+
+There are just two disadvantages to private bots: unlike regular Cielo bots, they can’t be added to groups
+
+\
+
+
+</details>
+
+<details>
+
 <summary>How do I view my connected wallet in Telegram?</summary>
 
 To view the wallet connected with your Telegram account, open the Cielo Telegram bot and press the menu button or type _/menu_. Your wallet will be displayed at the top of the menu bar that appears. To change this wallet, visit [Settings](https://app.cielo.finance/settings/general) in the Cielo web app.
