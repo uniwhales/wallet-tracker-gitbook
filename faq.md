@@ -8,6 +8,14 @@ description: >-
 
 <details>
 
+<summary>What's the difference between My Wallets and Custom Alerts?</summary>
+
+My Wallets is where you create alerts for specific wallets you're following. Custom Alerts is where you create general alerts based on all the wallets you're following.
+
+</details>
+
+<details>
+
 <summary>Why aren't I receiving alerts?</summary>
 
 There are typically three reasons why you might not be receiving bot alerts:
