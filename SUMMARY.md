@@ -24,6 +24,7 @@
 * [Telegram](discord-+-telegram-bots/getting-started.md)
 * [Telegram Private Bot](discord-+-telegram-bots/telegram-private-bot.md)
 * [Telegram Groups + Channels](discord-+-telegram-bots/telegram-groups-+-channels.md)
-* [Discord](discord-+-telegram-bots/discord.md)
+* [Discord](discord-+-telegram-bots/discord/README.md)
+  * [Migrating Your Discord Bot](discord-+-telegram-bots/discord/migrating-your-discord-bot.md)
 * [Feedback](discord-+-telegram-bots/feedback/README.md)
   * [Privacy policy](discord-+-telegram-bots/feedback/privacy-policy.md)
