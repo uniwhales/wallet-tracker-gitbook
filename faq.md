@@ -93,6 +93,14 @@ To view the wallet connected with your Telegram account, open the Cielo Telegram
 
 <details>
 
+<summary>How do I pair my Cielo account with a different Telegram account?</summary>
+
+If you need to change the Telegram account you’re using with Cielo, in the web app go to **Settings >** [**Alerts**](https://app.cielo.finance/settings/alerts) and where your current Telegram handle is displayed, select **Disconnect**. After logging in to Telegram with the account you wish to pair, refresh the web app and select **Connect** to complete the process.
+
+</details>
+
+<details>
+
 <summary>Why are there certain wallets that I can't follow?</summary>
 
 Some wallets generate an extremely high volume of transactions. To prevent your feed and alerts from being overwhelmed with tx, you are unable to follow these wallets. Only a fraction of all wallets fall into this category, which typically includes bots and smart contract addresses for popular protocols.
