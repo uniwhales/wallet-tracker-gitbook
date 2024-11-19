@@ -93,7 +93,9 @@ Click the blue edit link beneath the address to make an edit to the wallet or to
 
 ### Alert settings
 
-By default, Cielo Wallet Tracker alerts include a **Chart** link, where applicable. By default this links to [GeckoTerminal](https://www.geckoterminal.com/) where you can view trading data for the token in question.
+Pro and Whale users can opt to have market cap and liquidity information displayed in bot alerts for token swaps. To enable this, in the web app check the **Display Market Cap and Liquidity** button in [Settings > Advanced](https://app.cielo.finance/settings/advanced).
+
+By default, Cielo Wallet Tracker alerts include a **Chart** link, where applicable.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-06-19 at 14.47.30.png" alt=""><figcaption></figcaption></figure>
 
