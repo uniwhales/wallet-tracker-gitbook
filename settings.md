@@ -5,7 +5,7 @@
 \
 **Plan**: By default, Cielo users start off on the free plan. To upgrade to Pro or Whale, select Upgrade and follow the instructions. More information on Cielo plans can be found [here](https://app.cielo.finance/settings/plans).
 
-**Alerts**: Add/edit your Telegram account and enable/disable bots by toggling the switch. Free users have one bot while Pro and Whale have more.
+**Alerts**: Add/edit your Telegram account and enable/disable bots by toggling the switch. Free users have one bot while Pro have two and Whale users have nine.
 
 **Charting Tool**: Choose whether Cielo's default charting toool is GeckoTerminal, DEX Screener, DEX Tools, or Defined.
 
