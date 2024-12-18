@@ -93,6 +93,19 @@ To view the wallet connected with your Telegram account, open the Cielo Telegram
 
 <details>
 
+<summary>How do I work out which wallet I paired with my Cielo account?</summary>
+
+If you’ve been signed out of the Cielo web app and have multiple wallets installed, it can be hard working out which one to connect to regain account access. To solve this, open any Cielo bot in Telegram and click the menu icon or type /menu and your connected wallet address will be displayed.
+
+_**Note**: If you used Phantom wallet to sign up to Cielo and have since disabled EVM within the wallet, this will account for why you can’t sign in to Cielo. Reactivate your Phantom EVM address to resolve this._
+
+\
+
+
+</details>
+
+<details>
+
 <summary>How do I pair my Cielo account with a different Telegram account?</summary>
 
 If you need to change the Telegram account you’re using with Cielo, in the web app go to **Settings >** [**Alerts**](https://app.cielo.finance/settings/alerts) and where your current Telegram handle is displayed, select **Disconnect**. After logging in to Telegram with the account you wish to pair, refresh the web app and select **Connect** to complete the process.
