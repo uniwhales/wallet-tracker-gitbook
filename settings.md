@@ -32,6 +32,7 @@
 * **Charting Tool:** Choose whether Cielo's default charting toool is BullX, GeckoTerminal, DEX Screener, DEX Tools, Photon, or Defined
 * **Display Token Address**: Enable to display the token contract in Telegram/Discord alerts for Swaps and Approvals. Some users prefer this as it allows them to quickly copy the contract address and paste it into their favorite trading terminal
 * **Display Market Cap and Liquidity**: Pro and Whale users can opt to have this information included with bot alerts
+* **Display PnL in Alerts**: Show token PnL in sell alerts. This will display the wallet’s current PnL for the token being sold.
 * **Banana Gun**: Display Banana Gun link for Swaps in Telegram alerts. Clicking the Banana Gun link will take you to the Banana Gun trading bot. _(Note: Cielo has no control over Banana Gun bot and is not liable for any technical issues or trading losses incurred while using it)_
 * **Highlight Swaps**: Enable an emoji displayed with Buy🟢/Sell🔴 alerts to enhance visibility
 * **First Sell Alerts**: Include first sell tx with New Trade alerts. This will add an alert when a wallet sells a token for the first time
