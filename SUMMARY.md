@@ -12,6 +12,8 @@
   * [New Trade Alerts](my-wallets/new-trade-alerts.md)
   * [Token Filters](my-wallets/token-filters.md)
   * [Lists](my-wallets/lists.md)
+  * [Bulk Edits](my-wallets/bulk-edits.md)
+  * [Bulk Import](my-wallets/bulk-import.md)
 * [Custom Alerts](custom-alerts.md)
 * [Settings](settings.md)
 * [Subscribe](subscribe.md)
