@@ -18,7 +18,7 @@ A single transaction looks like this:
 
 Or if a wallet makes a series of related transactions within a short timeframe, Cielo will cluster them:
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 15.28.21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-28 at 17.44.51.png" alt=""><figcaption></figcaption></figure>
 
 Click on the name or label assigned to a wallet (e.g. _dolgame.eth_; _Major Airdrop Receiver_) to open a new page for that wallet profile. For example, [**this**](https://app.cielo.finance/profile/0xe3c5f195efb34d723543d8bd5bf85a910a22852e) is the wallet profile for 0xprinterr.eth.
 
