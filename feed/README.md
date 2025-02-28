@@ -4,7 +4,7 @@ Your feed displays recent transactions (tx) from wallets you’re following. Eac
 
 A typical entry might show the wallet (_Address or ENS/.sol_) tx type (_Swap_), network (_Arbitrum_), protocol (_Uniswap_), tokens exchanged (_ETH>USDC_), tx value ($800), and  elapsed time since the tx occured (_2 mins ago_). For NFTs a thumbnail is also shown.
 
-Upon loading your feed, you will see a pinging blue dot at the top. This denotes that a web sockets connection is active that will continiually
+Upon loading your feed, you will see a pinging blue dot at the top. This denotes that a web sockets connection is active that will continually refresh your feed whenever new transactions are delivered. Click the audio icon alongside the blue dot if you'd like to receive an audible alert whenever your feed updates. This is helpful when you're browsing or trading in other tabs and want to learn instantly whenever a new alert arrives.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-28 at 17.26.53.png" alt=""><figcaption></figcaption></figure>
 
