@@ -4,13 +4,17 @@ Your feed displays recent transactions (tx) from wallets you’re following. Eac
 
 A typical entry might show the wallet (_Address or ENS/.sol_) tx type (_Swap_), network (_Arbitrum_), protocol (_Uniswap_), tokens exchanged (_ETH>USDC_), tx value ($800), and  elapsed time since the tx occured (_2 mins ago_). For NFTs a thumbnail is also shown.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 15.18.25.png" alt=""><figcaption></figcaption></figure>
+Upon loading your feed, you will see a pinging blue dot at the top. This denotes that a web sockets connection is active that will continiually
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-28 at 17.26.53.png" alt=""><figcaption></figcaption></figure>
 
 ## Reading your feed
 
+
+
 A single transaction looks like this:
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 15.22.57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-28 at 17.27.55.png" alt=""><figcaption></figcaption></figure>
 
 Or if a wallet makes a series of related transactions within a short timeframe, Cielo will cluster them:
 
