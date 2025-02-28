@@ -20,13 +20,13 @@ Or if a wallet makes a series of related transactions within a short timeframe, 
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-28 at 17.44.51.png" alt=""><figcaption></figcaption></figure>
 
-Click on the name or label assigned to a wallet (e.g. _dolgame.eth_; _Major Airdrop Receiver_) to open a new page for that wallet profile. For example, [**this**](https://app.cielo.finance/profile/0xe3c5f195efb34d723543d8bd5bf85a910a22852e) is the wallet profile for 0xprinterr.eth.
+Click on the name or label assigned to a wallet (e.g. _dolgame.eth_; _Major Airdrop Receiver_) to open a new page for that wallet profile. For example, [**this**](https://app.cielo.finance/profile/0x9683495e5bbd30d741eddd3f972d7ae5188423b2) is the wallet profile for _0x96...23b2,_ labeled here as _Ski Dog 6._
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 15.34.31.png" alt=""><figcaption><p>0xprinterr.eth, which has been labeled in Cielo as <strong>Onchain267</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-28 at 17.53.11.png" alt=""><figcaption></figcaption></figure>
 
-The **High TX** label alongside this wallet shows that it is extremely active onchain. If you enable Telegram alerts for this wallet, you'll receive a lot of notifications by default. You can resolve this by clicking the **Edit** icon for this wallet and selecting **Alert Settings**.
+The wallet tags show that this user is extremely active onchain. If you enable Telegram alerts for this wallet, you'll receive a lot of notifications by default. You can resolve this by clicking the **Edit** icon for this wallet and selecting **Alert Settings**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-03-02 at 15.40.47.png" alt="" width="348"><figcaption><p>Cielo lets you specify alerts for each wallet</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-28 at 17.55.50.png" alt="" width="339"><figcaption></figcaption></figure>
 
 ## Learning more
 
