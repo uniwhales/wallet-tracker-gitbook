@@ -36,14 +36,14 @@ Cielo provides an insight into **who’s** trading, **how**, **where**, and **wh
 
 **How**: Tx are labeled with useful information such as swap size, protocol, PnL, and direction (long/short perps).
 
-**Where**: Watch the action unfold across all the leading EVM chains, Solana, and hundreds of protocols, all accurately labeled for ease of identification.
+**Where**: Watch the action unfold across all the leading EVM chains, Solana, Bitcoin, and hundreds of protocols, all accurately labeled for ease of identification.
 
 **Why**: Cielo makes it easy to decode the meaning behind the trades that move markets and kickstart trends.
 
 The Cielo web app is enhanced by complementary Discord and Telegram bots for receiving real-time alerts on the go. The web app can be used on its own or combined with bots for a richer experience: the granular control of the app boosted by instant bot alerts.
 
 {% hint style="info" %}
-Cielo currently supports Bitcoin, Solana, Sui, Tron, dYdX, and the following EVM blockchains: Ethereum, Polygon, Fantom, Arbitrum, Avalanche, Dogechain, Boba, Base, Metis, Aurora, Optimism, BNB Chain, Gnosis, Evmos, Canto, zkSync PulseChain, Mantle, opBNB, Blast and Polygon zkEVM.
+Cielo currently supports Bitcoin, Solana, Sui, Tron, dYdX, and the following EVM blockchains: Ethereum, Polygon, Fantom, Arbitrum, Avalanche, Dogechain, Boba, Base, Metis, Aurora, Optimism, BNB Chain, Gnosis, Evmos, Canto, zkSync PulseChain, Mantle, opBNB, Blast, HyperEVM, and Hyperliquid.
 {% endhint %}
 
 This documentation explains how Cielo works and reveals how to harness its capabilities to get the most out of your onchain exploration 🧠
