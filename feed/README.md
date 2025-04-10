@@ -10,13 +10,11 @@ Upon loading your feed, you will see a pinging blue dot at the top. This denotes
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-10 at 15.42.02.png" alt=""><figcaption><p>Classic feed</p></figcaption></figure>
 
-##
+
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-10 at 15.47.55.png" alt=""><figcaption><p>Lite feed</p></figcaption></figure>
 
 ## Reading your feed
-
-
 
 A single transaction looks like this:
 
