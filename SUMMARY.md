@@ -32,3 +32,7 @@
   * [Migrating Your Discord Bot](discord-+-telegram-bots/discord/migrating-your-discord-bot.md)
 * [Feedback](discord-+-telegram-bots/feedback/README.md)
   * [Privacy policy](discord-+-telegram-bots/feedback/privacy-policy.md)
+
+## GUIDES
+
+* [Cielo Guides](guides/cielo-guides.md)
