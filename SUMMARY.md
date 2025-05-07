@@ -35,4 +35,5 @@
 
 ## GUIDES
 
-* [Copy Trading](guides/copy-trading.md)
+* [Copy Trading](guides/copy-trading/README.md)
+  * [Risks and Considerations](guides/copy-trading/risks-and-considerations.md)
