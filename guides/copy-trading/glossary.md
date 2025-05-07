@@ -1,5 +1,17 @@
 # Glossary
 
+**Token Distribution**: The allocation of investment capital across different tokens in a wallet. This [shows](https://x.com/CieloFinance/status/1908204213035032741) how diverse or concentrated a trader's positions are, revealing their risk management approach and investment strategy.
+
+**Profile Stats**: Profile statistics encompass a trader's overall performance metrics, including total profit and loss (PnL), average return per trade, and other relevant data points. These [stats](https://x.com/CieloFinance/status/1905306558055285198) provide a snapshot of a trader's historical performance and consistency.
+
+**Tokens Traded**: This [refers](https://x.com/CieloFinance/status/1899113955215499561) to the variety and frequency of tokens a trader has engaged with. Monitoring the tokens traded can offer insights into a trader's market preferences and adaptability to different assets.
+
+**Hold Time**: Hold time [indicates](https://x.com/CieloFinance/status/1895506207621980287) the average duration a trader retains a token before selling. Short hold times might suggest a day-trading strategy, while longer durations could imply a long-term investment approach.
+
+**Winrate**: Winrate [represents](https://x.com/CieloFinance/status/1901656756750623018) the percentage of profitable trades out of the total executed. A higher winrate can be indicative of a trader's effectiveness and decision-making accuracy.
+
+**Avg Buy vs Avg Sell**: This [metric](https://x.com/CieloFinance/status/1905306558055285198) compares the average purchase price of tokens to their average selling price. A positive difference suggests profitable trades, while a negative one may indicate losses. Analyzing this can help in understanding a trader's entry and exit timing.
+
 **Copy Trading**: A trading strategy where investors automatically copy the trades of experienced traders, mirroring their actions in real-time with their own funds.
 
 **ROI (Return on Investment)**: The percentage return relative to the initial investment amount. Calculated as: (Current Value - Initial Investment) / Initial Investment × 100%.
