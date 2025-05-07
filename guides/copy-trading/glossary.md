@@ -105,3 +105,4 @@
 **Number of Trades**: Total count of trades executed (both buys and sells).
 
 **Number of Trades per Token**: A metric showing how frequently a wallet trades a specific token, which can indicate the trader's familiarity with or focus on particular assets. High numbers may suggest specialized knowledge, while low numbers might indicate experimental positions.
+

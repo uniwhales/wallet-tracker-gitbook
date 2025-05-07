@@ -43,5 +43,5 @@
   * [Risk Management](guides/copy-trading/risk-management.md)
   * [Fees and Other Costs](guides/copy-trading/fees-and-other-costs.md)
   * [Quick Start Copy Trading Guide](guides/copy-trading/quick-start-copy-trading-guide.md)
-* [Glossary](guides/glossary.md)
+  * [Glossary](guides/copy-trading/glossary.md)
 * [Understanding Pump.fun](guides/understanding-pump.fun.md)
