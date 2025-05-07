@@ -2,6 +2,14 @@
 
 _This is a detailed guide to copy trading using Cielo as your primary tool for discovering, following, and copying wallets. Navigate this multi-part guide using the side menu or follow the links at the bottom of each section._
 
+{% hint style="info" %}
+**Disclaimer:** Cielo guides are intended for educational purposes only. They do not constitute investment advice, nor do they address all of the risks that are inherent to crypto trading. While the information contained within these guides has the potential to improve your trading performance, no guarantees of this are made or implied.\
+
+
+_tl;dr: Cielo is not responsible for the outcome of your trades, nor for the integrity of any of the third-party products referenced._\
+
+{% endhint %}
+
 Copy trading has evolved into a powerful crypto trading strategy that allows individuals to mirror the trades of experienced investors. This approach enables traders to benefit from the expertise of others, potentially leading to profitable outcomes without the need for extensive market knowledge.​
 
 Instead of spending countless hours analyzing charts, monitoring markets 24/7, or constantly reacting to price swings, copy trading means you can let the pros do the heavy lifting. With Cielo, this approach gets supercharged.
