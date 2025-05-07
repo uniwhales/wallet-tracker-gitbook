@@ -42,3 +42,4 @@
   * [Monitoring and Refining](guides/copy-trading/monitoring-and-refining.md)
   * [Risk Management](guides/copy-trading/risk-management.md)
   * [Fees and Other Costs](guides/copy-trading/fees-and-other-costs.md)
+* [Understanding Pump.fun](guides/understanding-pump.fun.md)
