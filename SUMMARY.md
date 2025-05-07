@@ -40,3 +40,4 @@
   * [Strategies](guides/copy-trading/strategies.md)
   * [Finding Good Wallets](guides/copy-trading/finding-good-wallets.md)
   * [Monitoring and Refining](guides/copy-trading/monitoring-and-refining.md)
+  * [Risk Management](guides/copy-trading/risk-management.md)
