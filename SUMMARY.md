@@ -35,4 +35,4 @@
 
 ## GUIDES
 
-* [Cielo Guides](guides/cielo-guides.md)
+* [Copy Trading](guides/copy-trading.md)
