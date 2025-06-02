@@ -13,3 +13,12 @@ The header shows metadata for the wallet in question including the label, addres
 * To edit the wallet, including its label, list, and alerts, click the pencil icon in the right of the header.
 * If you believe the wallet's transaction data is inaccurate or has failed to load correctly, click **Restore** to reload its historical data.
 * If you are the wallet owner and wish to publicly prove that you own the wallet, click **Verify**. You will then be asked to sign a message with your web wallet to proof ownership and then to connect your X (Twitter). Your wallet profile will then display your X handle. You can edit this name if desired and can later unverify your wallet profile if you wish to renounce ownership.
+
+### Wallet Tabs
+
+Below the wallet header, the wallet profile displays the following tabs:
+
+<figure><img src=".gitbook/assets/Screenshot 2025-06-02 at 16.07.16.png" alt=""><figcaption></figcaption></figure>
+
+
+
