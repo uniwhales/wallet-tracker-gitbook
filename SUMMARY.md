@@ -17,6 +17,7 @@
 * [Custom Alerts](custom-alerts/README.md)
   * [Multiple Wallet](custom-alerts/multiple-wallet.md)
   * [Token Swap](custom-alerts/token-swap.md)
+* [Wallet Profiles](wallet-profiles.md)
 * [Settings](settings.md)
 * [Subscribe](subscribe.md)
 * [Cielo Web Extension](cielo-web-extension.md)

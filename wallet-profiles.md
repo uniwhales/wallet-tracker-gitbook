@@ -1,0 +1,14 @@
+# Wallet Profiles
+
+Click on the label or address of any wallet that appears in the Cielo web app and it will open the wallet profile in a new tab like this:
+
+<figure><img src=".gitbook/assets/Screenshot 2025-06-02 at 15.49.26.png" alt=""><figcaption></figcaption></figure>
+
+The URL for the wallet profile is [https://app.cielo.finance/profile/](https://app.cielo.finance/profile/) followed by the wallet address. In this example, it's [https://app.cielo.finance/profile/0xe5964fd10170c8291cf97552284d995a006e67ae](https://app.cielo.finance/profile/0xe5964fd10170c8291cf97552284d995a006e67ae)
+
+You can load the wallet profile for any of the networks Cielo supports by entering its address after /profile/ in the same manner or by clicking on the wallet address in the web app.
+
+The header shows metadata for the wallet in question including the label, address, list, and balance. For EVM wallets, clicking the dropdown tab alongside the balance will display ETH held on all EVM networks Cielo supports (or BNB for BNB Chain). The header may also display various tags that help to categorize its trading behavior.
+
+* To edit the wallet, including its label, list, and alerts, click the pencil icon in the right of the header.
+* If you believe the
