@@ -11,4 +11,5 @@ You can load the wallet profile for any of the networks Cielo supports by enteri
 The header shows metadata for the wallet in question including the label, address, list, and balance. For EVM wallets, clicking the dropdown tab alongside the balance will display ETH held on all EVM networks Cielo supports (or BNB for BNB Chain). The header may also display various tags that help to categorize its trading behavior.
 
 * To edit the wallet, including its label, list, and alerts, click the pencil icon in the right of the header.
-* If you believe the
+* If you believe the wallet's transaction data is inaccurate or has failed to load correctly, click **Restore** to reload its historical data.
+* If you are the wallet owner and wish to publicly prove that you own the wallet, click **Verify**. You will then be asked to sign a message with your web wallet to proof ownership and then to connect your X (Twitter). Your wallet profile will then display your X handle. You can edit this name if desired and can later unverify your wallet profile if you wish to renounce ownership.
