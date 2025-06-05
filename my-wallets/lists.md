@@ -1,5 +1,7 @@
 # Lists
 
+{% embed url="https://youtu.be/eLys6l4vDSk?si=z-mjW3oHqKAjdF9n" %}
+
 Your Cielo feed can be likened to a music player, populated with a diverse collection of sounds. Cielo lists are your playlists for managing all this music 🎶
 
 In just a few clicks, you can create a themed list and populate it with wallets. This makes it easier to focus on specific ecosystems, networks, and use cases

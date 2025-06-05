@@ -1,4 +1,6 @@
-# Getting started
+# Getting Started
+
+{% embed url="https://youtu.be/wABikLeyX24?si=R3wOC_SFerLX-zpA" %}
 
 To get started, visit[ app.cielo.finance](https://app.cielo.finance/) where you’ll see the Cielo web app in preview mode:
 
