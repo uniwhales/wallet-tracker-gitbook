@@ -23,10 +23,10 @@ Creating a private bot is quick and easy. Here’s how:
 1. Go to [BotFather](https://t.me/BotFather) on Telegram, click the menu button and select _/newbot_
 2. Give your bot a name e.g. _Cielo Private Bot 1_
 3. Choose a username for your bot. This must be a unique name that is not currently used on Telegram and must end with ‘bot’
-4. Copy the token that BotFather displays in red. It will read something like _7024425312:AGHJo0WgmLqkaWzMgxO7tdqhvXzxVUJQR2c_
+4. Copy the token that BotFather displays in red. It will read something like _7024425312:AGHJo0WgmLqkaWzMgxO7tdqhvXzxVUJQR2c._ **Note:** Do not share this token publicly or other users may be able to access your bot
 5. Now visit the Telegram menu for an existing Cielo bot e.g. _Cielo Premium Bot #1_ (The only bot this will not work with is the free bot titled _Cielo Wallet Tracker_)
-6. Click the button marked _Add custom bot_
-7. Paste in the API token
+6. After loading the main menu, select _Custom Bots_ > _Add custom bot_
+7. Paste in the API token you just created in BotFather
 8. Repeat this process with as many bots as you wish to add
 9. Click the menu button marked _Custom bots_ to see a list of all private bots you have active
 10. Open the Cielo web app, go to [My Wallets](https://app.cielo.finance/my-wallets) and you can start assigning wallets to your private bot(s).
