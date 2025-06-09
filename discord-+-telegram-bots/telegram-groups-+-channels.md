@@ -1,4 +1,4 @@
-# Telegram groups + channels
+# Telegram Groups + Channels
 
 You can add the Cielo Wallet Tracker to any Telegram group you’re a member of (provided you have admin rights).
 
@@ -32,10 +32,14 @@ To disable bot alerts within the group, just click **Group Alerts** followed by 
 
 If you run a crypto Telegram channel, you can add the Cielo Wallet Tracker bot to it. This will provide followers with alerts that are trelevant to the project or to tokens/verticals that your channel covers.
 
-For instance, if you're an NFT influencer with a popular Telegram channel, you can program the Cielo Wallet Tracker bot to only push alerts when your onchain activity involves minting an NFT collection. Alternatively, you could set up a whale trade channel that pushes an alert anyone someone swaps more than $500,000 of ETH onchain.
+For instance, if you run a popular Telegram channel, you can program a Cielo bot to only push alerts when your onchain activity corresponds to the interests of your followers such as new token swaps. Alternatively, you could set up a whale trade channel that pushes an alert anyone someone swaps more than $500,000 of ETH onchain.
 
-To add the bot to a channel, click the blue menu icon in the [Cielo Wallet Tracker](https://t.me/EVMTrackerbot) channel and select _/main_. Then click **Group Alerts** followed by **Add to channel** and follow the instructions that appear:
+To add the bot to a channel, click the blue menu icon and select _/main_. Then click **Group Alerts** followed by **Add to channel** and follow the instructions that appear:
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-06-19 at 14.10.45.png" alt=""><figcaption></figcaption></figure>
 
 To disable bot alerts within the channel, just click **Channel Alerts** followed by **Disable channel messages**.
+
+### Adding private bot to a group or channel
+
+Pro and Whale users can create private bots for more consistent alert delivery as detailed [here](telegram-private-bot.md). After creating a private bot, you can add it to a group or channel by following the steps outlined above.
