@@ -42,4 +42,17 @@ To disable bot alerts within the channel, just click **Channel Alerts** followed
 
 ### Adding private bot to a group or channel
 
-Pro and Whale users can create private bots for more consistent alert delivery as detailed [here](telegram-private-bot.md). After creating a private bot, you can add it to a group or channel by following the steps outlined above.
+Pro and Whale users can create private bots for more consistent alert delivery as detailed [here](telegram-private-bot.md). After creating a private bot, you can add it to a group or channel by inviting it as an admin.
+
+After inviting the bot, type _/setup\_bot_ in the group or channel and you should receive a message informing you that the bot is now active. To remove the bot, delete it as a member of the group or channel. See [here](https://x.com/CieloFinance/status/1933554945938104631) for a full video guide on creating a private bot and adding it to a group.
+
+To stop receiving alerts to a private bot, in the Cielo web app go to [**My Wallets**](https://app.cielo.finance/my-wallets) and from the Bot menu, select the private bot in question. You can then select all wallets and make bulk edits to alerts.
+
+### Adding private bot to a group topic
+
+Telegram lets you organize groups into sub-categories known as topics. To add a private bot to a specific topic in a group:
+
+1. Go to the topic and type _/setup\_bot_.
+2. If you've added multiple bots to the group and want each bot to send alerts to a specific topic, you need to specify the bot's username in the command. For example, if the bot's username is _Cielo\_finance\_free\_bot_, use the command: _/setup\_bot@Cielo\_finance\_free\_bot._
+
+See [here](https://x.com/CieloFinance/status/1875232318089994740) for a full video guide on creating a private bot and adding it to a group topic.
