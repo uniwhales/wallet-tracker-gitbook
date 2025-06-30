@@ -1,6 +1,6 @@
 # Feed
 
-Your Cielo feed is available in two display modes, selectable from the left menu: Classic or Lite. **Classic** is the original layout, in which all transactions are shown chronologically by wallets you're tracking. **Lite** is a condensed feed that focuses on token swaps only. It incorporates a Filters menu in the right sidebar where you can configure results based on Network, Swap Size (USD), Token, or List.
+Your Cielo feed is available in two display modes, selectable from the left menu: Classic or Lite. **Classic** is the original layout, in which all transactions are shown chronologically by wallets you're tracking. [**Lite**](https://app.cielo.finance/lite) is a condensed feed that focuses on token swaps only. It incorporates a Filters menu in the right sidebar where you can configure results based on Network, Swap Size (USD), Token, or List.
 
 Your feed displays recent transactions (tx) from wallets you’re following. Each row represents an onchain tx and is enhanced with labeling and links to aid your understanding.
 
@@ -8,11 +8,11 @@ A typical entry might show the wallet (_Address or ENS or .sol_) tx type (_Swap_
 
 Upon loading your feed, you will see a pinging blue dot at the top. This denotes that a web sockets connection is active that will continually refresh your feed whenever new transactions are delivered. Click the audio icon alongside the blue dot if you'd like to receive an audible alert whenever your feed updates. This is helpful when you're browsing or trading in other tabs and want to learn instantly whenever a new alert arrives.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-04-10 at 15.42.02.png" alt=""><figcaption><p>Classic feed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-06-30 at 12.35.46.png" alt=""><figcaption><p>Classic feed</p></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-04-10 at 15.47.55.png" alt=""><figcaption><p>Lite feed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-06-30 at 12.36.37.png" alt=""><figcaption><p>Lite feed</p></figcaption></figure>
 
 ## Reading your feed
 
