@@ -4,4 +4,4 @@ You can edit multiple wallets to save time. This allows you to bulk edit Telegra
 
 To make a bulk edit, click the checkbox in the top left of the screen. This will select all wallets on the page. To select all wallets that youi're following, click **Select all XXX of your wallets**:
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-04 at 10.26.26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 16.02.10.png" alt=""><figcaption></figcaption></figure>
