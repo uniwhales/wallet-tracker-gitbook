@@ -27,7 +27,7 @@ Monitoring third party wallets including smart contract addresses reveals such e
 Cielo lets you track up to **250 wallets** for free and up to 10,000 when you upgrade your plan. The wallets Cielo prepopulates your feed with count towards your maximum quota, but you are free to delete or amend these. More information on Cielo plans and features can be found in [Settings](https://app.cielo.finance/settings).\
 
 
-<figure><img src=".gitbook/assets/Screenshot 2024-02-27 at 11.45.21.png" alt=""><figcaption><p>Cielo web app</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 15.16.04.png" alt=""><figcaption><p>Cielo web app</p></figcaption></figure>
 
 Cielo provides an insight into **who’s** trading, **how**, **where**, and **why**.\
 

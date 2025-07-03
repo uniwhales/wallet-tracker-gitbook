@@ -4,7 +4,7 @@ description: Start using Cielo in 60 seconds and familarize yourself with core f
 
 # Quick Start Guide
 
-<figure><img src=".gitbook/assets/Screenshot 2024-04-04 at 19.26.34.png" alt=""><figcaption><p>Cielo feed</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 15.17.45.png" alt=""><figcaption><p>Cielo feed</p></figcaption></figure>
 
 You don’t need to know every last feature of Cielo to start using Cielo. Here’s how to get started in 60 seconds, add your first wallets, create your first list, and set custom Telegram/Discord alerts.
 
@@ -23,6 +23,6 @@ You don’t need to know every last feature of Cielo to start using Cielo. Here�
 11. Finally pick the transaction types, USD value, and networks you wish to receive Telegram/Discord alerts for.
 12. View all transactions by wallets you’re following in your Cielo [feed](https://app.cielo.finance/feed). Use the tabs at the top of your feed to filter results and click **Save** to store your favorite filters.
 13. Unlock additional features and more wallets by visiting [**Settings**](https://app.cielo.finance/settings) and subscribing to a Pro or Whale plan.
-14. If you would like to execute trades within Telegram, create a [**Banana Gun bot**](https://t.me/BananaGunRegister\_bot). You can then click the **Buy on Banana Gun** link displayed in Cielo alerts to instantly buy the token in question.
+14. If you would like to execute trades within Telegram, create a [**Banana Gun bot**](https://t.me/BananaGunRegister_bot). You can then click the **Buy on Banana Gun** link displayed in Cielo alerts to instantly buy the token in question.
 
 \
