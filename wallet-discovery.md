@@ -12,6 +12,6 @@ The more successful a wallet's trading activity for the timeframe covered (1, 7,
 **Note**: The wallets featured in Wallet Discovery are updated every 10 minutes on average based on the trading performance of the wallets Cielo has indexed. As a result, this leaderboard can be expected to change frequently.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/Screenshot 2024-03-02 at 16.31.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 15.48.20.png" alt=""><figcaption></figcaption></figure>
 
 Click the columns at the top of the wallet leaderboard to filter by PnL (i.e profit) or Winrate. Click **Follow** to add a particular wallet to your feed.

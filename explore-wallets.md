@@ -3,7 +3,7 @@
 Public lists are themed wallet lists that have been created by Cielo users. Anyone can view and follow a public list. You can also create and share your own public lists.\
 
 
-<figure><img src=".gitbook/assets/Screenshot 2024-03-02 at 16.49.08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 15.49.22.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Note**: The wallets contained within a public list count towards the total number of Cielo wallets you can follow. If following a particular list will send you over your maximum wallet threshold, you will receive an alert.
