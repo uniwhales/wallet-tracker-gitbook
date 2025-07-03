@@ -24,37 +24,30 @@ Upon signing in to Cielo for the first time, you'll be prompted to connect a Cie
 
 If you are an existing Cielo bot user, select **Telegram Bot to** pair your Telegram bot with the Cielo web app. If you are a new user, selecting **Telegram Bot** will initiate the bot and pair it with the web app. When the Telegram app opens, follow the instructions to complete bot setup and then return to the Cielo web app and click **Continue**.
 
-A quick onboarding tutorial will now start. This presents options for personalizing your Cielo feed and guides you around the web app. If you wish to skip this step, however, click **x**. You can revisit the tutorial at any time – and toggle light between light and dark mode – by clicking the wallet address in the top right:
+A quick onboarding tutorial will now start. This presents options for personalizing your Cielo feed and guides you around the web app. If you wish to skip this step, however, click **x**. You can revisit the tutorial at any time – and toggle light between light and dark mode – by clicking the wallet address in the top right to reveal the following menu:
 
-<figure><img src=".gitbook/assets/Screenshot 2024-03-03 at 12.55.06.png" alt=""><figcaption></figcaption></figure>
-
-Doing so produces the following popup:
-
-<figure><img src=".gitbook/assets/Screenshot 2024-03-03 at 12.55.57.png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 15.25.13.png" alt=""><figcaption></figcaption></figure>
 
 ## Navigation
 
 The Cielo web app comprises the following pages:
 
-[**Feed**](https://app.cielo.finance/feed): The default view for the Cielo web app. It features transactions from wallets you’re following presented chronologically. Use the tabs at the top of the page to filter by specific chains and transaction types.
+[**Feed**](https://app.cielo.finance/feed): The default view for the Cielo web app. Available in Classic and [Lite](https://app.cielo.finance/lite) mode, it features transactions from wallets you’re following presented chronologically. Use the tabs at the top of the page to filter by specific chains and transaction types.
 
-[**Explore Wallets**](https://app.cielo.finance/explore-wallets): Discover interesting wallets and add them to your feed.
+[**Wallet Discovery**](https://app.cielo.finance/wallet-discovery?trendingWalletsFilter=trending\&selectedTag=%2Fv1%2Fleaderboard%2Ftag): Find and follow profitable wallets and add them to your feed _(Pro + Whale feature)_.
 
 [**Public Lists**](https://app.cielo.finance/public-lists): Discover themed lists of wallets created by Cielo users and add them to your feed.
 
-[**Stats**](https://app.cielo.finance/stats): View analytics for the wallets, tokens, and networks you’re tracking. This feature is only available to Pro and Whale subscibers.
-
 [**My Wallets**](https://app.cielo.finance/my-wallets): Add and edit wallets, create lists, and set wallet alerts for Cielo Telegram and Discord bots.
+
+[**Custom Alerts**](https://app.cielo.finance/custom-alerts): Set bot alerts for specific transaction types such as when multiple wallets buy a new token _(Pro + Whale feature)._
+
+[**Insights**](https://app.cielo.finance/insights): Detailed analysis of wallets you're tracking including PnL and popular new tokens _(Whale feature)._
 
 [**Settings**](https://app.cielo.finance/settings): Upgrade your Cielo account, activate or disable Cielo bots, and other controls.
 
-
-
-<figure><img src=".gitbook/assets/Screenshot 2024-03-02 at 15.08.27.png" alt="" width="195"><figcaption><p>Cielo web app menu</p></figcaption></figure>
+[**Learn**](https://app.cielo.finance/learn): Educational resources including video guides and tutorials.
 
 
 
 There's also a global search bar in the top left of the Cielo web app. Use this to find wallets, tokens, NFTs, and lists. The search function will suggest results based on content you're currently following as well as from content you have yet to add to your feed.\
-
-
-<figure><img src=".gitbook/assets/search (1).gif" alt=""><figcaption><p>Cielo search</p></figcaption></figure>
