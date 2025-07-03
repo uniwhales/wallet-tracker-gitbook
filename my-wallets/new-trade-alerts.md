@@ -6,6 +6,6 @@ For the wallet(s) selected, click the **New Trade Alerts** switch to activate th
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-29 at 15.52.21.png" alt="" width="357"><figcaption><p>Toggle the New Trade Alerts switch to activate this feature</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.52.46.png" alt="" width="351"><figcaption><p>Toggle the New Trade Alerts switch to activate this feature</p></figcaption></figure>
 
 Some users also like to be alerted when a wallet they're tracking **sell**s a new token for the first time. This feature can be enabled for New Trade Alerts. To do so, go to [Advanced Settings](https://app.cielo.finance/settings/advanced) and check the box marked **First Sell Alerts**.
