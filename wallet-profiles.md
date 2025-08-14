@@ -4,7 +4,7 @@ Click on the label or address of any wallet that appears in the Cielo web app an
 
 <figure><img src=".gitbook/assets/Screenshot 2025-08-14 at 15.59.55.png" alt=""><figcaption></figcaption></figure>
 
-The URL for the wallet profile is [https://app.cielo.finance/profile/](https://app.cielo.finance/profile/) followed by the wallet address. In this example, it's [https://app.cielo.finance/profile/0xc47fae56f3702737b69ed615950c01217ec5c7c8](https://app.cielo.finance/profile/0xc47fae56f3702737b69ed615950c01217ec5c7c8)
+The URL for the wallet profile is [https://app.cielo.finance/profile/](https://app.cielo.finance/profile/) followed by the wallet address. In this example, it's [https://app.cielo.finance/profile/3tc4BVAdzjr1JpeZu6NAjLHyp4kK3iic7TexMBYGJ4Xk](https://app.cielo.finance/profile/3tc4BVAdzjr1JpeZu6NAjLHyp4kK3iic7TexMBYGJ4Xk)
 
 You can load the wallet profile for any of the networks Cielo supports by entering its address after /profile/ in the same manner or by clicking on the wallet address in the web app.
 
