@@ -16,14 +16,14 @@ The header shows metadata for the wallet in question including the label, addres
 
 ### Wallet Tabs
 
-Below the wallet header, the wallet profile displays the following tabs:
+In the wallet header, the wallet profile displays the following tabs:
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 16.09.52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-08-14 at 16.03.05.png" alt=""><figcaption></figcaption></figure>
 
 * **Activity**: Default view which shows the latest transactions made by this wallet. You can filter results using the tabs at the top of the page (_Chains/Transaction types_ etc)
 * **Profile Stats**: Available to Pro + Whale users. Provides a detailed breakdown of trading activity and behavior for this wallet.
 * **Hyperliquid**: This tab is displayed for EVM wallets and is available to Pro + Whale users. Displays Hyperliquid activity including PnL and current positions.
 * **Portfolio**: Shows tokens currently held by this wallet including total value.
-* **Token PnL**: Shows realized profit made by this wallet and for Pro + Whale users also shows unrealized profit.
+* **PnL**: Shows realized profit made by this wallet and for Pro + Whale users also shows unrealized profit.
 * **Related Wallets**: Shows wallets that have most frequently interacted with this user. These wallets may be controlled by the same user or they may be exchange addresses.
 
