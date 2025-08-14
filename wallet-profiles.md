@@ -2,7 +2,7 @@
 
 Click on the label or address of any wallet that appears in the Cielo web app and it will open the wallet profile in a new tab like this:
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 16.08.41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-08-14 at 15.59.55.png" alt=""><figcaption></figcaption></figure>
 
 The URL for the wallet profile is [https://app.cielo.finance/profile/](https://app.cielo.finance/profile/) followed by the wallet address. In this example, it's [https://app.cielo.finance/profile/0xc47fae56f3702737b69ed615950c01217ec5c7c8](https://app.cielo.finance/profile/0xc47fae56f3702737b69ed615950c01217ec5c7c8)
 
