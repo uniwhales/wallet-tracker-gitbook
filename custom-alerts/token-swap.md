@@ -1,6 +1,6 @@
 # Token Swap
 
-Available to Pro and Whale users, Token Swap allows you to receive an alert any time a swap of at least $1,000 is made for a particular token. Just enter the token's contract address, network, and minimum swap size and you'll receive an alert any time an onchain trade is made that meets this criteria.
+oken Swap allows you to receive an alert any time a swap of at least $1,000 is made for a particular token. Just enter the token's contract address, network, and minimum swap size and you'll receive an alert any time an onchain trade is made that meets this criteria.
 
 Token Swap is available on the following networks: _Solana, Ethereum, Base._
 
