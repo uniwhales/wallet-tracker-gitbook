@@ -6,12 +6,16 @@ description: >-
 
 # Introduction
 
+{% hint style="info" %}
+**NOTE:** You can only connect _one_ Telegram account to your Cielo wallet.
+{% endhint %}
+
 Bots can be set up within the Cielo web app or directly within Telegram. Once initialized, the bot will deliver a Telegram alert any time a tx occurs that matches your criteria. The Discord bot works in exactly the same way but must be configured within the Cielo web app.
 
 Cielo bots allow you to monitor addresses and transaction types that are relevant to your interests while filtering out everything else. Tx are labeled to show the network, tx type, value, and protocol together with informational links.
 
 {% hint style="info" %}
-Because Cielo Telegram bots are integrated with Banana Gun, you can trade tokens instantly within Telegram. First create a [**Banana Gun bot**](https://t.me/BananaGunRegister\_bot). You can then click the **Buy on Banana Gun** link displayed in Cielo Telegram alerts to instantly buy the token in question.
+Because Cielo Telegram bots are integrated with Banana Gun, you can trade tokens instantly within Telegram. First create a [**Banana Gun bot**](https://t.me/BananaGunRegister_bot). You can then click the **Buy on Banana Gun** link displayed in Cielo Telegram alerts to instantly buy the token in question.
 {% endhint %}
 
 ### Labeling

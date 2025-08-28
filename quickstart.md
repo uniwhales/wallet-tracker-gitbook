@@ -11,7 +11,7 @@ You donâ€™t need to know every last feature of Cielo to start using Cielo. Hereâ
 
 
 1. Visit the Cielo [web app](https://app.cielo.finance/) and connect your web wallet.
-2. Follow the prompts and connect your Telegram account.
+2. Follow the prompts and connect your Telegram account. (**NOTE:** You can only connect _one_ Telegram account.)
 3. Skip the onboarding tutorial (you can view it later by clicking your wallet address in the bottom left of the page).
 4. Go to [My Wallets](https://app.cielo.finance/my-wallets), click **Add Wallets** (top right), enter a wallet address and add a label. Repeat.
 5. Alternatively, go to [Public Lists](https://app.cielo.finance/public-lists), find an interesting list and click **Follow**.&#x20;
