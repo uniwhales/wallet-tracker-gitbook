@@ -41,6 +41,30 @@ The following options are displayed:
 
 
 
+You can also control the Telegram bot by entering the following commands:
+
+<mark style="color:blue;">/start -</mark> Initialize the bot
+
+<mark style="color:blue;">/add\_wallet\_or\_token</mark> - Add new wallet or token
+
+<mark style="color:blue;">/list</mark> - Get the list of all tracked wallets / tokens
+
+<mark style="color:blue;">/bots</mark> - View available reserve bots
+
+<mark style="color:blue;">/pnl</mark> - Get PnL stats for a wallet
+
+<mark style="color:blue;">/menu</mark> - Open the menu
+
+<mark style="color:blue;">/add \[wallet] \[label]</mark> - Add a new wallet. You can specify multiple wallets separated by comma (e.g. /add WALLET\_ADDRESS\_1 LABEL\_1, WALLET\_ADDRESS\_2 LABEL\_2)
+
+<mark style="color:blue;">/add\_token \[chain\_name] \[token\_address] \[min\_amount\_usd]</mark> - Add a new token
+
+<mark style="color:blue;">/bot\_settings</mark> - Open bot settings
+
+<mark style="color:blue;">/delete \[wallet</mark>] - Delete wallet. You can specify multiple wallets separated by comma (e.g. /delete WALLET\_ADDRESS\_1, WALLET\_ADDRESS\_2)
+
+<mark style="color:blue;">/help</mark> - View a list of all supported commands
+
 ### Adding a wallet
 
 To add a wallet using the Telegram bot, click the blue menu icon followed by the top option that appears: **Add new wallet or token**.
@@ -135,7 +159,7 @@ _**Disclaimer**: Trading tokens, particularly new memecoins, is risky as there i
 _tl;dr DYOR._
 {% endhint %}
 
-To enable Telegram swaps, create a [**Banana Gun bot**](https://t.me/BananaGunRegister\_bot). You can then click the **Buy on Banana Gun** link displayed in Cielo alerts to instantly buy the token in question.
+To enable Telegram swaps, create a [**Banana Gun bot**](https://t.me/BananaGunRegister_bot). You can then click the **Buy on Banana Gun** link displayed in Cielo alerts to instantly buy the token in question.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-08-14 at 14.14.18.png" alt=""><figcaption></figcaption></figure>
 
