@@ -8,7 +8,7 @@ coverY: 0
 
 Cielo is an information layer for web3. It allows you to discover wallets and tokens and add them to a real-time feed of onchain activity. Transactions can be filtered by type, size, and network and viewed in the Cielo web app or in Discord/Telegram using a Cielo bot. Tokens can also be traded directly within Telegram using the integrated Banana Gun bot.
 
-From tracking whales to monitoring personal wallets, Cielo deciphers the onchain transactions that matter. Zero in on a smart wallet or zoom out to discern broader trends 🔎
+From tracking whales to monitoring personal wallets, Cielo deciphers the onchain transactions that matter. Advanced features include Hyperliquid tracking, providing real-time insights into perps activity. Zero in on a smart wallet or zoom out to discern broader trends 🔎
 
 Monitoring your own wallets allows notification of such events as:
 
@@ -23,6 +23,8 @@ Monitoring third party wallets including smart contract addresses reveals such e
 * NFT mints
 * Whale trades
 * New tokens traded by wallets you're following
+* Bets placed on Polymarket
+* Perps positions created on Hyperliquid
 
 Cielo lets you track up to **250 wallets** for free and up to 10,000 when you upgrade your plan. The wallets Cielo prepopulates your feed with count towards your maximum quota, but you are free to delete or amend these. More information on Cielo plans and features can be found in [Settings](https://app.cielo.finance/settings).\
 
@@ -34,7 +36,7 @@ Cielo provides an insight into **who’s** trading, **how**, **where**, and **wh
 
 **Who**: Add wallet addresses and ENS for top traders, influencers, team treasuries, whales, hedge funds, hackers, and heroes.
 
-**How**: Tx are labeled with useful information such as swap size, protocol, PnL, and direction (long/short perps).
+**How**: Tx are labeled with useful information such as swap size, protocol, PnL, and direction (long/short perps). Set a USD minimum to only see transactions above a certain size.
 
 **Where**: Watch the action unfold across all the leading EVM chains, Solana, Bitcoin, and hundreds of protocols, all accurately labeled for ease of identification.
 
