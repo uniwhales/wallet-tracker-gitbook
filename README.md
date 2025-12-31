@@ -16,13 +16,19 @@ Whether you're tracking whales or monitoring your own portfolio, Cielo makes onc
 * **Trade**: Integrated Solana trading with ultra-low latency.
 * **Analyze**: Use aggregated alpha to stay ahead of the pack.
 
+#### 🛠 Key Features
 
+* **Integrated Solana Trading**: Trade any Solana token across DEXs, launchpads, and protocols directly within the Cielo web app ⚡
+* **Mindshare** 🧠: A proprietary algorithm that shows the level of activity a token is receiving among all Cielo users. The higher the Mindshare %, the hotter the token.
+* **Feed**: Filter by swap size, PnL, and network. Now including **Quick Buy** button for instant Solana swaps 🛒
 
 Cielo lets you track up to **250 wallets** for free and up to 10,000 when you upgrade your plan. The wallets Cielo prepopulates your feed with count towards your maximum quota, but you are free to delete or amend these. More information on Cielo plans and features can be found in [Settings](https://app.cielo.finance/settings).<br>
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 15.16.04.png" alt=""><figcaption><p>Cielo web app</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-12-31 at 15.08.02.png" alt=""><figcaption></figcaption></figure>
 
-Cielo provides an insight into **who’s** trading, **how**, **where**, and **why**.<br>
+
+
+#### Cielo provides an insight into who’s trading, how, where, and why.
 
 **Who**: Add wallet addresses and ENS for top traders, influencers, team treasuries, whales, hedge funds, hackers, and heroes.
 
