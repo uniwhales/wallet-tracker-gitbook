@@ -6,25 +6,17 @@ coverY: 0
 
 # Overview
 
-Cielo is an information layer for web3. It allows you to discover wallets and tokens and add them to a real-time feed of onchain activity. Transactions can be filtered by type, size, and network and viewed in the Cielo web app or in Discord/Telegram using a Cielo bot. Tokens can also be traded directly within Telegram using the integrated Banana Gun bot.
+Cielo is the ultimate information and execution layer for web3. It allows you to discover, track, and instantly trade tokens within a single interface.
 
-From tracking whales to monitoring personal wallets, Cielo deciphers the onchain transactions that matter. Advanced features include Hyperliquid tracking, providing real-time insights into perps activity. Zero in on a smart wallet or zoom out to discern broader trends 🔎
+Whether you're tracking whales or monitoring your own portfolio, Cielo makes onchain make sense.
 
-Monitoring your own wallets allows notification of such events as:
+#### 🚀 What Cielo Does
 
-* Being paid by a client
-* Receiving an airdrop
-* Selling an NFT
+* **Track**: Monitor 30+ chains with real-time alerts.
+* **Trade**: Integrated Solana trading with ultra-low latency.
+* **Analyze**: Use aggregated alpha to stay ahead of the pack.
 
-Monitoring third party wallets including smart contract addresses reveals such events as:
 
-* Swaps of a particular token e.g. ARB
-* Token unlocks and distribution
-* NFT mints
-* Whale trades
-* New tokens traded by wallets you're following
-* Bets placed on Polymarket
-* Perps positions created on Hyperliquid
 
 Cielo lets you track up to **250 wallets** for free and up to 10,000 when you upgrade your plan. The wallets Cielo prepopulates your feed with count towards your maximum quota, but you are free to delete or amend these. More information on Cielo plans and features can be found in [Settings](https://app.cielo.finance/settings).<br>
 
@@ -52,8 +44,7 @@ Along the way you’ll learn how to:
 
 * Interpret your feed
 * Create custom lists
-* Import, modify, and share premade lists
-* Filter out low-value transactions
+* Trade Solana tokens
 
 …and much more 👏
 
