@@ -68,8 +68,7 @@ Copy trading relies heavily on automation. Selecting the right execution bot is 
 
 * Has an intuitive UI you're comfortable with
 * Offers customizable settings for fine-tuning
-* Balances execution speed with minimal fee costs\
-
+* Balances execution speed with minimal fee costs<br>
 
 ## Considerations when copy trading
 
@@ -79,8 +78,7 @@ Copy trading relies heavily on automation. Selecting the right execution bot is 
 
 * Delays in execution can cause major slippage or missed entries, especially in volatile markets.
 * But going fast without precision leads to unnecessary losses.
-* Prioritize speed with stability, especially during high-volume trading windows.\
-
+* Prioritize speed with stability, especially during high-volume trading windows.<br>
 
 **2. Fine-Tune Your Settings**
 
@@ -113,4 +111,4 @@ Adjust based on market behavior or your lead trader’s activity pattern
 
 \
 \
-\
+<br>

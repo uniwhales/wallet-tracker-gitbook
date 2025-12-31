@@ -46,9 +46,8 @@ Keep an eye on overall market trends to understand if your copy trading results 
 ### Additional Tips
 
 * **Schedule Regular Reviews**: Set a calendar reminder to review your performance weekly or monthly.
-* **Document Your Changes**: Keep notes on why you made adjustments. This helps you learn and improve over time.\
-
+* **Document Your Changes**: Keep notes on why you made adjustments. This helps you learn and improve over time.<br>
 
 By actively monitoring and adjusting your copy trading setup, you’ll be better equipped to optimize your returns, manage risk, and avoid common pitfalls. Remember: successful copy trading is an ongoing process.
 
-\
+<br>

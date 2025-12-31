@@ -25,4 +25,4 @@ You donâ€™t need to know every last feature of Cielo to start using Cielo. Hereâ
 13. Unlock additional features and more wallets by visiting [**Settings**](https://app.cielo.finance/settings) and subscribing to a Pro or Whale plan.
 14. If you would like to execute trades within Telegram, create a [**Banana Gun bot**](https://t.me/BananaGunRegister_bot). You can then click the **Buy on Banana Gun** link displayed in Cielo alerts to instantly buy the token in question.
 
-\
+<br>

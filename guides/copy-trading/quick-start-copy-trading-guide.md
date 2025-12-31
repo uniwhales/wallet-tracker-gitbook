@@ -58,4 +58,4 @@ If you're looking to start copy trading with Cielo, here's a quick start guide t
 
 * Refer to the glossary for any unfamiliar terms or concepts.
 
-\
+<br>

@@ -8,4 +8,4 @@ Follow the prompts and click the link that appears asking you to approve the upd
 
 And that’s it: you should have not upgraded to the latest Cielo Discord bot and can start enjoying better performance and enhanced features.
 
-\
+<br>

@@ -32,8 +32,7 @@ Finally, click on **Transaction type filters** and make sure you’ve enabled al
 
 Remember, the number of Telegram/Discord alerts you can receive is capped at 120 per hour for Free users and 1,000/3,000 for Pro/Whale. If you hit this limit, alerts will temporarily be halted but will resume at the start of the next hour.
 
-\
-
+<br>
 
 </details>
 
@@ -61,8 +60,7 @@ Go to [My Wallets](https://app.cielo.finance/my-wallets) and select all wallets 
 
 4\. Disable alerts for wallets marked High tx that are particularly active.
 
-\
-
+<br>
 
 </details>
 
@@ -78,8 +76,7 @@ Private bots allow Pro + Whale users to access the same service through a dedica
 
 There are just two disadvantages to private bots: unlike regular Cielo bots, they can’t be added to groups
 
-\
-
+<br>
 
 </details>
 
@@ -99,8 +96,7 @@ If you’ve been signed out of the Cielo web app and have multiple wallets insta
 
 _**Note**: If you used Phantom wallet to sign up to Cielo and have since disabled EVM within the wallet, this will account for why you can’t sign in to Cielo. Reactivate your Phantom EVM address to resolve this._
 
-\
-
+<br>
 
 </details>
 
@@ -154,8 +150,7 @@ Some of these bots, which are operated by sophisticated teams, perform hundreds 
 
 <summary>How do I change the default charting tool?</summary>
 
-By default, this is set to GeckoTerminal but Cielo supports multiple options. Go to **Settings** > [**Advanced** ](https://app.cielo.finance/settings/advanced)and select a different charting tool from the dropdown menu. Options include DEX Screener, DEXTools, and Photon.\
-
+By default, this is set to GeckoTerminal but Cielo supports multiple options. Go to **Settings** > [**Advanced** ](https://app.cielo.finance/settings/advanced)and select a different charting tool from the dropdown menu. Options include DEX Screener, DEXTools, and Photon.<br>
 
 </details>
 
@@ -163,8 +158,7 @@ By default, this is set to GeckoTerminal but Cielo supports multiple options. Go
 
 <summary>How do I view the token contract address in swap alerts?</summary>
 
-To enable this feature, go to **Settings** > [**Advanced** ](https://app.cielo.finance/settings/advanced) and check the box marked _Display Token Address in Alerts_. Now, whenever you receive a Telegram or Discord alert for a token swap, the smart contract address will be displayed and can be copied in one click.\
-
+To enable this feature, go to **Settings** > [**Advanced** ](https://app.cielo.finance/settings/advanced) and check the box marked _Display Token Address in Alerts_. Now, whenever you receive a Telegram or Discord alert for a token swap, the smart contract address will be displayed and can be copied in one click.<br>
 
 </details>
 
@@ -181,8 +175,7 @@ The following resources can be used to find wallets and add them to your Cielo f
 * Dex Screener and DEXTools: In [Dex Screener](https://dexscreener.com/) click on **Top Traders** for a token, open the wallet in a block explorer and copy the address
 * Twitter/Telegram: Follow accounts that share the wallets of top traders
 
-\
-
+<br>
 
 </details>
 
@@ -225,7 +218,6 @@ Both realized and unrealized PnL can be viewed for wallet profiles, while Wallet
 
 Cielo assigns tags to certain wallets to support filtering for Wallet Discovery. The same tag is also displayed on the profile page of qualifying wallets. The Popular Wallets tag is added to any wallet that is being followed by more than 30 users on the Cielo free plan. Because Cielo uses aggregated data to generate this tag, information concerning the behavior of individual users is neither stored nor discoverable by other users. Moreover, aggregated Pro and Whale data is not used in the calculation of the Popular Wallets tag.
 
-\
-
+<br>
 
 </details>

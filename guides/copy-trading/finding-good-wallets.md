@@ -66,8 +66,7 @@ These are goldmines.
 
 * Join groups on Telegram  that share wallet addresses when a call hits. You can find groups for example in the channel of well-known copy trade bots.
 * Use bots like DexScreener, DexTools, and CieloBot to track real-time buys/sells.
-* Build a system to log addresses mentioned in groups, then analyze trade histories.\
-
+* Build a system to log addresses mentioned in groups, then analyze trade histories.<br>
 
 #### 7. Token Sniping Bots
 
@@ -91,14 +90,12 @@ Some influencers trade publicly from known wallets:
 
 
 
-Using Cielo wallet tags to find quality wallets\
-
-
+Using Cielo wallet tags to find quality wallets<br>
+---------------------------------------------------
 
 What kind of wallet do you want to track? And for what purpose? Depending on your answer, there are multiple ways to approach this. Whatever your answer, Cielo's wallet tags will help you identify wallets that align with your copy trading goals. Some of these tags help to identify the type of trader behind the wallet. Certain tags can also flag suspicious trading behavior and you should be aware of the risks that come with tracking them.
 
-The following tags can be found on the Cielo profile page for the wallet in question and are also on the Wallet Discovery [page](https://app.cielo.finance/wallet-discovery), where you can search by tag e.g. _Gem Finder._\
-
+The following tags can be found on the Cielo profile page for the wallet in question and are also on the Wallet Discovery [page](https://app.cielo.finance/wallet-discovery), where you can search by tag e.g. _Gem Finder._<br>
 
 **Human-Operated:** Wallet is not controlled by a bot, but by a real human. We carefully check the trading behavior of these wallets in Cielo before adding this tag. There are patterns that indicate that this is not a trading bot.&#x20;
 
@@ -132,4 +129,4 @@ The following tags can be found on the Cielo profile page for the wallet in ques
 
 Each wallet type offers a unique entry point into the world of crypto copy trading. Whether you’re drawn to the speed of bots, the instincts of early movers, or the steady hand of experienced traders, understanding these wallet archetypes will help you identify the right kind of trader to copy.
 
-\
+<br>

@@ -134,8 +134,7 @@ Then choose which of the four available terminals you would like to use for char
 ### Viewing contract address
 
 \
-To trade a token that is displayed in the Cielo web app or Telegram bot, the contract address is required. Upon pasting this into a DEX such as Uniswap or an aggregator like Dexscreener, you can trade the token in question. There are a number of ways to obtain the contract address:\
-
+To trade a token that is displayed in the Cielo web app or Telegram bot, the contract address is required. Upon pasting this into a DEX such as Uniswap or an aggregator like Dexscreener, you can trade the token in question. There are a number of ways to obtain the contract address:<br>
 
 1\. Click the **ViewTx** link to inspect the transaction in a block explorer.
 

@@ -2,8 +2,7 @@
 
 The Cielo web app and Telegram/Discord bots are free to use. Up to 250 wallets can be tracked including 10 Solana wallets as well as 5 tokens and 5 lists with no subscription. To access additional features, including tracking for thousands of wallets, Pro and Whale tier plans are available.
 
-**Pro** users can access two Telegram bots and track 1,000 wallets, while **Whale** users can access six Telegram bots and track 10,000 wallets.\
-
+**Pro** users can access two Telegram bots and track 1,000 wallets, while **Whale** users can access six Telegram bots and track 10,000 wallets.<br>
 
 ### Pro
 
@@ -13,8 +12,7 @@ The Cielo web app and Telegram/Discord bots are free to use. Up to 250 wallets c
 * Create 10 lists
 * 2 Discord channels
 * 2 Telegram bots
-* Wallet discovery\
-
+* Wallet discovery<br>
 
 ### Whale
 
@@ -31,4 +29,4 @@ The Cielo web app and Telegram/Discord bots are free to use. Up to 250 wallets c
 
 Learn more about Cielo plans and upgrade [**here**](https://app.cielo.finance/settings/plans). Pro and Whale plans can be purchased for one month, six months, or 12 months using credit/debit card. They can alternatively be purchased for six moths or 12 months using crypto. Should you subscription expire, your Cielo account will revert to free and your permissions will reduce accordingly.
 
-\
+<br>

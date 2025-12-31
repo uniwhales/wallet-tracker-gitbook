@@ -1,6 +1,6 @@
 ---
 description: What is Cielo?
-cover: .gitbook/assets/Blog Artwork (1).png
+cover: .gitbook/assets/Cover.png
 coverY: 0
 ---
 
@@ -26,13 +26,11 @@ Monitoring third party wallets including smart contract addresses reveals such e
 * Bets placed on Polymarket
 * Perps positions created on Hyperliquid
 
-Cielo lets you track up to **250 wallets** for free and up to 10,000 when you upgrade your plan. The wallets Cielo prepopulates your feed with count towards your maximum quota, but you are free to delete or amend these. More information on Cielo plans and features can be found in [Settings](https://app.cielo.finance/settings).\
-
+Cielo lets you track up to **250 wallets** for free and up to 10,000 when you upgrade your plan. The wallets Cielo prepopulates your feed with count towards your maximum quota, but you are free to delete or amend these. More information on Cielo plans and features can be found in [Settings](https://app.cielo.finance/settings).<br>
 
 <figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 15.16.04.png" alt=""><figcaption><p>Cielo web app</p></figcaption></figure>
 
-Cielo provides an insight into **who’s** trading, **how**, **where**, and **why**.\
-
+Cielo provides an insight into **who’s** trading, **how**, **where**, and **why**.<br>
 
 **Who**: Add wallet addresses and ENS for top traders, influencers, team treasuries, whales, hedge funds, hackers, and heroes.
 
@@ -61,4 +59,4 @@ Along the way you’ll learn how to:
 
 If you need further help, the [Cielo Community](https://t.me/cielocommunity) Telegram channel is where you can troubleshoot, expand your knowledge, and submit feature requests.
 
-\
+<br>

@@ -1,4 +1,4 @@
-# Scam Tokens
+# Avoiding Scam Tokens
 
 ## What Are Scam Tokens?
 
@@ -15,8 +15,7 @@ These scammers often use tactics such as:
 
 Next to this you also have tokens that are unsolicited or malicious digital assets sent to crypto wallets, typically as part of fraudulent schemes such as scam airdrops, honeypots, or rug pulls. These tokens are often designed to mimic legitimate cryptocurrencies by copying their names, symbols, or branding, and are created with the intent to deceive or defraud investors.&#x20;
 
-Common tactics include distributing tokens as free airdrops, running fake promotions, or presenting tokens with unrealistic values to entice users into interacting with them. Once you engage, you may be tricked into connecting your wallet to a malicious site, providing personal information, or investing in worthless assets, often resulting in financial loss or compromised security.\
-
+Common tactics include distributing tokens as free airdrops, running fake promotions, or presenting tokens with unrealistic values to entice users into interacting with them. Once you engage, you may be tricked into connecting your wallet to a malicious site, providing personal information, or investing in worthless assets, often resulting in financial loss or compromised security.<br>
 
 ## How Do Scam Tokens End Up in Wallets?
 
@@ -24,8 +23,7 @@ Scammers exploit the openness of public blockchain addresses by sending scam tok
 
 **Solana Launch Markets**: Platforms like Pump.fun and Raydium have become hotspots for scam tokens, especially memecoins. Due to low transaction fees and fast settlement, scammers can quickly deploy and promote fraudulent tokens. Common scams include honeypots, soft rug pulls, and fake launchpad clones that trick you into connecting wallets or funding fake sales.
 
-**Ethereum Launch Markets**: Similar scams occur on Ethereum, where fraudulent projects launch tokens on DEXs like Uniswap. These tokens are promoted through social media and fake communities, often with promises of high returns or exclusive access. Scammers may engineer smart contracts to restrict selling, drain liquidity, or require you to approve malicious transactions, compromising wallet security.\
-
+**Ethereum Launch Markets**: Similar scams occur on Ethereum, where fraudulent projects launch tokens on DEXs like Uniswap. These tokens are promoted through social media and fake communities, often with promises of high returns or exclusive access. Scammers may engineer smart contracts to restrict selling, drain liquidity, or require you to approve malicious transactions, compromising wallet security.<br>
 
 ## Red Flags to Identify Scam Tokens
 
@@ -62,8 +60,7 @@ Here is a clear, actionable list of red flags that can help you spot scam tokens
 
 Interacting with scam tokens poses significant security risks as it can trigger unauthorized transactions or even lead to full wallet compromise, exposing your assets and sensitive data to scammers. Additionally, the presence of these tokens in your wallet can artificially inflate your portfolio’s value, resulting in financial distortion that undermines the accuracy of portfolio tracking.\
 \
-Additionally, scam tokens often have artificially manipulated prices and may be impossible to sell, trapping your funds. Always verify the legitimacy of tokens before trading to protect your assets.\
-
+Additionally, scam tokens often have artificially manipulated prices and may be impossible to sell, trapping your funds. Always verify the legitimacy of tokens before trading to protect your assets.<br>
 
 ## How to Handle Scam Tokens
 
@@ -98,8 +95,7 @@ Always begin by verifying token contract addresses on trusted platforms like Coi
 
 Utilize wallet security features such as two-factor authentication and leverage third-party tools designed to detect scam tokens and monitor transactions. Staying informed with online crypto communities allows you to learn about emerging scams and best security practices. Before investing, thoroughly research the project’s transparency, team credibility, and community feedback to avoid falling victim to fraudulent schemes.
 
-If you happen to receive scam tokens, there is an option to burn them by sending them to a burn address but this does cost a gas fee.\
-
+If you happen to receive scam tokens, there is an option to burn them by sending them to a burn address but this does cost a gas fee.<br>
 
 ## Conclusion
 
@@ -107,4 +103,4 @@ It’s crucial to remain vigilant and proactively manage scam tokens to protect 
 
 By leveraging the built-in tools such as automated detection, custom filters, and contract verification you can more easily identify and handle scam tokens before they cause harm. Staying informed about the latest scam tactics and regularly updating security practices further strengthens protection.&#x20;
 
-\
+<br>

@@ -43,21 +43,17 @@ Think of Solana’s rent system like renting a storage locker:
 * If you want to store a few boxes, you pay for a small locker.
 * If you want to store furniture, you need a bigger locker and pay more (bigger rent deposit).
 * As long as you keep paying, your stuff stays safe.
-* If you empty your locker and close your account, you get your deposit back\
-
+* If you empty your locker and close your account, you get your deposit back<br>
 
 In case you're wondering, here's why this system is used on Solana:
 
-**Deposit, Not a Subscription**: Unlike paying rent for an apartment every month, Solana’s rent is a one-time deposit. As long as you keep enough SOL in your account, you don’t lose any money over time. When you’re done, you can “close your locker” and get your deposit back.\
+**Deposit, Not a Subscription**: Unlike paying rent for an apartment every month, Solana’s rent is a one-time deposit. As long as you keep enough SOL in your account, you don’t lose any money over time. When you’re done, you can “close your locker” and get your deposit back.<br>
 
-
-**Encourages Efficient Use**: Just as storage facilities want to avoid people leaving empty boxes in lockers forever, Solana’s rent system encourages users to clean up unused accounts. If you don’t keep enough SOL in your account, Solana can remove your data to free up space for others.\
-
+**Encourages Efficient Use**: Just as storage facilities want to avoid people leaving empty boxes in lockers forever, Solana’s rent system encourages users to clean up unused accounts. If you don’t keep enough SOL in your account, Solana can remove your data to free up space for others.<br>
 
 #### How Much Space Do You Need?
 
-The more data you store, the higher your minimum balance needs to be. For example, a basic token account might need about 0.002 SOL as a deposit – just a few cents.\
-
+The more data you store, the higher your minimum balance needs to be. For example, a basic token account might need about 0.002 SOL as a deposit – just a few cents.<br>
 
 #### What happens if you can't pay for the rent?
 
@@ -67,7 +63,7 @@ In practical terms, if you don't keep enough lamports in your account to meet th
 
 
 
-#### Buying a new token on Solana 
+#### Buying a new token on Solana<br>
 
 * You pay for the token.
 * You also pay a small extra amount of SOL as rent for the new account that holds your token.
@@ -89,8 +85,7 @@ To close a Solana account (such as a token account), you need to remove all toke
 
 ### What is Sol Incinerator?
 
-Sol Incinerator is a decentralized application (dapp) built for Solana that lets users easily burn (permanently delete) unwanted tokens, NFTs, and even SOL domains from their wallet. When you burn these assets, any SOL locked as storage rent in those accounts is returned to your wallet.\
-
+Sol Incinerator is a decentralized application (dapp) built for Solana that lets users easily burn (permanently delete) unwanted tokens, NFTs, and even SOL domains from their wallet. When you burn these assets, any SOL locked as storage rent in those accounts is returned to your wallet.<br>
 
 **Key Features:**
 
@@ -111,4 +106,4 @@ Sol Incinerator is a decentralized application (dapp) built for Solana that lets
 
 \
 \
-\
+<br>

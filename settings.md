@@ -45,10 +45,8 @@
 * Identify if alerts have been undelivered due to filters you have applied to wallets (e.g. enabling New Trade Alerts only)
 * Check that you have not exceeded the maximum number of wallet profile views your plan permits
 
-\
+<br>
 
+<br>
 
-\
-
-
-\
+<br>

@@ -28,4 +28,4 @@ When you have selected the wallets you wish to bulk edit, click **Alert Settings
 
 
 \
-\
+<br>

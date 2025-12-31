@@ -3,8 +3,7 @@
 The [Custom Alerts](https://app.cielo.finance/custom-alerts) page allows you to create Telegram/Discord alerts for token swaps and other onchain events. In just a few clicks you can enable notifications for:
 
 * Trades of a particular token
-* New token trades by a specified number of wallets _(Pro+Whale)_\
-
+* New token trades by a specified number of wallets _(Pro+Whale)_<br>
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 16.04.40.png" alt=""><figcaption></figcaption></figure>
 
@@ -16,4 +15,4 @@ To create an alert, click **Create** and in the pop-up window enter the desired 
 
 
 
-\
+<br>

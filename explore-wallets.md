@@ -1,7 +1,6 @@
 # Public Lists
 
-Public lists are themed wallet lists that have been created by Cielo users. Anyone can view and follow a public list. You can also create and share your own public lists.\
-
+Public lists are themed wallet lists that have been created by Cielo users. Anyone can view and follow a public list. You can also create and share your own public lists.<br>
 
 <figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 15.49.22.png" alt=""><figcaption></figcaption></figure>
 
@@ -11,8 +10,7 @@ Public lists are themed wallet lists that have been created by Cielo users. Anyo
 
 ## Browsing public lists
 
-The public list explorer automatically filters results by popularity. Hit the **Trending** tab at the top of the leaderboard to filter by date added. There’s also a search bar: type in _NFT_ for instance and related public lists will appear.\
-
+The public list explorer automatically filters results by popularity. Hit the **Trending** tab at the top of the leaderboard to filter by date added. There’s also a search bar: type in _NFT_ for instance and related public lists will appear.<br>
 
 The list explorer displays the following information alongside each entry:
 
@@ -35,4 +33,4 @@ Any Cielo user can create a list and set it to public. Doing so will make it vis
 {% endhint %}
 
 \
-Public lists are a great way to glean how other people are using Cielo and to gather ideas of your own. They also provide a quick way to fill your feed with interesting tx and monitor the types of trades that are taking place onchain every day.\
+Public lists are a great way to glean how other people are using Cielo and to gather ideas of your own. They also provide a quick way to fill your feed with interesting tx and monitor the types of trades that are taking place onchain every day.<br>
