@@ -4,7 +4,7 @@ description: Start using Cielo in 60 seconds and familarize yourself with core f
 
 # Quick Start Guide
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 15.17.45.png" alt=""><figcaption><p>Cielo feed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.17.45.png" alt=""><figcaption><p>Cielo feed</p></figcaption></figure>
 
 You don’t need to know every last feature of Cielo to start using Cielo. Here’s how to get started in 60 seconds, add your first wallets, create your first list, and set custom Telegram/Discord alerts.
 

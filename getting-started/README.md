@@ -4,15 +4,15 @@
 
 To get started, visit[ app.cielo.finance](https://app.cielo.finance/) where you’ll see the Cielo web app in preview mode:
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 15.19.18.png" alt=""><figcaption><p>Cielo web app: preview mode</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.19.18.png" alt=""><figcaption><p>Cielo web app: preview mode</p></figcaption></figure>
 
 
 
-**My Feed** displays recent transactions by wallets Cielo has preselected for you. You can edit these wallets and add new ones once you're logged in.
+**Feed** displays recent transactions by wallets Cielo has preselected for you. You can edit these wallets and add new ones once you're logged in.
 
 To start using Cielo, you need to log in by connecting your web wallet. To do so, click the **Connect** button in the top right of the page.
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 15.19.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.19.59.png" alt=""><figcaption></figcaption></figure>
 
 Your web wallet will prompt you to sign a message confirming you wish to log in to Cielo.
 
@@ -26,7 +26,7 @@ If you are an existing Cielo bot user, select **Telegram Bot to** pair your Tele
 
 A quick onboarding tutorial will now start. This presents options for personalizing your Cielo feed and guides you around the web app. If you wish to skip this step, however, click **x**. You can revisit the tutorial at any time – and toggle light between light and dark mode – by clicking the wallet address in the top right to reveal the following menu:
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 15.25.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.25.13.png" alt=""><figcaption></figcaption></figure>
 
 ## Navigation
 
@@ -38,7 +38,7 @@ The Cielo web app comprises the following pages:
 
 [**Public Lists**](https://app.cielo.finance/public-lists): Discover themed lists of wallets created by Cielo users and add them to your feed.
 
-[**My Wallets**](https://app.cielo.finance/my-wallets): Add and edit wallets, create lists, and set wallet alerts for Cielo Telegram and Discord bots.
+[**Tracking**](https://app.cielo.finance/tracking): Add and edit wallets, create lists, and set wallet alerts for Cielo Telegram and Discord bots.
 
 [**Custom Alerts**](https://app.cielo.finance/custom-alerts): Set bot alerts for specific transaction types such as when multiple wallets buy a new token _(Pro + Whale feature)._
 

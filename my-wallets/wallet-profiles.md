@@ -2,7 +2,7 @@
 
 Click on the label or address of any wallet that appears in the Cielo web app and it will open the wallet profile in a new tab like this:
 
-<figure><img src=".gitbook/assets/Screenshot 2025-08-14 at 15.59.55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-14 at 15.59.55.png" alt=""><figcaption></figcaption></figure>
 
 The URL for the wallet profile is [https://app.cielo.finance/profile/](https://app.cielo.finance/profile/) followed by the wallet address. In this example, it's [https://app.cielo.finance/profile/3tc4BVAdzjr1JpeZu6NAjLHyp4kK3iic7TexMBYGJ4Xk](https://app.cielo.finance/profile/3tc4BVAdzjr1JpeZu6NAjLHyp4kK3iic7TexMBYGJ4Xk)
 
@@ -18,7 +18,7 @@ The header shows metadata for the wallet in question including the label, addres
 
 In the wallet header, the wallet profile displays the following tabs:
 
-<figure><img src=".gitbook/assets/Screenshot 2025-08-14 at 16.07.46.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-14 at 16.07.46.png" alt=""><figcaption></figcaption></figure>
 
 * **PnL**: Shows realized profit made by this wallet and for Pro + Whale users also shows unrealized profit.
 * **Feed**: Shows the latest transactions made by this wallet. You can filter results using the tabs at the top of the page (_Chains/Transaction types_ etc)

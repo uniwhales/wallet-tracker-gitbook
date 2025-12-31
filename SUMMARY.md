@@ -1,15 +1,15 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Quick Start Guide](quickstart.md)
-* [Getting Started](getting-started.md)
+* [Getting Started](getting-started/README.md)
+  * [Quick Start Guide](getting-started/quickstart.md)
 * [Feed](feed/README.md)
   * [Filters](feed/filtering.md)
 * [Discovery](discovery/README.md)
   * [Wallet Discovery](discovery/wallet-discovery.md)
   * [Public Lists](discovery/public-lists.md)
-* [Insights](insights.md)
 * [Tracking](my-wallets/README.md)
+  * [Wallet Profiles](my-wallets/wallet-profiles.md)
   * [New Trade Alerts](my-wallets/new-trade-alerts.md)
   * [Token Filters](my-wallets/token-filters.md)
   * [Lists](my-wallets/lists.md)
@@ -18,10 +18,11 @@
 * [Custom Alerts](custom-alerts/README.md)
   * [Multiple Wallet](custom-alerts/multiple-wallet.md)
   * [Token Swap](custom-alerts/token-swap.md)
-* [Wallet Profiles](wallet-profiles.md)
-* [Settings](settings.md)
+* [Insights](insights.md)
+* [Portfolio](portfolio.md)
+* [Settings](settings/README.md)
+  * [Cielo Web Extension](settings/cielo-web-extension.md)
 * [Subscribe](subscribe.md)
-* [Cielo Web Extension](cielo-web-extension.md)
 * [FAQ](faq.md)
 
 ## Discord + Telegram Bots

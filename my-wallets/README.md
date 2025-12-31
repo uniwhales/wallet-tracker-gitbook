@@ -1,6 +1,6 @@
 # Tracking
 
-[**Tracking**](https://trading.cielo.finance/tracking) is your mission control. It’s where you add, edit, and delete wallets and lists. It’s also where you control the Telegram/Discord alerts you receive for wallets and lists you’re following.
+[**Tracking**](https://app.cielo.finance/tracking) is your mission control. It’s where you add, edit, and delete wallets and lists. It’s also where you control the Telegram/Discord alerts you receive for wallets and lists you’re following.
 
 ## Adding Wallets
 
