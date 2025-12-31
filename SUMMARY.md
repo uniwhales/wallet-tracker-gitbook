@@ -3,6 +3,7 @@
 * [Overview](README.md)
 * [Getting Started](getting-started/README.md)
   * [Quick Start Guide](getting-started/quickstart.md)
+* [Trending](trending.md)
 * [Feed](feed/README.md)
   * [Filters](feed/filtering.md)
 * [Discovery](discovery/README.md)
