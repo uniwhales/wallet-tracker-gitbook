@@ -1,6 +1,6 @@
-# My Wallets
+# Tracking
 
-[**My Wallets**](https://app.cielo.finance/my-wallets) is your mission control. It’s where you add, edit, and delete wallets and lists. It’s also where you control the Telegram/Discord alerts you receive for wallets and lists you’re following.
+[**Tracking**](https://trading.cielo.finance/tracking) is your mission control. It’s where you add, edit, and delete wallets and lists. It’s also where you control the Telegram/Discord alerts you receive for wallets and lists you’re following.
 
 ## Adding Wallets
 
@@ -13,7 +13,7 @@ Enter the wallet address and add an optional label for identification e.g. _Vita
 
 ## Editing Wallets
 
-Tick the checkbox at the top of the page to select all wallets or select individual wallets and make edits to them. You can also use the tabs at the top of the **My Wallets** page to filter wallets by list, type, chain,  and whether they are currently unassigned to a list.
+Tick the checkbox at the top of the page to select all wallets or select individual wallets and make edits to them. You can also use the tabs at the top of the **Tracking** page to filter wallets by list, type, chain,  and whether they are currently unassigned to a list.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.51.23.png" alt=""><figcaption></figcaption></figure>
 

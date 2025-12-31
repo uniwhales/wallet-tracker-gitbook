@@ -29,7 +29,7 @@ To edit the name, description or status of a list, select it from the Lists tab 
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.54.46.png" alt=""><figcaption></figcaption></figure>
 
-To edit the wallets within a list, load the list in My Wallets and then tick the wallets that you wish to edit. This allows you to remove wallets from the list and to configure alert settings for these wallets. To bulk edit all of the wallets in a list, tick the checkbox at the top of the page:
+To edit the wallets within a list, load the list in **Tracking** and then tick the wallets that you wish to edit. This allows you to remove wallets from the list and to configure alert settings for these wallets. To bulk edit all of the wallets in a list, tick the checkbox at the top of the page:
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.55.42.png" alt=""><figcaption></figcaption></figure>
 
@@ -42,7 +42,7 @@ If a list has been set to public, you can share it by clicking the share icon th
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.56.24.png" alt=""><figcaption></figcaption></figure>
 
 \
-To permanently delete a list, load the list in **My Wallets** and then click **Delete**.
+To permanently delete a list, load the list in **Tracking** and then click **Delete**.
 
 
 

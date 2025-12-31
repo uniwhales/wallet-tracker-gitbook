@@ -2,7 +2,7 @@
 
 Public lists are themed wallet lists that have been created by Cielo users. Anyone can view and follow a public list. You can also create and share your own public lists.<br>
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 15.49.22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.49.22.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Note**: The wallets contained within a public list count towards the total number of Cielo wallets you can follow. If following a particular list will send you over your maximum wallet threshold, you will receive an alert.
@@ -26,7 +26,7 @@ The list explorer displays the following information alongside each entry:
 
 ## Adding a public list
 
-Any Cielo user can create a list and set it to public. Doing so will make it visible to other users via the Explore Wallets page and generate a unique URL that can be shared. Learn more about creating lists [here](my-wallets/lists.md).
+Any Cielo user can create a list and set it to public. Doing so will make it visible to other users via the Explore Wallets page and generate a unique URL that can be shared. Learn more about creating lists [here](../my-wallets/lists.md).
 
 {% hint style="info" %}
 **Note**: Setting a list as public does not reveal any information about its creator. Your wallet address will not be visible and there will be no personal details shown unless you chose to add your Twitter.
