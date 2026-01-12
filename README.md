@@ -1,6 +1,8 @@
 ---
 description: What is Cielo?
-cover: .gitbook/assets/gitbook_banner.png
+cover:
+  light: .gitbook/assets/gitbook_banner.png
+  dark: .gitbook/assets/gitlab_banner_dark.png
 coverY: 0
 ---
 
