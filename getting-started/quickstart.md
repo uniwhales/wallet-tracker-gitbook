@@ -14,7 +14,7 @@ Cielo is packed with powerful features including advanced tools for professional
 
 
 
-1. Visit the Cielo [web app](https://app.cielo.finance/) and click the blue Connect button in the top right. The above popup will then appear and you can connect your web wallet.
+1. Visit the Cielo [web app](https://app.cielo.finance/) and click the blue Connect button in the top right. The above popup will then appear and you can connect your web wallet. (Click the Solana tab to select a supported EVM wallet if you prefer.)
 2. Follow the prompts and connect your Telegram account. (**NOTE:** You can only connect _one_ Telegram account.)
 3. Skip the onboarding tutorial (you can view it later by clicking your wallet address in the bottom left of the page).
 4. Go to [My Wallets](https://app.cielo.finance/my-wallets), click **Add Wallets** (top right), enter a wallet address and add a label. Repeat.
