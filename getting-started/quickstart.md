@@ -2,7 +2,7 @@
 description: It only takes 60 seconds to get to grips with Cielo's most useful features👇
 ---
 
-# Quick Start Guide
+# Getting Started
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-01-13 at 14.47.08.png" alt=""><figcaption><p>Default view of the Cielo web app.</p></figcaption></figure>
 

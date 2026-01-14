@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Getting Started](getting-started.md)
-* [Quick Start Guide](quickstart.md)
+* [Getting Started](getting-started/quickstart.md)
 * [Trending](trending/README.md)
   * [Multi](trending/multi.md)
 * [Feed](feed/README.md)
