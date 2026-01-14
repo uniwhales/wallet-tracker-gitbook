@@ -45,15 +45,29 @@ The Cielo web app is enhanced by complementary Discord and Telegram bots for rec
 Cielo currently supports 30+ chains including Bitcoin, Solana, Sui, Tron, dYdX, and the following EVM blockchains: Ethereum, Polygon, Fantom, Arbitrum, Avalanche, Dogechain, Boba, Base, Metis, Aurora, Optimism, BNB Chain, Gnosis, Evmos, Canto, zkSync PulseChain, Mantle, opBNB, Blast, HyperEVM, and Hyperliquid.
 {% endhint %}
 
-This documentation explains how Cielo works and reveals how to harness its capabilities to get the most out of your onchain exploration 🧠
+## Navigation
 
-Along the way you’ll learn how to:
+The top menu of the Cielo web app features the following pages:
 
-* Interpret your feed
-* Create custom lists
-* Trade Solana tokens
+[**Trending**](https://app.cielo.finance/trending): The default view upon visiting the web app. Displays popular Solana tokens that you can trade in one click.
 
-…and much more 👏
+[**Feed**](https://app.cielo.finance/feed): The default view for the Cielo web app. Available in Classic and [Lite](https://app.cielo.finance/lite) modes, it displays recent transactions from wallets you’re following.
+
+[**Discovery**](https://app.cielo.finance/wallet-discovery?trendingWalletsFilter=trending\&selectedTag=%2Fv1%2Fleaderboard%2Ftag): Click to access **Wallet Discovery**, where you can find and follow profitable wallets _(Pro + Whale feature)_ and **Public Lists** of wallets compiled by other Cielo users.
+
+[**Tracking**](https://app.cielo.finance/tracking): Add and edit wallets, create lists, and set wallet alerts for Cielo Telegram and Discord bots.
+
+[**Custom Alerts**](https://app.cielo.finance/custom-alerts): Set bot alerts for specific transaction types such as when multiple wallets buy a new token.
+
+[**Insights**](https://app.cielo.finance/insights): Detailed analysis of wallets you're tracking including PnL and popular new tokens _(Whale feature)._
+
+[**Portfolio**](https://app.cielo.finance/portfolio/spot): View PnL for you Solana trading wallet, add and edit Solana wallets.
+
+[**Settings**](https://app.cielo.finance/settings): Upgrade your Cielo account, activate or disable Cielo bots, and other controls.
+
+[**Learn**](https://app.cielo.finance/learn): Educational resources including video guides and tutorials.
+
+
 
 If you need further help, the [Cielo Community](https://t.me/cielocommunity) Telegram channel is where you can troubleshoot, expand your knowledge, and submit feature requests.
 
