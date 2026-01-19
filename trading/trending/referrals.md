@@ -14,11 +14,11 @@ In addition to earning through referring new users, you can earn SOL rewards bas
 
 When you’re logged into the Cielo web app, click the top right tab showing the icon of the web wallet you’re connected with. Then from the menu that appears, click [Referrals](https://app.cielo.finance/referrals).
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-01-14 at 14.19.14.png" alt="" width="372"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-01-14 at 14.19.14.png" alt="" width="372"><figcaption></figcaption></figure>
 
 You can alternatively access this page by clicking the footer link in the bottom right of the page:
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-01-14 at 14.31.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-01-14 at 14.31.20.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,7 +36,7 @@ The Claim and Share section of the Referrals portal is where you can find your p
 
 Copy the ref link displayed in **Share** or click **Share on X** to start sharing your link with your friends and followers.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-01-19 at 09.03.22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-01-19 at 09.03.22.png" alt=""><figcaption></figcaption></figure>
 
 ### Milestones
 

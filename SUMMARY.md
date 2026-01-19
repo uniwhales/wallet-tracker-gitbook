@@ -2,12 +2,22 @@
 
 * [Overview](README.md)
 * [Getting Started](getting-started/quickstart.md)
-* [Trending](trending/README.md)
-  * [Mindshare](trending/mindshare.md)
-  * [Referrals](trending/referrals.md)
-  * [Multi](trending/multi.md)
-* [Feed](feed/README.md)
-  * [Filters](feed/filtering.md)
+
+## Trading
+
+* [Overview](trading/overview.md)
+* [Trending](trading/trending/README.md)
+  * [Mindshare](trading/trending/mindshare.md)
+  * [Referrals](trading/trending/referrals.md)
+  * [Multi](trading/trending/multi.md)
+
+## Wallet Tracking
+
+* [Feed](wallet-tracking/feed/README.md)
+  * [Filters](wallet-tracking/feed/filtering.md)
+
+***
+
 * [Discovery](discovery/README.md)
   * [Wallet Discovery](discovery/wallet-discovery.md)
   * [Public Lists](discovery/public-lists.md)

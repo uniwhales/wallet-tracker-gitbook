@@ -2,7 +2,7 @@
 
 By default, your feed displays the latest tx from all the wallets you’re following. Use the side menu to filter results. These allow you to focus on a specific list, use case, network, tx type, and size.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.45.35.png" alt="" width="321"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-07-03 at 15.45.35.png" alt="" width="321"><figcaption></figcaption></figure>
 
 **Network:** Filter to display tx from specific networks. You can make multiple selections.
 
