@@ -34,6 +34,12 @@ The Referrals page shows data that is unique to your Cielo account including the
 
 The Claim and Share section of the Referrals portal is where you can find your personal ref link and claim any SOL you have earned to date. Your ref link is unique to you and can be shared publicly on X, Telegram, and elsewhere.
 
+Copy the ref link displayed in **Share** or click **Share on X** to start sharing your link with your friends and followers.
+
 <figure><img src="../.gitbook/assets/Screenshot 2026-01-19 at 09.03.22.png" alt=""><figcaption></figcaption></figure>
 
-<br>
+### Milestones
+
+Whenever you reach a new milestone, you will be rewarded with a 5% increase in your affiliate rate. Keep trading in the Cielo web app and referring new users to maximize your earnings.
+
+At the bottom of the Referrals page, you can view a detailed list of all users you have referred to Cielo including the date they joined and the total SOL you have earned from each user to date.<br>
