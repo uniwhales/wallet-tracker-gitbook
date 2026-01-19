@@ -3,6 +3,7 @@
 * [Overview](README.md)
 * [Getting Started](getting-started/quickstart.md)
 * [Trending](trending/README.md)
+  * [Mindshare](trending/mindshare.md)
   * [Referrals](trending/referrals.md)
   * [Multi](trending/multi.md)
 * [Feed](feed/README.md)
