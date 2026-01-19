@@ -10,6 +10,6 @@ The more successful a wallet's trading activity for the timeframe covered (1, 7,
 
 Click the columns at the top of the wallet leaderboard to filter by PnL (i.e profit) or Winrate. Click **Follow** to add a particular wallet to your feed.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-07 at 15.56.36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-07-07 at 15.56.36.png" alt=""><figcaption></figcaption></figure>
 
 Click the columns at the top of the wallet leaderboard to filter by PnL (i.e profit) or Winrate. Click **Follow** to add a particular wallet to your feed.

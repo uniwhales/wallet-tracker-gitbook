@@ -8,7 +8,7 @@ description: >-
 
 Insights gives you an overview of the activity for addresses you're following. It aggregates all of the recent transactions for your feed based on activity in the last 24 hours, 7 days, or 30 days. Click the tabs in the top right of the stats page to cycle through timeframes.
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-03 at 15.50.02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.50.02.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Note**: The Insights dashboard is only available to Whale users.

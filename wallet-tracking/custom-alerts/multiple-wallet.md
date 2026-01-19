@@ -7,7 +7,7 @@ If you’re creating a **Multiple Wallet** alert (MWA), select this option from 
 
 Multiple Wallet alerts will appear like this:
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 16.06.02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-07-03 at 16.06.02.png" alt=""><figcaption></figcaption></figure>
 
 You will receive an alert when a minimum of **two** wallets have purchased a particular token within a 24-hour period. The more wallets you follow, the greater the frequency of the Multiple Wallet alerts you are likely to receive.
 

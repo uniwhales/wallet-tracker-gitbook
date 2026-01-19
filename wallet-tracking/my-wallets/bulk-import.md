@@ -1,6 +1,6 @@
 # Bulk Import
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 16.02.53.png" alt="" width="349"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-07-03 at 16.02.53.png" alt="" width="349"><figcaption></figcaption></figure>
 
 Select Add Wallets and click **Bulk Import** to upload multiple wallets as a CSV (spreadsheet) file. Place the wallets you wish to import in column one and an optional label for each wallet in column two. Commence upload and your wallets will be uploaded within a couple of minutes on average. You can also assign all imported wallets to a specific list or apply alert filters to them, saving you from having to edit each wallet individually in **Tracking.**
 
