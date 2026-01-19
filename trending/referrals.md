@@ -1,0 +1,39 @@
+---
+description: How Cielo's referral program works
+---
+
+# Referrals
+
+Cielo operates a referral program that rewards you for introducing friends and followers to the platform. Simply share your ref link to earn a portion of the fees paid by each referred user based on their trading volume.
+
+Referral rewards are paid out in SOL and can be claimed directly on the [Referrals](https://app.cielo.finance/referrals) page.
+
+In addition to earning through referring new users, you can earn SOL rewards based on your own Cielo trading volume.
+
+### &#x20;How Referrals Work
+
+When you’re logged into the Cielo web app, click the top right tab showing the icon of the web wallet you’re connected with. Then from the menu that appears, click [Referrals](https://app.cielo.finance/referrals).
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-14 at 14.19.14.png" alt="" width="372"><figcaption></figcaption></figure>
+
+You can alternatively access this page by clicking the footer link in the bottom right of the page:
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-14 at 14.31.20.png" alt=""><figcaption></figcaption></figure>
+
+
+
+The Referrals page shows data that is unique to your Cielo account including the following metrics:
+
+
+
+* **Total Earned (SOL)**: Amount earned to date from referrals
+* **Affiliate rate**: This starts at 10% and rises based on reaching various milestones (see below)
+* **Total Cashback Points**: These are earned from your trading volume, with Pro and Whale plan users earning a 1.5x and 2.5x multiplier respectively. Cashback points are converted to SOL on a monthly basis and distributed to Cielo users based on their total trading volume.
+
+### Claim and Share
+
+The Claim and Share section of the Referrals portal is where you can find your personal ref link and claim any SOL you have earned to date. Your ref link is unique to you and can be shared publicly on X, Telegram, and elsewhere.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-19 at 09.03.22.png" alt=""><figcaption></figcaption></figure>
+
+<br>
