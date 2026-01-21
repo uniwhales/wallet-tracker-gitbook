@@ -19,7 +19,7 @@ In addition to helping you gauge which Solana tokens have proven popular over th
 * **Wallets**: Number of wallets that have purchased a particular token
 * **Timeframe**: Time period for which results are displayed. Setting a lower timeframe will show tokens that have been swapped only within this period.
 * **MC**: Minimum market cap of the token.
-* **Min USD**: Minimum value of swaps made by wallets you're tracking.&#x20;
+* **Min USD**: Minimum volume of swaps made by wallets you're tracking.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-01-21 at 14.53.03.png" alt="" width="563"><figcaption></figcaption></figure>
 
