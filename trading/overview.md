@@ -10,7 +10,7 @@ Cielo makes it easy to trade Solana tokens directly within the web app. With you
 * [**Feed (Lite)**](https://app.cielo.finance/lite): This same functionality is also supported within the Lite Feed.
 * [**Trending**](https://app.cielo.finance/trending): Click Quick Buy to purchase the token shown or click the token name to open its chart and access advanced trading options.
 * [**Portfolio**](https://app.cielo.finance/portfolio): In **My Positions**, you can sell any token you are currently holding by clicking the red Sell button.
-* Telegram Integration: Trade in Telegram, including quick buys
+* Telegram Integration: Trade in Telegram, including quick buys.
 
 The **Quick Buy** button allows you to instantly purchase a token without wasting time or even opening the chart. The default Quick Buy value can be edited by clicking the option at the top of the Feed or Trendng page:
 
