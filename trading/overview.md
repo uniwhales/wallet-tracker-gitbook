@@ -27,3 +27,7 @@ This full page view – "terminal" – is divided into the following three secti
 * **Left**: Designed for token discovery. Switch between Feed and Trending to view the latest Solana tokens being swapped by wallets you're tracking (Feed) and by all Cielo users (Trending).
 * **Center**: Chart view showing standard token information and trading information, with the latest trading activity made by you and your tracked wallets displayed beneath.
 * **Right**: Order execution section. Here you can buy and sell the token in question and adjust your trading settings.
+
+### Fees
+
+Cielo currently charges a 1% fee on all trades.
