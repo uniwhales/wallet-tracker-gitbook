@@ -1,10 +1,10 @@
 ---
-description: Introduction to Solana trading in the Cielo web app
+description: Introduction to Solana trading in the Cielo web app and Telegram
 ---
 
 # Overview
 
-Cielo makes it easy to trade Solana tokens directly within the web app. With your Solana trading wallet (displayed in the top right) funded, you can start buying and selling Solana tokens throughout the web app:
+Cielo makes it easy to trade Solana tokens directly within the web app. With your Solana trading wallet (displayed in the top right) funded, you can start buying and selling Solana tokens throughout the web app and Telegram:
 
 * [**Feed (Classic)**](https://app.cielo.finance/feed): Click **Quick Buy** alongside any Solana token swap that appears to instantly buy the token shown.
 * [**Feed (Lite)**](https://app.cielo.finance/lite): This same functionality is also supported within the Lite Feed.
