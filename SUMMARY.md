@@ -62,4 +62,4 @@
   * [Glossary](guides/copy-trading/glossary.md)
 * [Understanding Pump.fun](guides/understanding-pump.fun.md)
 * [Avoiding Scam Tokens](guides/avoiding-scam-tokens.md)
-* [Rick — Cielo Integration](guides/rick-cielo-integration.md)
+* [Rick Integration](guides/rick-integration.md)
