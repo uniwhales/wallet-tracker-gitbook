@@ -6,6 +6,7 @@
 ## Trading
 
 * [Overview](trading/overview.md)
+* [Telegram Trading](trading/telegram-trading.md)
 * [Trending](trending/README.md)
   * [Mindshare](trending/mindshare.md)
   * [Referrals](trending/referrals.md)
@@ -25,6 +26,8 @@
   * [Lists](wallet-tracking/my-wallets/lists.md)
   * [Bulk Edits](wallet-tracking/my-wallets/bulk-edits.md)
   * [Bulk Import](wallet-tracking/my-wallets/bulk-import.md)
+  * [PnL Leaderboard](wallet-tracking/my-wallets/pnl-leaderboard.md)
+  * [EVM-SOL Mapping](wallet-tracking/my-wallets/evm-sol-mapping.md)
 * [Custom Alerts](wallet-tracking/custom-alerts/README.md)
   * [Multiple Wallet](wallet-tracking/custom-alerts/multiple-wallet.md)
   * [Token Swap](wallet-tracking/custom-alerts/token-swap.md)
@@ -59,3 +62,4 @@
   * [Glossary](guides/copy-trading/glossary.md)
 * [Understanding Pump.fun](guides/understanding-pump.fun.md)
 * [Avoiding Scam Tokens](guides/avoiding-scam-tokens.md)
+* [Rick — Cielo Integration](guides/rick-cielo-integration.md)

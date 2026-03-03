@@ -221,3 +221,19 @@ Cielo assigns tags to certain wallets to support filtering for Wallet Discovery.
 <br>
 
 </details>
+
+<details>
+
+<summary>Chrome says Cielo is slowing my browser, what should I do?</summary>
+
+Chrome may occasionally display a popup saying "This tab is using extra resources" and offer to make the Cielo tab inactive. Allowing this will interrupt your live feed and delay real-time alerts.
+
+To prevent this, whitelist Cielo as Always Active in Chrome:
+
+1. Go to **Chrome Settings → Performance**
+2. Under **Always active**, click **Add**
+3. Enter `app.cielo.finance` and confirm
+
+Chrome will no longer throttle the Cielo tab, keeping your feed running instantly even when you're active in other tabs.
+
+</details>
