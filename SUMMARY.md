@@ -24,6 +24,7 @@
   * [New Trade Alerts](wallet-tracking/my-wallets/new-trade-alerts.md)
   * [Token Filters](wallet-tracking/my-wallets/token-filters.md)
   * [Lists](wallet-tracking/my-wallets/lists.md)
+  * [Bundles](wallet-tracking/my-wallets/bundles.md)
   * [Bulk Edits](wallet-tracking/my-wallets/bulk-edits.md)
   * [Bulk Import](wallet-tracking/my-wallets/bulk-import.md)
   * [PnL Leaderboard](wallet-tracking/my-wallets/pnl-leaderboard.md)
