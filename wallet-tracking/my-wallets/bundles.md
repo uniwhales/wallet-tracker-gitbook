@@ -1,5 +1,7 @@
 # Bundles
 
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
 A lot of serious traders split activity across multiple wallets. Following them one address at a time means you're always seeing an incomplete picture. Bundles fix that. Group up to 20 addresses together and treat them as one: one PnL view, one feed, one set of stats.
 
 #### **Creating a bundle**
