@@ -21,6 +21,7 @@
   * [Public Lists](wallet-tracking/discovery/public-lists.md)
 * [Tracking](wallet-tracking/my-wallets/README.md)
   * [Wallet Profiles](wallet-tracking/my-wallets/wallet-profiles.md)
+  * [Renames](wallet-tracking/my-wallets/renames.md)
   * [New Trade Alerts](wallet-tracking/my-wallets/new-trade-alerts.md)
   * [Token Filters](wallet-tracking/my-wallets/token-filters.md)
   * [Lists](wallet-tracking/my-wallets/lists.md)
