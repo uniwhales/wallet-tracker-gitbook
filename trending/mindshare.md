@@ -4,7 +4,7 @@ description: Mastering Cielo's proprietary metric
 
 # Mindshare
 
-Shown as a 🧠 emoji alongside Trending tokens, Mindshare is a proprietary metric developed by Cielo. It’s helpful for identifying Solana tokens that are proving popular with other Cielo users.<br>
+Shown as a 🧠 emoji alongside Trending tokens, Mindshare is a proprietary metric developed by Cielo. It’s helpful for identifying Solana and Base tokens that are proving popular with other Cielo users.<br>
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-01-19 at 09.22.59.png" alt=""><figcaption></figcaption></figure>
 
