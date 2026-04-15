@@ -14,7 +14,7 @@ Cielo makes it easy to trade Solana and Base tokens directly within the web app.
 
 The **Quick Buy** button allows you to instantly purchase a token without wasting time or even opening the chart. The default Quick Buy value can be edited by clicking the option at the top of the Feed or Trending page:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
