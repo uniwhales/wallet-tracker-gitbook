@@ -1,15 +1,15 @@
 # Telegram Trading
 
-Cielo's Telegram bot includes native trading functionality, allowing you to buy and sell Solana tokens directly from your alerts.
+Cielo's Telegram bot includes native trading functionality, allowing you to buy and sell Solana and Base tokens directly from your alerts.
 
 When Telegram Trading is enabled, every swap alert in your bot will include **Quick Buy buttons** at the bottom of the message, letting you act on a trade the moment you spot it.
 
 #### Enabling Telegram Trading
 
-To get started, your Solana trading wallet must be funded with SOL. You can view your trading wallet address and balance at any time by sending `/start` to your Cielo bot. The home screen shows:
+To get started, your trading wallet must be funded (SOL for Solana, ETH or USDC for Base). You can view your trading wallet address and balance at any time by sending `/start` to your Cielo bot. The home screen shows:
 
 * Your current plan and wallet counts
-* Your active Solana trading wallet address and balance
+* Your active trading wallet address and balance
 * Navigation buttons for Positions, PnL, Trading Wallets, Settings, and more
 
 
@@ -18,11 +18,11 @@ To get started, your Solana trading wallet must be funded with SOL. You can view
 
 #### Quick Buying from Alerts
 
-When a tracked wallet makes a swap on Solana, your alert will display three **Quick Buy buttons** beneath the transaction — for example:
+When a tracked wallet makes a swap on Solana or Base, your alert will display three **Quick Buy buttons** beneath the transaction — for example:
 
 > 🟢 **0.1 SOL**   🟢 **0.5 SOL**   🟢 **1 SOL**
 
-Tap any button to instantly buy that token using the selected SOL amount from your default trading wallet. Once executed, you'll receive a transaction receipt with a link to view it onchain.
+Tap any button to instantly buy that token using the selected amount from your default trading wallet. Once executed, you'll receive a transaction receipt with a link to view it onchain.
 
 You can customise these preset amounts at any time in **Trading Settings → Buy Presets**.
 
@@ -30,7 +30,7 @@ You can customise these preset amounts at any time in **Trading Settings → Buy
 
 #### Trading a Specific Token
 
-You can also open a token's buy/sell panel at any time by pasting a Solana token address directly into the Telegram chat. The bot will display:
+You can also open a token's buy/sell panel at any time by pasting a Solana or Base token address directly into the Telegram chat. The bot will display:
 
 * Token name, symbol, and mint address
 * Market cap, price, and liquidity
@@ -42,7 +42,7 @@ From here you can buy using preset amounts or a custom SOL value, and sell in pr
 
 #### Positions
 
-Tap **📊 Positions** from the bot home menu (or send `/positions`) to see all your currently open Solana positions across your trading wallets, including each token's unrealised PnL in both SOL and USD.
+Tap **📊 Positions** from the bot home menu (or send `/positions`) to see all your currently open positions across your trading wallets, including each token's unrealised PnL in both SOL and USD or ETH and USD.
 
 Tap any token in the list to open its buy/sell panel directly.
 
@@ -61,9 +61,9 @@ Tap **📈 PnL** (or send `/pnl`) to view your trading performance for the last 
 
 #### Trading Wallets
 
-Tap **💼 Trading Wallets** to manage the Solana wallets used for trading. From here you can:
+Tap **💼 Trading Wallets** to manage the wallets used for trading. From here you can:
 
-* View all wallets and their SOL balances
+* View all wallets and their balances
 * Create a new trading wallet
 * Set a default wallet
 * Rename, archive, or withdraw funds from any wallet
