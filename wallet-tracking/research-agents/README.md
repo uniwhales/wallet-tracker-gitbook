@@ -22,17 +22,12 @@ Once active, the agent runs immediately and starts posting to your chosen channe
 
 ### Available triggers
 
-Triggers are grouped by what they watch.
 
-**Wallet activity** (single-wallet signals):
 
-* **CEX Fresh Buy** _(Whale)_ - brand-new CEX-funded wallet bought above $1k on its first token
-* **Fresh Wallet Buy** _(Whale)_ - newly funded wallet accumulates a token
-* **Your Wallet Funded a New Wallet** _(Pro+Whale)_ - a tracked wallet funds a fresh wallet
-
-**Aggregate signal** (multiple wallets lining up):
-
-* **KOL Cluster Buy** _(Free)_ - three or more verified KOLs buy the same token in a chosen timeframe
+* [**CEX Fresh Buy** ](cex-fresh-buy.md)_(Whale)_ - brand-new CEX-funded wallet bought above $1k on its first token
+* [**Fresh Wallet Buy** ](fresh-wallet-buy.md)_(Whale)_ - newly funded wallet accumulates a token
+* [**Your Wallet Funded a New Wallet**](your-wallet-funded-a-new-wallet.md) _(Pro+Whale)_ - a tracked wallet funds a fresh wallet
+* [**KOL Cluster Buy** ](kol-cluster-buy.md)_(Free)_ - three or more verified KOLs buy the same token in a chosen timeframe
 
 ### Popular starting points
 
