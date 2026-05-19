@@ -151,11 +151,8 @@ You need at least one channel selected. Leave the other one empty to skip it.
 
 ### Coming soon
 
-A few triggers are visible in the wizard but tagged **Soon** and not yet live:
-
 * **Dormant Awakening** _(Pro+Whale)_ - a sleeping wallet trades again
 * **Strong Floor** _(Pro+Whale)_ - price holds while holder count rises
 * **Top Holders Accumulation** _(Pro+Whale)_ - top X wallets quietly add supply
 * **Dynamic Holders Tracking** _(Whale)_ - always-on top-20 watch for a single token
 
-The **Templates** and **Activity** tabs on the Research Agents page are also coming soon. Templates will let you spin up agents from saved configurations, and Activity will give you a feed of everything your agents have fired.
