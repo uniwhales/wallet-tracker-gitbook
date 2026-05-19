@@ -2,9 +2,11 @@
 
 The [Research Agents](https://trading.cielo.finance/agents/research) page lets you spin up a watcher that pings you the moment a specific onchain pattern fires. Pick a trigger, tune the filters, point it at a Telegram bot or Discord channel, and the agent does the watching so you can focus on the trade.
 
-Each agent does one job: it watches the chain for a specific signal and posts an alert when it fires. No copy trading, no execution. You decide what to do with the alert.
+Each agent does one job: it watches the chain for a specific signal and posts an alert when it fires.
 
-\{% hint style="info" %\} Research Agents work alongside your existing Cielo alerts. You can route each agent to a different Telegram bot or Discord channel so the signals stay sorted. \{% endhint %\}
+{% hint style="info" %}
+Research Agents work alongside your existing Cielo alerts. You can route each agent to a different Telegram bot or Discord channel so the signals stay sorted.
+{% endhint %}
 
 ### Creating an agent
 
