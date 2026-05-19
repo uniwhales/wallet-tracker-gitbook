@@ -30,6 +30,7 @@
   * [Bulk Import](wallet-tracking/my-wallets/bulk-import.md)
   * [PnL Leaderboard](wallet-tracking/my-wallets/pnl-leaderboard.md)
   * [EVM-SOL Mapping](wallet-tracking/my-wallets/evm-sol-mapping.md)
+* [Research Agents](wallet-tracking/research-agents.md)
 * [Custom Alerts](wallet-tracking/custom-alerts/README.md)
   * [Multiple Wallet](wallet-tracking/custom-alerts/multiple-wallet.md)
   * [Token Swap](wallet-tracking/custom-alerts/token-swap.md)
