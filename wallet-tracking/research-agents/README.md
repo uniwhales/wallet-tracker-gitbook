@@ -28,6 +28,8 @@ Once active, the agent runs immediately and starts posting to your chosen channe
 * [**Fresh Wallet Buy** ](fresh-wallet-buy.md)_(Whale)_ - newly funded wallet accumulates a token
 * [**Your Wallet Funded a New Wallet**](your-wallet-funded-a-new-wallet.md) _(Pro+Whale)_ - a tracked wallet funds a fresh wallet
 * [**KOL Cluster Buy** ](kol-cluster-buy.md)_(Free)_ - three or more verified KOLs buy the same token in a chosen timeframe
+* **FOMO Cluster Accumulation** _(Whale)_ - three or more FOMO-app smart-money wallets net-accumulate the same token in a chosen timeframe
+* **Top Holders Supply Change** _(Pro+Whale)_ - the top-20 holders' combined share of supply moves by ≥X% in a rolling window (fires on both accumulation and distribution)
 
 ### Popular starting points
 
@@ -48,8 +50,6 @@ A few triggers are visible in the wizard but tagged **Soon** and not yet live:
 
 * **Dormant Awakening** _(Pro+Whale)_ - a sleeping wallet trades again
 * **Strong Floor** _(Pro+Whale)_ - price holds while holder count rises
-* **Top Holders Accumulation** _(Pro+Whale)_ - top X wallets quietly add supply
-* **Dynamic Holders Tracking** _(Whale)_ - always-on top-20 watch for a single token
 
 The **Templates** and **Activity** tabs on the Research Agents page are also coming soon. Templates will let you spin up agents from saved configurations, and Activity will give you a feed of everything your agents have fired.
 
