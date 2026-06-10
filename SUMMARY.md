@@ -44,6 +44,7 @@
 * [Portfolio](wallet-tracking/portfolio.md)
 * [Settings](wallet-tracking/settings/README.md)
   * [Cielo Web Extension](wallet-tracking/settings/cielo-web-extension.md)
+* [Hyperliquid](wallet-tracking/hyperliquid.md)
 * [Subscribe](wallet-tracking/subscribe.md)
 * [FAQ](wallet-tracking/faq.md)
 
