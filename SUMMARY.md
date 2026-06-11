@@ -37,6 +37,7 @@
   * [💫 KOL Cluster Buy](wallet-tracking/research-agents/kol-cluster-buy.md)
   * [👥 Top Holders Supply Change](wallet-tracking/research-agents/top-holders-supply-change.md)
   * [👀 FOMO Cluster Accumulation](wallet-tracking/research-agents/fomo-cluster-accumulation.md)
+  * [⭐ Dynamic Holders Tracking](wallet-tracking/research-agents/dynamic-holders-tracking.md)
 * [Custom Alerts](wallet-tracking/custom-alerts/README.md)
   * [Multiple Wallet](wallet-tracking/custom-alerts/multiple-wallet.md)
   * [Token Swap](wallet-tracking/custom-alerts/token-swap.md)
