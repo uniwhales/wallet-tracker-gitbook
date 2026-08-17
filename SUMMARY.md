@@ -3,6 +3,12 @@
 * [Overview](README.md)
 * [Getting Started](getting-started/quickstart.md)
 
+## Trading Agents
+
+* [Overview](trading-agents/overview.md)
+* [Copy Trading](trading-agents/copy-trading.md)
+* [Agent settings](trading-agents/agent-settings.md)
+
 ## Trading
 
 * [Overview](trading/overview.md)
