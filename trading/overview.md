@@ -32,4 +32,5 @@ This full page view – "terminal" – is divided into the following three secti
 
 ### Fees
 
-Cielo charges a 0.6% fee on all trades executed in the web app and Telegram. This applies to both Solana and Base swaps.
+Cielo charges a 0.6% fee on manual trades executed in the web app and Telegram. Trades executed by your trading agents carry a 1% fee instead. See [Trading agents](https://docs.cielo.finance/trading-agents/overview) for how agents work.
+
