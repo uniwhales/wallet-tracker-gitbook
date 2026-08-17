@@ -2,7 +2,7 @@
 
 You've always used Cielo to find and track wallets... but had to go elsewhere to act on them. Not anymore. Agents act on what your tracked wallets do, automatically, so the edge doesn't depend on you being awake.
 
-Cielo acquired OdinBot, the undefeated, fastest copy trading bot with $250M in volume, and built its engine directly into the app. When a wallet you copy buys a token, your agent buys it too, from alert to fill, without you touching anything. 70% of copies land in the same slot as the wallet copied. The copy trade lands before the fomo notification does.
+Cielo acquired OdinBot, the undefeated, fastest copy trading bot with $250M in volume, and built its engine directly into the app. When a wallet you copy buys a token, your agent buys it too, from alert to fill, without you touching anything. On Solana, 70% of copies land in the same slot as the wallet copied. The copy trade lands before the fomo notification does.
 
 Everything lives on the [Agents page](https://app.cielo.finance/agents), split into two tabs:
 
