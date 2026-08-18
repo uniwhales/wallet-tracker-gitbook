@@ -2,6 +2,7 @@
 
 * [Overview](README.md)
 * [Getting Started](getting-started/quickstart.md)
+* [Chain Support](chain-support.md)
 
 ## Trading Agents
 
