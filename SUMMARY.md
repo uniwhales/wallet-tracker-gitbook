@@ -31,6 +31,7 @@
   * [Renames](wallet-tracking/my-wallets/renames.md)
   * [New Trade Alerts](wallet-tracking/my-wallets/new-trade-alerts.md)
   * [Token Filters](wallet-tracking/my-wallets/token-filters.md)
+  * [Exclusions](wallet-tracking/my-wallets/exclusions.md)
   * [Lists](wallet-tracking/my-wallets/lists.md)
   * [Bundles](wallet-tracking/my-wallets/bundles.md)
   * [Bulk Edits](wallet-tracking/my-wallets/bulk-edits.md)
