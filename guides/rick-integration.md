@@ -1,6 +1,6 @@
 # Rick Integration
 
-[Rick](https://t.me/rickbot) is a popular Telegram and Discord token scanner. Cielo has a native integration with Rick via its custom trade buttons system, allowing you to open any token Rick surfaces directly in the Cielo Terminal with one tap.
+[Rick](https://docs.rick.bot/) is a popular Telegram and Discord token scanner. Cielo has a native integration with Rick via its custom trade buttons system, allowing you to open any token Rick surfaces directly in the Cielo Terminal with one tap.
 
 #### Setting It Up
 
