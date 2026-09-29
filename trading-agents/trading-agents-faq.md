@@ -1,7 +1,5 @@
 # Trading agents FAQ
 
-## Trading agents FAQ
-
 Answers to the questions we get most about trading agents: why a trade was or wasn't copied, how exits work, what the simulator shows, and what to do when something looks wrong. If your question isn't here, contact support with the agent name, chain, copied wallet and the token or transaction hash.
 
 ### Getting started
