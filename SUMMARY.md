@@ -9,6 +9,7 @@
 * [Overview](trading-agents/overview.md)
 * [Copy Trading](trading-agents/copy-trading.md)
 * [Agent settings](trading-agents/agent-settings.md)
+* [Trading agents FAQ](trading-agents/trading-agents-faq.md)
 
 ## Trading
 
