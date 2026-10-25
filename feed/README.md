@@ -1,42 +1,40 @@
 # Feed
 
-Your Cielo feed is available in two display modes, selectable from the left menu: Classic or Lite. **Classic** is the original layout, in which all transactions are shown chronologically by wallets you're tracking. [**Lite**](https://app.cielo.finance/lite) is a condensed feed that focuses on token swaps only. It incorporates a Filters menu in the right sidebar where you can configure results based on Network, Swap Size (USD), Token, or List.
+Your Cielo feed is available in two display modes, selectable at the top of the Feed page: Classic or Lite. **Classic** is the original layout, in which all transactions are shown chronologically by wallets you're tracking. [**Lite**](https://app.cielo.finance/lite) is a condensed feed that focuses on token swaps only. It incorporates a Filters menu in the right sidebar where you can configure results based on Network, Swap Size (USD), Token, or List.
 
 Your feed displays recent transactions (tx) from wallets you’re following. Each row represents an onchain tx and is enhanced with labeling and links to aid your understanding.
 
-A typical entry might show the wallet (_Address or ENS or .sol_) tx type (_Swap_), network (_Arbitrum_), protocol (_Uniswap_), tokens exchanged (_ETH>USDC_), tx value ($800), and  elapsed time since the tx occured (_2 mins ago_). For NFTs a thumbnail is also shown.
+A typical entry might show the wallet (_Address or ENS or .sol_) tx type (_Swap_), network (_Arbitrum_), protocol (_Uniswap_), tokens exchanged (_ETH>USDC_), tx value ($800), and elapsed time since the tx occurred (_2 mins ago_). For NFTs a thumbnail is also shown.
 
 Upon loading your feed, you will see a pinging blue dot at the top. This denotes that a web sockets connection is active that will continually refresh your feed whenever new transactions are delivered. Click the audio icon alongside the blue dot if you'd like to receive an audible alert whenever your feed updates. This is helpful when you're browsing or trading in other tabs and want to learn instantly whenever a new alert arrives.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-06-30 at 12.35.46.png" alt=""><figcaption><p>Classic feed</p></figcaption></figure>
+<figure><img src="https://1250667054-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgZTvWhkjLJ8uCLtiUaPq%2Fuploads%2FD1QJLeeWVFZit4eWmXdp%2FScreenshot%202025-06-30%20at%2012.35.46.png?alt=media&#x26;token=e0f2261e-2cfc-4247-81d9-f8af1f3d2da3" alt=""><figcaption><p>Classic feed</p></figcaption></figure>
 
-
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-06-30 at 12.36.37.png" alt=""><figcaption><p>Lite feed</p></figcaption></figure>
+<figure><img src="https://1250667054-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgZTvWhkjLJ8uCLtiUaPq%2Fuploads%2Ftl2QrUcjAwFwd70dRSTT%2FScreenshot%202025-06-30%20at%2012.36.37.png?alt=media&#x26;token=38ae5962-c3b2-4130-a842-fad71fe32948" alt=""><figcaption><p>Lite feed</p></figcaption></figure>
 
 ## Reading your feed
 
 A single transaction looks like this:
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.35.53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://1250667054-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgZTvWhkjLJ8uCLtiUaPq%2Fuploads%2Fus5apv2enFsI9l5w51k9%2FScreenshot%202025-07-03%20at%2015.35.53.png?alt=media&#x26;token=45098a11-d7c5-4f90-b2db-e9ec678d1ed6" alt=""><figcaption></figcaption></figure>
 
 Or if a wallet makes a series of related transactions within a short timeframe, Cielo will cluster them:
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.36.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://1250667054-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgZTvWhkjLJ8uCLtiUaPq%2Fuploads%2FKOMpVvxo7td18JaR95r9%2FScreenshot%202025-07-03%20at%2015.36.28.png?alt=media&#x26;token=b981e033-e485-4ca6-9c5e-bf1c59e440cd" alt=""><figcaption></figcaption></figure>
 
 Click on the name or label assigned to a wallet (e.g. _dolgame.eth_; _Major Airdrop Receiver_) to open a new page for that wallet profile. For example, [**this**](https://app.cielo.finance/profile/0x9683495e5bbd30d741eddd3f972d7ae5188423b2) is the wallet profile for _0x96...23b2,_ labeled here as _Ski Dog 6._
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.37.54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://1250667054-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgZTvWhkjLJ8uCLtiUaPq%2Fuploads%2Fp3umaYpXJYK5I1idcaJH%2FScreenshot%202025-07-03%20at%2015.37.54.png?alt=media&#x26;token=0e133735-58f6-440c-858f-070e7117402d" alt=""><figcaption></figcaption></figure>
 
 The wallet tags show that this user is extremely active onchain. If you enable Telegram alerts for this wallet, you'll receive a lot of notifications by default. You can resolve this by clicking the **Edit** icon for this wallet and selecting **Alert Settings**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.38.34.png" alt="" width="353"><figcaption></figcaption></figure>
+<figure><img src="https://1250667054-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgZTvWhkjLJ8uCLtiUaPq%2Fuploads%2FEc32nXnIDZr7uemj65Al%2FScreenshot%202025-07-03%20at%2015.38.34.png?alt=media&#x26;token=1f441a4b-3112-4879-8aec-261b73fd9b2a" alt="" width="353"><figcaption></figcaption></figure>
 
 ## Learning more
 
 Cielo displays multiple data points for each tx that appears in your feed. Click on the icons, wallet name, and other metadata to learn more.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.39.25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://1250667054-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgZTvWhkjLJ8uCLtiUaPq%2Fuploads%2FGolmqGpjTh67KHKBh1f4%2FScreenshot%202025-07-03%20at%2015.39.25.png?alt=media&#x26;token=e75c30a5-d235-490c-ba97-e7c3cde5e14c" alt=""><figcaption></figcaption></figure>
 
 In the above transaction, the following actions are available:
 
@@ -50,13 +48,13 @@ In the above transaction, the following actions are available:
 
 **Timestamp** _(7 mins ago)_: Click to open blockchain explorer link
 
-
+**Quick Buy**: Click to buy the token with your preset quick buy amount (set in the bar at the top of the Feed).
 
 If you see a rocket icon displayed beside a tx, it means it’s the first time the wallet has traded this particular token:
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-03 at 15.41.40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://1250667054-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgZTvWhkjLJ8uCLtiUaPq%2Fuploads%2F3aOFMeiaQPjjoiMcFaky%2FScreenshot%202025-07-03%20at%2015.41.40.png?alt=media&#x26;token=27c7d848-117f-4cde-be37-576f03ec59f5" alt=""><figcaption></figcaption></figure>
 
-Depending on the transaction, other information displayed may include include the tx type, number of tokens swapped, token price, and total tx value.
+Depending on the transaction, other information displayed may include the tx type, number of tokens swapped, token price, and total tx value.
 
 ###
 

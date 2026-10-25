@@ -12,7 +12,7 @@ What makes it dynamic: the agent follows the supply. When a tracked holder sends
 
 | Setting        | Default  | Notes                                                                                                        |
 | -------------- | -------- | ------------------------------------------------------------------------------------------------------------ |
-| Chain          | Solana   | Pick one chain: Solana, Ethereum, or Base. The agent is per-chain and per-token.                             |
+| Chain          | Solana   | Pick one chain: Solana, Ethereum, Base, or Robinhood. The agent is per-chain and per-token.                  |
 | Token          | required | Paste the token's address on the chain you picked. EVM addresses are lowercased; Solana base58 is preserved. |
 | Top wallets    | 20       | The rank window. Alerts fire only when a wallet's rank is ≤ this number. Range 10 to 100.                    |
 | Min trade USD  | $50      | Floor for 🟢 Bought and 🔴 Sold events.                                                                      |

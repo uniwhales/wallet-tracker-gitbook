@@ -10,8 +10,8 @@ The top-20 holders' combined share of a token's supply shifts by your chosen per
 
 | Setting                     | Default    | Notes                                                                                   |
 | --------------------------- | ---------- | --------------------------------------------------------------------------------------- |
-| Chain                       | All chains | Solana, Ethereum, Base                                                                  |
-| Min supply change           | 5%         | Absolute delta that fires the alert. \`                                                 |
+| Chain                       | All chains | Solana, Ethereum, Base, Robinhood, Arc                                                  |
+| Min supply change           | 5%         | Absolute delta that fires the alert.                                                    |
 | Min market cap              | $300,000   | Hard floor is $100,000.                                                                 |
 | Max market cap _(optional)_ | $5,000,000 | Leave empty for no ceiling.                                                             |
 | Min token age _(optional)_  | 3 hours    | Skip tokens younger than this. Units: minutes, hours, or days. Leave at 0 for no floor. |

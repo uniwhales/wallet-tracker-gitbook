@@ -21,11 +21,11 @@ Copy trading is all about replicating the moves of successful traders. Rather th
 #### **Copy Trading with Cielo**
 
 1. **Discover Smart Wallets**\
-   On Cielo, you can explore top-performing wallets using real-time onchain data. These might be whales, early buyers of hyped tokens, or wallets with strong ROI. Cielo has a dedicated Wallet Discovery [dashboard](https://app.cielo.finance/wallet-discovery) for this that Pro and Whale users can access.[<br>](https://app.cielo.finance/wallet-discovery)
+   On Cielo, you can explore top-performing wallets using real-time onchain data. These might be whales, early buyers of hyped tokens, or wallets with strong ROI. Cielo has a dedicated Wallet Discovery [dashboard](https://app.cielo.finance/wallet-discovery) for this.[<br>](https://app.cielo.finance/wallet-discovery)
 2. **Follow Their Trades**\
    Once you've identified a wallet, you can enable alerts via Telegram or Discord. Anytime they make a move, you’ll be notified instantly.<br>
 3. **Copy the Trade**\
-   You can then manually copy their trade using your own wallet, or (if using a bot or automation tool connected to Cielo) replicate it automatically.<br>
+   You can then manually copy their trade from your Cielo trading wallet, or have a Cielo [trading agent](../../trading-agents/copy-trading.md) replicate it automatically.<br>
 4. **Track Performance**\
    Cielo gives you insights into a wallet’s historical trades, win rate, and profit trends. This lets you evaluate if their strategy fits your risk level.
 

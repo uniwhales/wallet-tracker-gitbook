@@ -75,11 +75,13 @@ _Applies to: Base, Robinhood and Arc_
 
 <summary>How do I add many wallets at once?</summary>
 
-In the agent's Signal step, paste an address with an optional label and click + Add wallet, or click + Add batch to paste a whole list. You can also start an agent from any wallet profile with the Copy Trade button. Searching your tracked wallets by label in the add-wallet box isn't available yet.
+In the agent's Signal step, paste an address with an optional label and click **+ Add wallet**, click **+ Add batch** to paste a whole list, or click **+ Browse tracked** to pick from the wallets you already track. You can also start from any wallet profile with the **Copy Trade** button.
 
-1. Go to Agents > New Trading Agent, or edit an existing agent.
-2. Click + Add batch and paste one address per line.
-3. Review the list before saving. If a label lands on the wrong wallet, remove that row and add it again.
+1. Go to **Agents > New Trading Agent**, or edit an existing agent.
+2. Click **+ Add batch** and paste one wallet per line. Use `address,label` to keep labels.
+3. Review the list before saving.
+
+Paste EVM addresses into a new Solana agent and it switches to Robinhood automatically.
 
 </details>
 
@@ -87,7 +89,7 @@ In the agent's Signal step, paste an address with an optional label and click + 
 
 <summary>Can I copy trade a whole wallet list?</summary>
 
-You can't add a tracked list to a Wallet Copy agent yet. Instead, copy the list's addresses and paste them with + Add batch, or create a Multi-Buy agent, which works with your tracked wallets and lists, including public lists you follow.
+You can't add a whole tracked list to a Wallet Copy agent in one step yet. Use **+ Browse tracked** to pick the wallets, or paste the list's addresses with **+ Add batch**. Alternatively, create a Multi-Buy agent, which works with your tracked wallets and lists, including public lists you follow.
 
 </details>
 
@@ -96,6 +98,22 @@ You can't add a tracked list to a Wallet Copy agent yet. Instead, copy the list'
 <summary>Can I give one copied wallet different settings?</summary>
 
 Yes. A wallet you add to an agent inherits the agent's settings. You can then open that wallet's row and override settings such as its buy size or buy limits without affecting the other wallets. For a completely different strategy on the same wallets, create a second agent, ideally with its own trading wallet.
+
+</details>
+
+<details>
+
+<summary>Can I move copied wallets to another agent?</summary>
+
+Yes. Select the wallets in the agent's copied wallets table and move them to another agent. Labels and per-wallet settings come along. You can only move wallets between agents of the same type (Solana to Solana, or between EVM agents).
+
+</details>
+
+<details>
+
+<summary>How do I stop copying a wallet in every agent?</summary>
+
+Add it to the wallet **Blocklist** on the Agents page. It's removed from all your agents, and you'll get a warning if you try to add it again later.
 
 </details>
 
@@ -113,7 +131,7 @@ The market cap filter is checked at the moment of your buy, using the current pr
 
 <summary>Which platforms should I select?</summary>
 
-The Platforms filter (Token filters > Platforms) only copies buys of tokens trading on the platforms you leave checked, so check every launchpad and DEX your copied wallets trade on. On Base and Robinhood, Uniswap V2, V3 and V4 are unchecked by default because that's where most honeypots are. Checking them copies more trades but raises rug risk. A token launched on a launchpad that later trades on a Uniswap pool still counts as that launchpad. Solana options include Pump.fun, Pump Mayhem mode, PumpSwap, Raydium V4, Raydium CPMM, Raydium LaunchLab, Bonk/LetsBonk, Meteora DBC, Boop, Heaven, Moonit, Token Mill and standard markets.
+The Platforms filter (Token filters > Platforms) only copies buys of tokens trading on the platforms you leave checked, so check every launchpad and DEX your copied wallets trade on. On Base and Robinhood, Uniswap V2, V3 and V4 are unchecked by default because that's where most honeypots are. Checking them copies more trades but raises rug risk. A token launched on a launchpad that later trades on a Uniswap pool still counts as that launchpad. Solana options include Pump.fun, Pump Mayhem mode, PumpSwap, Raydium V4, Raydium CPMM, Raydium LaunchLab, Bonk/LetsBonk, StonkFun, Meteora DBC, Boop, Heaven, Moonit, Token Mill and standard markets.
 
 </details>
 
@@ -121,7 +139,7 @@ The Platforms filter (Token filters > Platforms) only copies buys of tokens trad
 
 <summary>Why are Stonk.fun tokens missed?</summary>
 
-There's no separate Stonk.fun option. Stonk.fun tokens launch on Raydium LaunchLab and migrate to Raydium CPMM, so check both Raydium LaunchLab and Raydium LP (CPMM) under Platforms. If a buy made through a trading bot was still missed, send support the transaction hash.
+Check that **StonkFun** is ticked under Platforms, and Raydium CPMM for tokens that have migrated. If a buy made through a trading bot was still missed, send support the transaction hash.
 
 _Applies to: Solana_
 
@@ -195,7 +213,7 @@ _Applies to: Solana_
 
 <summary>Why did my copy buy fill much higher than the copied wallet?</summary>
 
-Big gaps come from buying after the copied wallet and other copiers, who push the price up, and sometimes from routing through a bad pool. Bad-quote protection blocks absurd fills while Degen mode is off, and routing compares DFlow and Jupiter quotes. Use smaller sizes on low-cap tokens where your own price impact is large. If a fill is far off the copied wallet's price, send support the transaction hash.
+Big gaps come from buying after the copied wallet and other copiers, who push the price up, and sometimes from routing through a bad pool. Bad-quote protection blocks absurd fills while Degen mode is off, and Cielo's Solana router looks for the best route. Use smaller sizes on low-cap tokens where your own price impact is large. If a fill is far off the copied wallet's price, send support the transaction hash.
 
 _Applies to: Solana_
 
@@ -207,7 +225,7 @@ _Applies to: Solana_
 
 <summary>How does Buy the dip work?</summary>
 
-Buy the dip waits for price to fall a set % below the copied wallet's entry price, not from the peak or your own entry. If price never drops into range, nothing is bought. If the copied wallet fully sells first, the order is cancelled, but a partial sell leaves it active. The market cap filter is checked at your dip buy, so lower your min market cap by your dip %. To enter right away, switch Entry to Instant. Pending dip orders can't be viewed or cancelled in the app yet.
+Buy the dip waits for price to fall a set % below the copied wallet's entry price, not from the peak or your own entry. If price never drops into range, nothing is bought. If the copied wallet fully sells first, the order is cancelled, but a partial sell leaves it active. The market cap filter is checked at your dip buy, so lower your min market cap by your dip %. To enter right away, switch Entry to Instant. Queued dip buys show in the agent, where you can **Skip**, **Buy now** or **Cancel** the rest.
 
 _Applies to: Solana, Base and Robinhood_
 
@@ -266,7 +284,7 @@ Most missed buys are skipped on purpose by your own settings or by a low balance
 1. On the Agents page, open the Trades tab, turn off Hide skipped trades and read the reason for that token.
 2. Look for a failed attempt in the Trades tab, usually slippage exceeded or insufficient balance.
 3. Compare the buy with your filters: market cap, token age, Platforms, Copied wallet's buy size filter, Buy limits and Only copy new positions.
-4. Check that the copied wallet spent at least 0.01 SOL. Smaller buys are ignored and not logged.
+4. On Solana, check that the copied wallet spent at least 0.01 SOL. Smaller buys are ignored and not logged.
 5. In Buy the dip mode, the agent only buys if price drops into your range. Switch Entry to Instant to buy right away.
 
 </details>
@@ -494,6 +512,22 @@ _Applies to: Solana_
 
 <details>
 
+<summary>What happens to my open positions if I pause an agent?</summary>
+
+Pausing stops new buys only. Exit rules keep running on the positions the agent already holds: stop loss, take profit, trailing stop, time limit and copy sells still fire. To stop the agent selling too, turn off its exits under **Sell**, or close the positions yourself from the terminal or the Agents panel.
+
+</details>
+
+<details>
+
+<summary>Can I sell part of an agent's position myself?</summary>
+
+Yes. Open the token in the terminal, or open **Agents** from the footer, and sell what you want. The agent keeps managing what's left with its exit rules. If you sell the whole position by hand, the agent stops managing it. Your manual sells count toward the agent's PnL unless you turn off **Include my manual sells** on the Agents page.
+
+</details>
+
+<details>
+
 <summary>What happens to open positions if I remove a wallet from my agent?</summary>
 
 Nothing automatic. Positions opened from that wallet stay open and your TP/SL rules keep applying. Copy sells for those positions stop because the wallet is no longer followed, so you'll need to close or manage them yourself.
@@ -650,7 +684,7 @@ Agent trades carry a 1% Cielo fee on each executed buy and sell, compared with 0
 
 <summary>Can I get Telegram notifications when my agent trades?</summary>
 
-There are no built-in agent trade notifications yet. Instead, track your agent's trading wallet like any other wallet and you'll get an alert whenever it buys or sells. The app also shows low gas warnings for agents.
+There are no Telegram notifications for agent trades yet. Instead, track your agent's trading wallet like any other wallet and you'll get an alert whenever it buys or sells. The app also shows low gas warnings for agents.
 
 1. Copy the agent's trading wallet address from Agents > Edit > Buy > Wallet, or from Portfolio.
 2. On the Tracking page, add the wallet and label it, for example My agent.
@@ -662,9 +696,11 @@ There are no built-in agent trade notifications yet. Instead, track your agent's
 
 <details>
 
-<summary>Can I blacklist tokens, delay buys or cap spend per token?</summary>
+<summary>Can I delay buys or cap spend per token?</summary>
 
-Not yet. Token blacklists, max-buyer filters, buy delays and a max SOL per token limit aren't available. To avoid re-buying a token you sold, set max buys per token per week under Buy limits.
+Not yet. Max-buyer filters, buy delays and a max SOL per token limit aren't available. To avoid re-buying a token you sold, set max buys per token per week under Buy limits.
+
+To stop every agent from buying a token, add it to the token **Blocklist** on the Agents page.
 
 </details>
 

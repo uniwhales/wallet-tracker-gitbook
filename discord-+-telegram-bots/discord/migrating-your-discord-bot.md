@@ -4,8 +4,8 @@ Cielo has recently upgraded Discord bots to improve user experience. The new sys
 
 To migrate to the new Discord bot, open your Discord bot channel and enter the command _/migrate_
 
-Follow the prompts and click the link that appears asking you to approve the updated bot permissions. Once you’ve approved the permissions, return to Discord and enter the command _/create\_webhook_&#x20;
+Follow the prompts and click the link that appears asking you to approve the updated bot permissions. Once you’ve approved the permissions, return to Discord and enter the command _/create\_webhook_
 
-And that’s it: you should have not upgraded to the latest Cielo Discord bot and can start enjoying better performance and enhanced features.
+And that’s it: you should now have upgraded to the latest Cielo Discord bot and can start enjoying better performance and enhanced features.
 
 <br>

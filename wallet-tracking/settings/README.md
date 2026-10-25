@@ -2,10 +2,13 @@
 
 [**Settings**](https://app.cielo.finance/settings) is where you can amend your Cielo plan, adjust bots, and make other account changes. Use the following subsections of the Settings page to customize your Cielo experience.
 
-## General
+## Account
 
 * View your connected wallet
+* Connect or unlink Google, X and Telegram as sign-in methods
+* Add or remove passkeys, used to confirm withdrawals, private key exports and mobile linking
 * View your current plan and expiry date
+* View your billing history
 
 ## Plans
 
@@ -29,24 +32,23 @@
 ## Advanced
 
 * Clear Cache: Clear your Cielo cache without having to clear your entire browser cache
-* **Charting Tool:** Choose whether Cielo's default charting toool is BullX, GeckoTerminal, DEX Screener, DEX Tools, Photon, or Defined
+* **Charting Tool:** Choose where chart links in the Feed and alerts open. Cielo's own chart is the default
 * **Display Token Address**: Enable to display the token contract in Telegram/Discord alerts for Swaps and Approvals. Some users prefer this as it allows them to quickly copy the contract address and paste it into their favorite trading terminal
 * **Display Market Cap and Liquidity**: Pro and Whale users can opt to have this information included with bot alerts
 * **Display PnL in Alerts**: Show token PnL in sell alerts. This will display the wallet’s current PnL for the token being sold.
-* **Banana Gun**: Display Banana Gun link for Swaps in Telegram alerts. Clicking the Banana Gun link will take you to the Banana Gun trading bot. _(Note: Cielo has no control over Banana Gun bot and is not liable for any technical issues or trading losses incurred while using it)_
+* **Solana Trading Bot / EVM Trading Bot**: Choose which bot the buy buttons in alerts open (Cielo by default)
 * **Highlight Swaps**: Enable an emoji displayed with Buy🟢/Sell🔴 alerts to enhance visibility
 * **First Sell Alerts**: Include first sell tx with New Trade alerts. This will add an alert when a wallet sells a token for the first time
 * **X Search**: Enable X (Twitter) link with bot alerts to search for token contract address on X
 * **Cielo Chrome Extension**: Add the Cielo browser extension to Chrome or Brave. Use it to import wallets from dapps such as Etherscan in one click
+* **Display % Sold in Sell Alerts**: Show what share of its position the wallet sold
+* **Display Remaining Holdings in Alerts**: Show how much of the token the wallet still holds after each trade
+* **Clipboard token detection**: Copy a Solana or Base token address anywhere and a quick buy pill appears in the navbar
 
 ## Limits
 
-* Keep track of the number of alerts you have received to tell whether you are within the maximum alert parameters your plan permits
-* Identify if alerts have been undelivered due to filters you have applied to wallets (e.g. enabling New Trade Alerts only)
-* Check that you have not exceeded the maximum number of wallet profile views your plan permits
+Your alert usage, tracked wallet count and wallet profile views are shown in the **Limits** box on the [Tracking](https://app.cielo.finance/tracking) page.
 
-<br>
-
-<br>
-
+\
+\
 <br>

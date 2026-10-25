@@ -12,7 +12,7 @@ Fires the moment a fresh wallet's cumulative purchases of a single token cross y
 
 | Setting            | Default    | Notes                                                     |
 | ------------------ | ---------- | --------------------------------------------------------- |
-| Chain              | All chains | Solana, Ethereum, Base                                    |
+| Chain              | All chains | Solana, Ethereum, Base, Robinhood, Arc                    |
 | Min cumulative buy | $1,000     | Floor is $500.                                            |
 | Max funded age     | 14 days    | Skip wallets first funded longer than this. 1 to 14 days. |
 
@@ -27,4 +27,3 @@ Token: EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm
 
 #solana | ViewTx | Chart | Wallet
 ```
-

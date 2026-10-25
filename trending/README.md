@@ -1,16 +1,41 @@
+---
+description: The tokens wallets tracked on Cielo are buying right now.
+---
+
 # Trending
 
-[**Trending**](https://app.cielo.finance/trending) is the starting point for discovering and trading Solana and Base tokens. It allows you to quickly determine which tokens are attracting interest from other Cielo users, and to gauge key metrics such as market cap and volume.
+[Trending](https://app.cielo.finance/trending) ranks tokens by how many wallets tracked on Cielo are buying them, not by volume. Volume can be faked with bots and wash trades. Many real wallets buying the same token is much harder to fake, so Trending tends to surface tokens with genuine demand behind them.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+## Reading the table
 
-Cielo's trading platform has been optimized every aspect of the trading process.
+Pick a chain at the top (**ALL**, **SOL**, **BASE**, **HOOD** or **ARC**) and a timeframe (**1m**, **5m**, **1h**, **6h** or **24h**). Short timeframes catch quick flips. Longer ones show what's held attention all day.
 
-* **Low Latency APIs**: Custom-built for speed to ensure you get the best entry.
-* **Precise PnL**: We include bribes and platform fees in our calculations to show your _true_ profit. 📉
-* **Mindshare** 🧠: Look beyond your own feed. See what the entire "Hive Mind" of Cielo traders is watching.
-* **Trending**: Switch between 1m and 24h views to distinguish between quick flips and sustained trends. Use the chain selector at the top to toggle between Solana and Base tokens.
+| Column             | What it shows                                                                                                          |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| **Token / Age**    | Ticker, name and how long ago the token launched.                                                                      |
+| **Mindshare %**    | How strongly wallets tracked on Cielo are buying the token, plus the number of wallets. See [Mindshare](mindshare.md). |
+| **Market Cap**     | Current market cap.                                                                                                    |
+| **Price Change %** | Price change over the timeframe.                                                                                       |
+| **Holders**        | Number of holders.                                                                                                     |
+| **Liquidity**      | Liquidity in the main pool.                                                                                            |
+| **Volume 24h**     | Trading volume over the last 24 hours.                                                                                 |
+| **Fees Paid**      | Total fees traders have paid on the token.                                                                             |
+| **Token Info**     | Top 10 holder share, dev holdings, snipers, bundlers and whether the token paid for DexScreener.                       |
 
-{% hint style="info" %}
-Cielo charges 0.6% on all swaps executed within the web app and Telegram. This applies to both Solana and Base trades.
-{% endhint %}
+The button at the end of each row is a quick buy. Click the token name to open it in the [terminal](../trading/overview.md#the-terminal).
+
+Tokens flagged as honeypots or spam are kept out of the table. That won't catch every bad token, so check the token checklist before you buy.
+
+## Filters
+
+Use the filters to cut the table down to what you care about: market cap, liquidity, holders, token age, launchpad and the audit metrics. Filtering by launchpad is useful when a new platform is hot, for example only showing Pools or Pump.fun tokens.
+
+## Trending alerts
+
+Click **Alerts** to get a Telegram or Discord message when a token matches your criteria, so you don't have to keep the page open. Set the rules once: Mindshare, market cap, whale and fresh wallet activity, sniper %, token age and timeframe. Then pick the bot or channel the alerts go to.
+
+Trending alerts are on every plan. Whale gets higher limits.
+
+{% embed url="https://x.com/CieloFinance/status/2050264176606535687" %}
+
+{% embed url="https://x.com/CieloFinance/status/2043681963576304118" %}

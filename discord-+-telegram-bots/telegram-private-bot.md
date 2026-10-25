@@ -10,8 +10,6 @@ Cielo provides a number of Telegram bots that can be used to receive custom aler
 
 To resolve this, Cielo Pro + Whale users can create private bots that are exclusive to their personal use. This will ensure that alerts are delivered promptly and consistently. Just as experienced onchain users can create a custom RPC to access a faster blockchain connection, creating a private Cielo bot ensures a consistent alert stream.
 
-
-
 {% hint style="info" %}
 Private Telegram bots are available _in addition_ to your existing Cielo bots e.g. if you are a Pro user, the two bots you currently have can now be complemented by two additional private bots.
 {% endhint %}
@@ -27,17 +25,16 @@ Follow these steps to set up your private bot:
 5. Open the Cielo web app and go to [Settings > Alerts](https://app.cielo.finance/settings/alerts)
 6. In the private bots section, add a new bot and paste in your BotFather token
 7. Repeat for additional bots, up to your plan's limit
-8. Go to [My Wallets](https://app.cielo.finance/my-wallets) to assign wallets to your private bot(s)
+8. Go to [Tracking](https://app.cielo.finance/tracking) to assign wallets to your private bot(s)
 
 You can create as many private bots as your current Cielo plan permits. Visit [Alerts](https://app.cielo.finance/settings/alerts) in the Cielo web app and you will see all of your private bots listed.
 
 Type _/start_ in your private bot to load the Cielo menu. You can also add private bots to Telegram groups and topics just as you can with a regular Cielo bot.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-27 at 12.46.16.png" alt=""><figcaption><p>After creating a private bot, it will appear in <strong>My Wallets</strong> as a bot you can assign alerts to.</p></figcaption></figure>
+<figure><img src="https://1250667054-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgZTvWhkjLJ8uCLtiUaPq%2Fuploads%2FtweuFe94oL2Q8njRYJnU%2FScreenshot%202024-06-27%20at%2012.46.16.png?alt=media&#x26;token=3fe3daa9-bdf9-4563-ab18-f5a5f14deb91" alt=""><figcaption><p>After creating a private bot, it will appear in <strong>Tracking</strong> as a bot you can assign alerts to.</p></figcaption></figure>
 
 To make it easier to keep track of your Cielo bots, including private bots, it is recommended that you create a dedicated Telegram folder and assign all bots to it.
 
 {% hint style="info" %}
 The alerts you assign to your private bot must be made using the Cielo web app. In every other respect, however, your private bot will operate as normal with the added bonus of greater speed and reliability.
 {% endhint %}
-

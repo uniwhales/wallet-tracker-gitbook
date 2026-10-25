@@ -4,15 +4,13 @@ Use the following resources to discover good quality wallets to copy trade.
 
 #### 1. Cielo Discovery Page
 
-Avilable to Pro and Whale users, Cielo’s built-in [Discovery page](https://app.cielo.finance/wallet-discovery) (trending) is designed for this exact purpose. Some key strategies here:
+Cielo’s built-in [Discovery page](https://app.cielo.finance/wallet-discovery) (trending) is designed for this exact purpose. Some key strategies here:
 
 * Sort by PnL, ROI, or win rate to find consistently profitable wallets.
-* Filter by chain (ETH, BSC, Base, Solana etc.)&#x20;
+* Filter by chain (ETH, BSC, Base, Solana etc.)
 * Select a tag that you find interesting. (Human Operated, Gem Finder, High Winrate etc.)
 * Look for wallets whose last trade was within the last 24 hours.
 * Trace a wallet’s full trading history and see how often they win vs. cut losses.
-
-
 
 #### 2. Cielo API
 
@@ -21,8 +19,6 @@ The [Cielo API](https://api-info.cielo.finance/) lets you build custom scripts t
 * Fetch trending wallets by for example Chain, PnL, Winrate, Hold Time, Last Trade.
 * Analyze behavior over time
 * Combine with Discord/webhook alerts to get notified when top wallets act.
-
-
 
 #### 3. Blockchain Explorers (Etherscan, Basescan, Solscan etc.)
 
@@ -55,7 +51,7 @@ These tools already analyze wallets for you. Specific things to do:
 * Use DeBank to see full wallet portfolios and yield positions.
 * Filter by activity e.g. wallets that do $X in swaps per week.
 * Use ChainEDGE to track elite on-chain traders and replicate profitable strategies.
-* Alpha Hunter&#x20;
+* Alpha Hunter
 * Dune dashboards
 
 ####
@@ -64,7 +60,7 @@ These tools already analyze wallets for you. Specific things to do:
 
 These are goldmines.
 
-* Join groups on Telegram  that share wallet addresses when a call hits. You can find groups for example in the channel of well-known copy trade bots.
+* Join groups on Telegram that share wallet addresses when a call hits. You can find groups for example in the channel of well-known copy trade bots.
 * Use bots like DexScreener, DexTools, and CieloBot to track real-time buys/sells.
 * Build a system to log addresses mentioned in groups, then analyze trade histories.<br>
 
@@ -78,8 +74,6 @@ Some wallets are clearly sniping newly deployed contracts.
 
 _Only copy sniping bots if you are experienced and understand the risk you’re taking on._
 
-
-
 **8. Copy Wallets of Known Influencers**
 
 Some influencers trade publicly from known wallets:
@@ -88,8 +82,6 @@ Some influencers trade publicly from known wallets:
 * Use DeBank or Cielo to trace their trades.
 * Cross-reference with Cielo to see if they're actually profitable.
 
-
-
 Using Cielo wallet tags to find quality wallets<br>
 ---------------------------------------------------
 
@@ -97,11 +89,11 @@ What kind of wallet do you want to track? And for what purpose? Depending on you
 
 The following tags can be found on the Cielo profile page for the wallet in question and are also on the Wallet Discovery [page](https://app.cielo.finance/wallet-discovery), where you can search by tag e.g. _Gem Finder._<br>
 
-**Human-Operated:** Wallet is not controlled by a bot, but by a real human. We carefully check the trading behavior of these wallets in Cielo before adding this tag. There are patterns that indicate that this is not a trading bot.&#x20;
+**Human-Operated:** Wallet is not controlled by a bot, but by a real human. We carefully check the trading behavior of these wallets in Cielo before adding this tag. There are patterns that indicate that this is not a trading bot.
 
 **Gem Finder**: A wallet that made a 2x profit on 30% of all tokens bought. A Gem Finder is known for his exceptional ability to only select a very good performing set of assets. Only if 30% of all tokes trades are with 100% profit will we qualify you as Gem Finder.
 
-**High Win Rate**: Win rate is higher than 75%. This is a very high win rate, and is particularly hard to maintain over a longer period of time/amount of trades. At some point, the higher the win rate goes, the more cautious you should be. A wallet that shows a 90%+ win rate over a serious amount of trades it likely too good to be  true and should be treated with caution.
+**High Win Rate**: Win rate is higher than 75%. This is a very high win rate, and is particularly hard to maintain over a longer period of time/amount of trades. At some point, the higher the win rate goes, the more cautious you should be. A wallet that shows a 90%+ win rate over a serious amount of trades it likely too good to be true and should be treated with caution.
 
 **New Wallet**: First transaction made by the wallet was 14 days ago or less. This wallet could be operated by a new identity or it could be an old one that wants a clean sheet. New wallets can be made easily and disguise any previous trading decisions. These wallets are unlikely to be tracked by a huge number of people initially, so following them can be an advantage.
 
@@ -117,7 +109,7 @@ The following tags can be found on the Cielo profile page for the wallet in ques
 
 **High Volume Dex Trader**: Total DEX trading volume is over $10m. This wallet has been trading significant volume on a DEX, in trade amount or trade size. Take a good look at the numbers under Bought/Sold to identify if the wallet in question is worth tracking for you.
 
-**Popular Wallet:** Over 30 Cielo users are tracking this wallet. Target wallet has been found by multiple users of our platform who have added it in their list for tracking.&#x20;
+**Popular Wallet:** Over 30 Cielo users are tracking this wallet. Target wallet has been found by multiple users of our platform who have added it in their list for tracking.
 
 **Flipper:** Indicates that the wallet trades a high number of tokens and sells them promptly to realize quick profits. A wallet with the Flipper tag will be trading on a high frequency but not necessarily with huge amounts. However you will see a high number of tokens traded on a daily timeframe. If you're thinking of copy trading them, be wary of the amount of trades per token because if this number is also high, things multiply exponentially resulting in high fees.
 

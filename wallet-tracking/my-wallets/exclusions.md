@@ -10,11 +10,10 @@ Unlike Token Filters, which control which assets you _do_ want alerts for, Exclu
 
 To set an exclusion, go to **Tracking > Exclusions**.
 
-In the **Add exclusion** field, select the chain and paste the token or contract address you want to exclude, then click **Add**. You can exclude addresses on Ethereum, Base, Solana, and Robinhood.
+In the **Add exclusion** field, select the chain and paste the token or contract address you want to exclude, then click **Add**. You can exclude addresses on Ethereum, Base, Solana, Robinhood, and Arc.
 
 Once added, the exclusion applies automatically across all your tracked wallets, you don't need to configure it per wallet or per alert.\
 \
 You can add up to 200 exclusions, and remove any of them at any time from the same list.
 
 {% embed url="https://x.com/CieloFinance/status/2091183905864864132?s=20" %}
-

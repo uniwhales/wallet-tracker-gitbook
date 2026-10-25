@@ -3,22 +3,27 @@
 * [Overview](README.md)
 * [Getting Started](getting-started/quickstart.md)
 * [Chain Support](chain-support.md)
+* [Security](security.md)
+* [What's new](whats-new.md)
 
-## Trading Agents
+## Trading Agents (Copy Trading) <a href="#trading-agents" id="trading-agents"></a>
 
 * [Overview](trading-agents/overview.md)
-* [Copy Trading](trading-agents/copy-trading.md)
+* [Copy trading](trading-agents/copy-trading.md)
 * [Agent settings](trading-agents/agent-settings.md)
+* [Simulator and Ask AI](trading-agents/simulator.md)
 * [Trading agents FAQ](trading-agents/trading-agents-faq.md)
 
 ## Trading
 
 * [Overview](trading/overview.md)
-* [Telegram Trading](trading/telegram-trading.md)
+* [Telegram trading](trading/telegram-trading.md)
+* [Pulse](trading/pulse.md)
 * [Trending](trending/README.md)
   * [Mindshare](trending/mindshare.md)
-  * [Referrals](trending/referrals.md)
-  * [Multi](trending/multi.md)
+  * [Multi Buys](trending/multi.md)
+* [Referrals](trading/referrals.md)
+* [Portfolio](trading/portfolio.md)
 
 ## Wallet Tracking
 
@@ -29,6 +34,7 @@
   * [Public Lists](wallet-tracking/discovery/public-lists.md)
 * [Tracking](wallet-tracking/my-wallets/README.md)
   * [Wallet Profiles](wallet-tracking/my-wallets/wallet-profiles.md)
+  * [Alert settings](wallet-tracking/my-wallets/alert-settings.md)
   * [Renames](wallet-tracking/my-wallets/renames.md)
   * [New Trade Alerts](wallet-tracking/my-wallets/new-trade-alerts.md)
   * [Token Filters](wallet-tracking/my-wallets/token-filters.md)
@@ -51,7 +57,6 @@
   * [Multiple Wallet](wallet-tracking/custom-alerts/multiple-wallet.md)
   * [Token Swap](wallet-tracking/custom-alerts/token-swap.md)
 * [Insights](wallet-tracking/insights.md)
-* [Portfolio](wallet-tracking/portfolio.md)
 * [Settings](wallet-tracking/settings/README.md)
   * [Cielo Web Extension](wallet-tracking/settings/cielo-web-extension.md)
 * [Hyperliquid](wallet-tracking/hyperliquid.md)

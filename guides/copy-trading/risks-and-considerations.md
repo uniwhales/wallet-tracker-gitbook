@@ -40,11 +40,9 @@ Even on Solana, where fees are low, costs can add up, especially with rapid trad
 Mistakes to avoid when copy trading
 -----------------------------------
 
-
-
 **1. Allocating too much capital starting out**
 
-When starting with copy trading it’s best to keep your amounts low to see which wallets are profitable and which are not.&#x20;
+When starting with copy trading it’s best to keep your amounts low to see which wallets are profitable and which are not.
 
 **2. Failing to monitor your copy positions**
 
@@ -60,19 +58,17 @@ This will be sub-optimal because you will always have a higher entry price then 
 
 **5. The risk of copying scam / farmer wallets**
 
-These wallets intentionally create attractive trading patterns to lure copiers before executing exit scams. They may pump tokens, attract investors, then suddenly dump holdings, leaving copiers with heavy losses. Some also trade honeypot tokens that cannot be sold, permanently trapping your funds.&#x20;
+These wallets intentionally create attractive trading patterns to lure copiers before executing exit scams. They may pump tokens, attract investors, then suddenly dump holdings, leaving copiers with heavy losses. Some also trade honeypot tokens that cannot be sold, permanently trapping your funds.
 
 **6. Choosing the wrong bot**
 
-Copy trading relies heavily on automation. Selecting the right execution bot is crucial. This isn't just about functionality, it's about finding a tool that:
+Copy trading relies heavily on automation. On Cielo, [trading agents](../../trading-agents/overview.md) handle execution for you, so getting your agent settings right is crucial. Make sure your setup:
 
 * Has an intuitive UI you're comfortable with
 * Offers customizable settings for fine-tuning
 * Balances execution speed with minimal fee costs<br>
 
 ## Considerations when copy trading
-
-&#x20;
 
 **1. Speed Matters, But So Does Precision**
 
@@ -89,8 +85,6 @@ Pay close attention to:
 * Gas Settings (when applicable): Ensure optimal fee configs for smooth performance.
 * Always double-check your parameters. One misconfigured setting can cascade into repeated bad trades.
 
-
-
 **3. Track and Review Performance**
 
 Once the bot is up and running:
@@ -101,8 +95,6 @@ Once the bot is up and running:
 
 \
 Adjust based on market behavior or your lead trader’s activity pattern
-
-
 
 **4. Protect Your Capita**l
 

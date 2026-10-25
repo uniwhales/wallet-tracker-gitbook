@@ -31,6 +31,7 @@ Once you rename a wallet, the custom label and emoji replace the raw address eve
 * Top Traders tab
 * Feed cards
 * Wallet profile pages
+* Telegram and Discord alerts
 
 This works across all chains.
 
@@ -42,7 +43,7 @@ The **Renames** tab on the Tracking page is where you manage all your labeled wa
 | ------------------ | --------------------------------------------------------------------------- |
 | **Wallet**         | Emoji + custom label + truncated address. Click to open the wallet profile. |
 | **Rename Time**    | When the label was first set.                                               |
-| **Native Balance** | SOL, ETH, BTC, or SUI balance depending on the chain.                       |
+| **Native Balance** | SOL, ETH, BTC, or other native balance depending on the chain.              |
 | **Total Profit**   | All-time PnL in USD and percentage.                                         |
 | **TXs**            | Total transaction count.                                                    |
 | **Last Active**    | Time since the wallet's last onchain activity.                              |
@@ -78,4 +79,4 @@ If you rename a wallet and later add it to tracking, the label persists. If you 
 
 #### Limits
 
-You can rename up to **1,000** wallets per account. Renames do not count toward your tracked wallet limit.
+Pro accounts can rename up to **2,000** wallets and Whale accounts up to **10,000**. Renames do not count toward your tracked wallet limit.

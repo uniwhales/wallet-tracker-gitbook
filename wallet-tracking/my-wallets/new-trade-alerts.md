@@ -2,10 +2,8 @@
 
 Available to Pro and Whale users, New Trade Alerts enables you to receive an alert whenever a wallet you're following trades a particular token for the first time. To enable this feature, in **Tracking** click the edit icon alongside a particular wallet and then click the tab marked **Alert Settings**. (Alternatively, select all wallets on a page or within a list and then click the **Alert Settings** button to make bulk edits.)
 
-For the wallet(s) selected, click the **New Trade Alerts** switch to activate this feature. In the **Wallet Info** tab, make sure you have assigned the wallet(s) to a particular bot. You will now receive a bot alert whenever the selected wallet(s) trades a particular token for the first time.
+For the wallet(s) selected, click the **New Trade Alerts** switch to activate this feature. Under **Receive Alerts On**, make sure you have assigned the wallet(s) to a particular bot. You will now receive a bot alert whenever the selected wallet(s) trades a particular token for the first time.
 
-
-
-<figure><img src="../../.gitbook/assets/Screenshot 2025-07-03 at 15.52.46.png" alt="" width="351"><figcaption><p>Toggle the New Trade Alerts switch to activate this feature</p></figcaption></figure>
+<figure><img src="https://1250667054-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgZTvWhkjLJ8uCLtiUaPq%2Fuploads%2F1hC1W9YOB1vxPMB2jQVh%2FScreenshot%202025-07-03%20at%2015.52.46.png?alt=media&#x26;token=0e7e0a95-551e-4900-935e-ef2ced420cda" alt="" width="351"><figcaption><p>Toggle the New Trade Alerts switch to activate this feature</p></figcaption></figure>
 
 Some users also like to be alerted when a wallet they're tracking **sell**s a new token for the first time. This feature can be enabled for New Trade Alerts. To do so, go to [Advanced Settings](https://app.cielo.finance/settings/advanced) and check the box marked **First Sell Alerts**.

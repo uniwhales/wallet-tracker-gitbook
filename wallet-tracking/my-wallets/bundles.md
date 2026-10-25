@@ -1,12 +1,12 @@
 # Bundles
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://1250667054-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgZTvWhkjLJ8uCLtiUaPq%2Fuploads%2FRTDHyYXV1AoBDXFzwG73%2Fimage.png?alt=media&#x26;token=fdbcfe73-1745-4053-87a6-b0bfbd2c7543" alt=""><figcaption></figcaption></figure>
 
 A lot of serious traders split activity across multiple wallets. Following them one address at a time means you're always seeing an incomplete picture. Bundles fix that. Group up to 20 addresses together and treat them as one: one PnL view, one feed, one set of stats.
 
 #### **Creating a bundle**
 
-Start from the sidebar, the Bundles tab on the Tracking page, or directly from any wallet profile by clicking the plus icon near the avatar. The fastest path is the My Wallets tab: select a few wallets and a Create Bundle button appears in the toolbar.
+Start from the sidebar, the Bundles tab on the Tracking page, or directly from any wallet profile by clicking the plus icon near the avatar. The fastest path is the Tracked Wallets tab: select a few wallets and a Create Bundle button appears in the toolbar.
 
 Name it, add up to 20 addresses, and label each wallet if you want. The same address can appear in multiple bundles.
 

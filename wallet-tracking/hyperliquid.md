@@ -11,21 +11,20 @@ Alerts hit Telegram, Discord, and your feed:
 * **Imminent liquidation alerts:** fire when a position is within 2% of its liq price, with distance, leverage, and size.
 * **Ledger alerts:** deposits, withdrawals, transfers, and staking. Bridge transfers read as Hyperliquid deposits or withdrawals, not a generic "Transferred."
 * **Order alerts:** limit orders placed, cancelled, or triggered, if you turn them on.
+* **HIP-4 outcome alerts:** every trade on Hyperliquid's outcome markets.
 
 You set all of this per wallet across eight filters: direction, size, coin, action type, and more. Available on Pro and Whale.
 
-#### Insights
+#### Wallet profile
 
-Tracking and Insights go hand in hand. You track wallets to catch their moves one at a time. Insights shows you where all of them stand at once, so you can see how everyone's positioned without opening each wallet.
+The **Hyperliquid** tab on any EVM wallet's profile shows its open positions, PnL, trade history and account health in one place.
 
-* **List positioning:** pick a tracked list and see what everyone in it holds, long versus short, on one screen.
-* **Consensus trades:** the coins your list agrees on most, ranked by how many wallets are on the same side.
-* **Standouts:** who's up the most, who's down the most, and who's closest to getting liquidated.
+#### Polymarket
 
-Insights is a Whale feature. From here you can open any wallet's Hyperliquid profile to see everything about a single trader: their positions, trade history, and account health.
+Cielo also tracks Polymarket. Track a Polymarket trader's wallet and their positions show up in your feed with live odds, volume and liquidity. Polymarket wallets count toward your EVM tracking limit.
 
 #### Start here
 
 New to Hyperliquid tracking? Head to the [Tracking page](https://app.cielo.finance/tracking) to add a wallet and set your first alert.
 
-Alerts are on Pro and Whale. Insights is Whale only. Not there yet? [Subscribe](https://docs.cielo.finance/wallet-tracking/subscribe).
+Alerts are on Pro and Whale. Not there yet? [Subscribe](https://docs.cielo.finance/wallet-tracking/subscribe).

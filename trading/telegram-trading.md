@@ -1,90 +1,64 @@
-# Telegram Trading
+---
+description: >-
+  Buy, sell and copy trade from Telegram, with the same wallets and positions as
+  the web app.
+---
 
-Cielo's Telegram bot includes native trading functionality, allowing you to buy and sell Solana and Base tokens directly from your alerts.
+# Telegram trading
 
-When Telegram Trading is enabled, every swap alert in your bot will include **Quick Buy buttons** at the bottom of the message, letting you act on a trade the moment you spot it.
+The Cielo Telegram bot you get alerts from is also a trading bot. When a tracked wallet buys something, the alert has buy buttons right under it, so you can act from your phone in one tap. Trades run on Solana, Base, Robinhood and Arc, through the same engine and wallets as the web app. A position you open in Telegram shows up in the web terminal and the other way round.
 
-#### Enabling Telegram Trading
+## Get started
 
-To get started, your trading wallet must be funded (SOL for Solana, ETH or USDC for Base). You can view your trading wallet address and balance at any time by sending `/start` to your Cielo bot. The home screen shows:
+1. Activate a bot in **Settings >** [**Alerts**](https://app.cielo.finance/settings/alerts) if you haven't already. See [Telegram bot](../discord-+-telegram-bots/getting-started.md).
+2. Fund your trading wallet: SOL or USDC on Solana, ETH or USDC on Base, ETH or USDG on Robinhood, USDC on Arc. Keep a little SOL or ETH for network fees, even if you trade with USDC or USDG.
+3. Send `/start` to the bot. The home screen shows your plan, wallet counts and the active trading wallet with its balance.
 
-* Your current plan and wallet counts
-* Your active trading wallet address and balance
-* Navigation buttons for Positions, PnL, Trading Wallets, Settings, and more
+## Buy from an alert
 
+Swap alerts come with quick buy buttons at the bottom, one for each of your preset amounts. Tap one to buy that token with that amount from your default trading wallet. You get a receipt with a link to the transaction once it lands.
 
+Change the amounts in **Settings > Trading Settings > Buy Presets**.
 
-***
+## Trade any token
 
-#### Quick Buying from Alerts
+Paste a token address into the chat. The bot shows the token's name, market cap, price, liquidity and a risk scan, plus your position if you hold it. From there you can:
 
-When a tracked wallet makes a swap on Solana or Base, your alert will display three **Quick Buy buttons** beneath the transaction — for example:
+* Buy with a preset or a custom amount
+* Sell 25%, 50%, 100% or a custom amount
+* Place a **limit order** to buy or sell at a target price, with an optional expiry
 
-> 🟢 **0.1 SOL**   🟢 **0.5 SOL**   🟢 **1 SOL**
+## Positions and PnL
 
-Tap any button to instantly buy that token using the selected amount from your default trading wallet. Once executed, you'll receive a transaction receipt with a link to view it onchain.
+| Command      | What it does                                                                                                                          |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| `/positions` | Your open positions across all trading wallets, with unrealized PnL. Tap a token to trade it.                                         |
+| `/pnl`       | Your PnL for 1D, 7D, 30D or all time: realized and unrealized, win rate, tokens traded and how your trades are distributed by return. |
 
-You can customise these preset amounts at any time in **Trading Settings → Buy Presets**.
+## Trading wallets
 
-***
+Tap **Trading Wallets** to see every wallet and its balance, create a new one, set your default, rename, archive or withdraw.
 
-#### Trading a Specific Token
+## Trading settings
 
-You can also open a token's buy/sell panel at any time by pasting a Solana or Base token address directly into the Telegram chat. The bot will display:
+Open **Settings > Trading Settings** to set how your trades execute. Buys and sells are configured separately.
 
-* Token name, symbol, and mint address
-* Market cap, price, and liquidity
-* Your current position and PnL for that token (if you hold it)
+| Setting                  | What it does                                                          |
+| ------------------------ | --------------------------------------------------------------------- |
+| **Slippage**             | The most the price can move against you before the trade is rejected. |
+| **Priority Fee**         | Pay more to land faster when the network is busy.                     |
+| **Auto Fee**             | Picks a priority fee for you, with an optional cap.                   |
+| **MEV Protection**       | Protects against sandwich attacks.                                    |
+| **Buy Presets**          | The amounts on the quick buy buttons.                                 |
+| **Buy Button on Alerts** | Turn the buy buttons on alerts on or off.                             |
+| **Sell Presets**         | The percentages on the sell buttons. Defaults are 25%, 50% and 100%.  |
 
-From here you can buy using preset amounts or a custom SOL value, and sell in preset percentages (25%, 50%, 100%) or a custom amount.
+## Mini app
 
-***
+The Cielo Telegram mini app puts copy trading on your phone. Create a [trading agent](../trading-agents/overview.md), add wallets to copy, turn agents on or off and check their PnL, all without opening the web app.
 
-#### Positions
+{% embed url="https://x.com/CieloFinance/status/2113324515296264235" %}
 
-Tap **📊 Positions** from the bot home menu (or send `/positions`) to see all your currently open positions across your trading wallets, including each token's unrealised PnL in both SOL and USD or ETH and USD.
+## Fees
 
-Tap any token in the list to open its buy/sell panel directly.
-
-***
-
-#### PnL Dashboard
-
-Tap **📈 PnL** (or send `/pnl`) to view your trading performance for the last 1D, 7D, 30D, or all time. The dashboard shows:
-
-* Realised and unrealised PnL in USD and SOL
-* Total portfolio value
-* Tokens traded, total transactions, buys vs sells, and win rate
-* Token performance distribution (e.g. how many of your trades returned >500%, 200–500%, etc.)
-
-***
-
-#### Trading Wallets
-
-Tap **💼 Trading Wallets** to manage the wallets used for trading. From here you can:
-
-* View all wallets and their balances
-* Create a new trading wallet
-* Set a default wallet
-* Rename, archive, or withdraw funds from any wallet
-
-***
-
-#### Trading Settings
-
-Tap **⚙️ Settings → Trading Settings** to configure your trading behaviour:
-
-**Transaction Settings** Configure separately for buys and sells:
-
-* **Slippage**: The maximum price movement you'll accept on a trade
-* **Priority Fee**: Increase to get your transaction confirmed faster during congestion
-* **MEV Protection**: Protects your trade from sandwich attacks (Disabled / Reduced / Secure)
-* **Auto Fee**: Automatically selects an optimal priority fee, with an optional SOL cap
-
-**Buy Presets** The three SOL amounts shown as Quick Buy buttons in alerts. Defaults are 0.1, 0.5, and 1 SOL. Tap any preset to change it.
-
-**Sell Presets** The three percentage amounts shown when selling a token. Defaults are 25%, 50%, and 100%.
-
-***
-
-> 💡 Telegram trading uses the same execution engine as the Cielo web app — your positions, wallets, and PnL are shared across both.
+0.6% per manual trade and 1% per trading agent trade, the same as the web app.

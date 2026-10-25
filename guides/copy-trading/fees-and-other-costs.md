@@ -14,6 +14,8 @@ Most copy trading bots and platforms have their own fee structures, which can va
 * **Performance Fees**: Others might take a percentage of your profits, only charging you when you make money.
 * **Per-Trade Fees**: Some platforms charge a small fee for every trade executed on your behalf.
 
+On Cielo, trades placed by [trading agents](../../trading-agents/overview.md) cost 1% and manual trades cost 0.6%. You don't need a subscription to copy trade.
+
 It’s important to review the specific fee schedule for the bot or platform you choose. These fees can add up over time, especially if you're copying many trades or using advanced features like faster execution speed.
 
 ### 3. Settings and Customization
@@ -26,13 +28,11 @@ On Solana, every token account (including those created by copy trading bots to 
 
 ### 5. Refunds and Cost Recovery
 
-One unique advantage of Solana is that when you close a token account you no longer need, the rent you paid is refunded to your wallet. This means you can recover some of your costs simply by cleaning up unused accounts. Many platforms, and even dedicated tools like Sol Incinerator, make it easy to close accounts and reclaim your SOL.
+One unique advantage of Solana is that when you close a token account you no longer need, the rent you paid is refunded to your wallet. This means you can recover some of your costs simply by cleaning up unused accounts. Many platforms, and even dedicated tools like Sol Incinerator, make it easy to close accounts and reclaim your SOL. Cielo can also close the empty token accounts in your Cielo trading wallet and return the rent.
 
 ### 6. Hidden and Indirect Costs
 
 Don’t forget about indirect costs such as slippage (the difference between the expected price and the price at which a trade is executed), or the opportunity cost of holding certain tokens. These can affect your overall returns, even if they aren’t listed as explicit fees.
-
-
 
 ## Understanding token rent on Solana
 
@@ -57,19 +57,15 @@ The more data you store, the higher your minimum balance needs to be. For exampl
 
 #### What happens if you can't pay for the rent?
 
-If an account on Solana runs out of lamports and falls below the rent-exempt minimum balance, it is at risk of being removed from the network. This means the account may be deleted by the Solana runtime to free up storage space.&#x20;
+If an account on Solana runs out of lamports and falls below the rent-exempt minimum balance, it is at risk of being removed from the network. This means the account may be deleted by the Solana runtime to free up storage space.
 
 In practical terms, if you don't keep enough lamports in your account to meet the rent-exempt threshold, your account can no longer store data and might become inaccessible or deleted. This mechanism ensures that only accounts actively maintained and funded remain on the blockchain, preventing unused accounts from taking up valuable storage space.
-
-
 
 #### Buying a new token on Solana<br>
 
 * You pay for the token.
 * You also pay a small extra amount of SOL as rent for the new account that holds your token.
 * If you delete the account later, you get the SOL back.
-
-
 
 ### How to Close a Solana Account
 

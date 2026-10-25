@@ -10,7 +10,7 @@ Three or more verified KOLs (curated X/Twitter influencers) buy the same token i
 
 | Setting                       | Default    | Notes                                                                            |
 | ----------------------------- | ---------- | -------------------------------------------------------------------------------- |
-| Chain                         | All chains | Solana, Ethereum, Base                                                           |
+| Chain                         | All chains | Solana, Ethereum, Base, Robinhood, Arc                                           |
 | Min KOLs                      | 3          | Minimum number of unique KOL wallets buying the same token in the window.        |
 | Timeframe                     | 1h         | How long all the KOL buys must happen within. Options: 1m, 5m, 15m, 1h, 6h, 24h. |
 | Min market cap _(optional)_   | 0          | 0 means no floor.                                                                |

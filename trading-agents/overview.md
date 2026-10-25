@@ -1,42 +1,83 @@
+---
+description: Agents that trade for you when the wallets you follow make a move.
+---
+
 # Overview
 
-You've always used Cielo to find and track wallets... but had to go elsewhere to act on them. Not anymore. Agents act on what your tracked wallets do, automatically, so the edge doesn't depend on you being awake.
+You've always used Cielo to find and track wallets, then had to go somewhere else to act on them. Trading agents close that gap. An agent watches the wallets you choose and buys when they buy, with your size, your filters and your exit rules, so the trade happens whether or not you're at the screen.
 
-Cielo acquired OdinBot, the undefeated, fastest copy trading bot with $250M in volume, and built its engine directly into the app. When a wallet you copy buys a token, your agent buys it too, from alert to fill, without you touching anything. On Solana, 70% of copies land in the same slot as the wallet copied. The copy trade lands before the fomo notification does.
+Cielo acquired OdinBot, the copy trading bot with $250M in volume, and built its engine into the app. On Solana, about 70% of copy trades land in the same slot as the wallet being copied.
 
-Everything lives on the [Agents page](https://app.cielo.finance/agents), split into two tabs:
+{% embed url="https://x.com/CieloFinance/status/2080640098308116866" %}
 
-* **Trading agents**: Execute on-chain for you, with your own size, entry, and exit rules. This section covers them.
-* **Research agents**: Watch the chain and alert you when specific patterns fire, like a KOL cluster buy or a fresh wallet accumulating. See Research agents.
+## Signal types
 
-Agents run on Solana, Base, and Robinhood Chain. Each agent is tied to one chain and trades from your Cielo trading wallet on that chain (click **Deposit** in the top right if you haven't funded one yet).
+Every agent runs on one signal, which decides when it buys.
 
-**Signal types**
+| Signal                             | When the agent buys                                                                                                                        |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Wallet Copy**                    | A wallet you copy buys a token. This is copy trading. See [Copy trading](copy-trading.md).                                                 |
+| **Multi-Buy**                      | Several of your tracked wallets buy the same token inside a short window. You're trading on confluence instead of one wallet's conviction. |
+| **Trending Token** _(coming soon)_ | A token climbs the trending rankings.                                                                                                      |
 
-Every trading agent runs on a signal that decides when it buys:
+Whichever signal you pick, most of the same settings apply: token filters, buy size, execution, and exit rules. They're all listed in [Agent settings](agent-settings.md).
 
-* **Wallet Copy**: When a tracked wallet buys a token, your agent buys it too. This is copy trading, the main event: see **Copy trading** for the full walkthrough.
-* **Multi-Buy**: Enters when several tracked wallets buy the same token within a short window. Confluence over conviction in any single wallet.
-* **Trending Token** _(coming soon)_: Enters tokens as they climb the trending rankings across social and volume metrics.
+{% embed url="https://x.com/CieloFinance/status/2095549109994139723" %}
 
-Whatever the signal, the same controls apply: token filters, buy sizing, execution, and exit rules. The full reference is on the **Agent settings** page.
+## Chains
 
-### Track your performance
+Agents run on **Solana, Base, Robinhood and Arc**. Each agent trades on one chain, from one of your [trading wallets](../trading/portfolio.md#wallets) on that chain. Fund the wallet before you turn the agent on, including a little extra for gas: SOL on Solana, ETH on Base and Robinhood, USDC on Arc.
 
-The Agents page doubles as your dashboard for every agent you run.
+## The Agents page
 
-**Summary panel**: Realized and unrealized PnL, win rate, total trades, tokens traded, buys/sells, and median hold time for the timeframe you select (1D, 7D, 30D, or Max). The **Token Profit Distribution** chart buckets every traded token by return, from below -50% to above +500%, so you can see the shape of your results, not just the total.
+Everything lives on the [Agents](https://app.cielo.finance/agents) page, in two tabs: **Trading Agents** and [**Research Agents**](../wallet-tracking/research-agents/). The counter at the top shows how many agents you have against your plan limit.
 
-**Chain filter**: View performance for all chains together or Solana, Base, and Robinhood individually.
+**Summary** shows realized and unrealized PnL, win rate, total trades, tokens traded, buys and sells, median hold time and fees, for the chain and timeframe you pick (**1D**, **7D**, **30D**, **Max**). The **Token Profit Distribution** buckets every token your agents traded by return. Turn off **Include my manual sells** to see your agents' results without the sells you made by hand.
 
-**Agents list**: Each agent shows as Running or Paused. Pause or edit an agent any time; its settings and history are kept.
+Below that, each agent has its own card with its status (**Running** or **Paused**), the wallets it copies, its trading wallet and balance, fees paid and a summary of its buy and exit settings. Drag the cards to reorder them.
 
-**Positions tables**: Three tabs track the actual trades:
+Positions and trades are grouped by agent:
 
-* **Active positions**: What your agents currently hold, with live PnL.
-* **History**: Closed positions.
-* **Trades**: Every individual buy and sell.
+* **Active positions**: what your agents hold now, with live PnL
+* **History**: closed positions
+* **Trades**: every buy and sell, including skipped trades and why they were skipped. Toggle **Hide skipped trades** to clean the list up.
 
-### Fees
+## Pausing an agent
 
-Trading agents charge a 1% fee per executed trade.
+Pausing stops new buys. Exit rules keep running on positions the agent already holds, so stop loss, take profit, trailing stop, time limit and copy sells still fire. To stop the agent selling too, turn off its exits under **Sell** or close the positions yourself.
+
+## Blocklist
+
+The **Blocklist** applies to all your agents at once.
+
+* **Tokens** you block are never bought by any agent. Skipped trades show the reason "blocked token".
+* **Wallets** you block are removed from every agent and you'll get a warning if you try to add them again.
+
+## Agents in the terminal
+
+Open **Agents** from the footer of the trading terminal to trade alongside your agents. You can turn an agent on or off, see every copied buy and sell on the chart and in **Activity**, and sell part of a position yourself. The agent keeps managing the rest by its settings. If you sell the whole position by hand, the agent stops managing it.
+
+{% embed url="https://x.com/CieloFinance/status/2108527912311722448" %}
+
+{% embed url="https://x.com/CieloFinance/status/2110344629098856587" %}
+
+## Agents on mobile
+
+You can create agents, turn them on or off and track their PnL from the Cielo Telegram mini app. See [Telegram trading](../trading/telegram-trading.md#mini-app).
+
+{% embed url="https://x.com/CieloFinance/status/2113324515296264235" %}
+
+## Limits
+
+|                          | Free | Pro | Whale |
+| ------------------------ | ---- | --- | ----- |
+| Trading agents           | 20   | 50  | 200   |
+| Copied wallets per agent | 250  | 750 | 2,000 |
+
+## Fees
+
+Trades placed by agents cost 1%. Priority fees and tips go to the network.
+
+{% hint style="warning" %}
+Copy trading carries real risk. You buy after the wallet you copy, usually at a higher price, and a wallet that did well last month can lose money this month. Start small. The [copy trading guide](../guides/copy-trading/) covers how to size and protect your stack.
+{% endhint %}
