@@ -77,7 +77,3 @@ You can create agents, turn them on or off and track their PnL from the Cielo Te
 ## Fees
 
 Trades placed by agents cost 1%. Priority fees and tips go to the network.
-
-{% hint style="warning" %}
-Copy trading carries real risk. You buy after the wallet you copy, usually at a higher price, and a wallet that did well last month can lose money this month. Start small. The [copy trading guide](../guides/copy-trading/) covers how to size and protect your stack.
-{% endhint %}
