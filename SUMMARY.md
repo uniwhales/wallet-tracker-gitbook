@@ -88,3 +88,29 @@
 * [Understanding Pump.fun](guides/understanding-pump.fun.md)
 * [Avoiding Scam Tokens](guides/avoiding-scam-tokens.md)
 * [Rick Integration](guides/rick-integration.md)
+
+## DEVELOPER API
+
+* [Getting started](developer-api/getting-started.md)
+* [Authentication](developer-api/authentication.md)
+* [Credits and plans](developer-api/credits-and-plans.md)
+* [Errors](developer-api/errors.md)
+* [Fetch the feed](developer-api/fetch-the-feed.md)
+* [Stream over WebSocket](developer-api/stream-over-websocket.md)
+* [Chains](developer-api/chains.md)
+* [Transaction types](developer-api/transaction-types.md)
+
+## API REFERENCE
+
+* ```yaml
+  type: builtin:openapi
+  props:
+    models: true
+    downloadLink: true
+    grouping: by-tag
+  dependencies:
+    spec:
+      ref:
+        kind: openapi
+        spec: cielo-public-api
+  ```
