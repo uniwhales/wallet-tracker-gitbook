@@ -53,6 +53,8 @@ You can also control the Telegram bot by entering the following commands:
 
 <mark style="color:blue;">/add \[wallet] \[label]</mark> - Add a new wallet. You can specify multiple wallets separated by comma (e.g. /add WALLET\_ADDRESS\_1 LABEL\_1, WALLET\_ADDRESS\_2 LABEL\_2)
 
+<mark style="color:blue;">/add @username</mark> - Find and track a fomo or Pump.fun trader by username, then copy trade them. See [Telegram Trading](../trading/telegram-trading.md)
+
 <mark style="color:blue;">/add\_token \[chain\_name] \[token\_address] \[min\_amount\_usd]</mark> - Add a new token
 
 <mark style="color:blue;">/bot\_settings</mark> - Open bot settings

@@ -28,6 +28,17 @@ Paste a token address into the chat. The bot shows the token's name, market cap,
 * Sell 25%, 50%, 100% or a custom amount
 * Place a **limit order** to buy or sell at a target price, with an optional expiry
 
+## Copy trade a fomo or Pump.fun trader
+
+Know a trader from the fomo or Pump.fun app? You can find, track and copy trade them by their username, without hunting for their wallet.
+
+1. Send `/add @username` to your Cielo bot, for example `/add @rasmr`. You can also send `/add` on its own and then type the username.
+2. The bot finds the trader and starts tracking their wallets. A fomo account brings in its Solana and EVM wallets together. If the username exists on both fomo and Pump.fun, pick which one to track, or both.
+3. When the bot asks whether to copy trade them, pick where: Solana, Robinhood, Base or all three.
+4. Set your amount per buy for each chain, your entry (Instant or Buy the dip), stop loss, take profit and whether to copy their sells. Robinhood copies run at ultra-fast speed.
+
+{% embed url="https://x.com/CieloFinance/status/2115129717733155235" %}
+
 ## Positions and PnL
 
 | Command      | What it does                                                                                                                          |

@@ -26,6 +26,8 @@ Check the wallet's **Copy score** on its profile first. It rates from 0 to 100 h
 
 Found someone in the Feed, in Discovery or on the PnL Leaderboard? You're two clicks from copying them.
 
+In Telegram, send `/add @username` to find a fomo or Pump.fun trader by their username, track them and copy trade them in one setup. See [Telegram trading](../trading/telegram-trading.md).
+
 {% embed url="https://x.com/CieloFinance/status/2080640204843434494" %}
 
 ## Create an agent
