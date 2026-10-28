@@ -71,6 +71,20 @@ A high Dump Risk doesn't mean the holders will sell. It tells you how thin the b
 
 Click any wallet in these tables to rename it, track it or open its profile.
 
+### Callouts
+
+Callouts from fomo, Pump.fun and GMGN show up on the chart, each one on the candle where the trader called the token. On fomo these are a trader's thesis, on Pump.fun their callouts.
+
+Hover a caller's avatar to see who they are and where they posted, what they said, the market cap at the call and how far the token has moved since, and whether they still hold it, with their PnL.
+
+Open **Callouts** next to the trades table to see every call on the token in one list. You can follow a caller from there, show only the callers you follow, or block a caller.
+
+### Display options
+
+**Display Options** on the chart controls what's drawn on it. Pick which markers to show (FOMO Thesis, Pump Callouts, GMGN Callouts, KOL, Dev, Snipers, Tracked wallets and more) and turn on lines such as your average buy, agent entries, TP/SL levels and the all-time high.
+
+{% embed url="https://x.com/CieloFinance/status/2115441683861032999" %}
+
 ## Dynamic panels
 
 The footer launcher opens Feed, Trending, Pulse, Tracking, Agents, Positions and PnL as floating panels. Drag them anywhere, snap them side by side, and they stay open as you move between pages. Save a layout as a **Preset** to bring it back in one click.
