@@ -8,6 +8,7 @@ We ship every week. This page collects the bigger releases, with a link to each 
 
 ## October 2026
 
+* **Robinhood Wallet sign-in**: sign in to Cielo with your Robinhood Wallet. [Post](https://x.com/CieloFinance/status/2115836060269699389)
 * **Callouts on the chart**: calls from fomo, Pump.fun and GMGN sit on the candle where they were made. Hover one to see the call, the market cap at the time and whether the caller still holds, or open the Callouts panel to see every call and follow callers. See [Trading overview](trading/overview.md#callouts). [Post](https://x.com/CieloFinance/status/2115441683861032999)
 * **Copy trade fomo and Pump.fun traders by username**: send `/add @username` in the Cielo Telegram bot to find a trader, track their wallets and copy trade them on Solana, Robinhood and Base in one setup. See [Telegram trading](trading/telegram-trading.md). [Post](https://x.com/CieloFinance/status/2115129717733155235)
 * **Week of Oct 20**: new Solana router, copy trading agents in the Telegram mini app, Dump Risk, First Buyers in Top Traders, SOL rent reclaim, Robinhood in the Fear & Greed Index, and EVM copy trading of Pump.fun traders works with Pump's new bridge. [Thread](https://x.com/CieloFinance/status/2113636632406712645)

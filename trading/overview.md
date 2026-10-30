@@ -95,14 +95,6 @@ The **Agents** panel shows your [trading agents](../trading-agents/overview.md) 
 
 {% embed url="https://x.com/CieloFinance/status/2108527912311722448" %}
 
-## Fear & Greed Index
-
-The Onchain Fear & Greed Index is one number from 0 to 100 showing how hot the launch market is right now, based on real swaps. It covers Solana launchpads (Pump.fun, LetsBonk and StonkFun) and Robinhood Chain. You'll find it in the footer of every page. Click it for the full page, with tokens launched, how many ran past $50K, $500K and $1M, and the top runners.
-
-{% embed url="https://x.com/CieloFinance/status/2078042022955360549" %}
-
-{% embed url="https://x.com/CieloFinance/status/2110780122446057857" %}
-
 ## Speed
 
 Solana trades go through Cielo's own router, built to find the fastest path to the best price. It makes Solana copy trades faster too.
@@ -117,3 +109,11 @@ Solana trades go through Cielo's own router, built to find the fastest path to t
 | Trading agent trades                 | 1%   |
 
 Network fees, priority fees and tips go to the network, not to Cielo. Part of the fees from users you refer can come back to you through [Referrals](referrals.md).
+
+## Fear & Greed Index
+
+The Onchain Fear & Greed Index is one number from 0 to 100 showing how hot the launch market is right now, based on real swaps. It covers Solana launchpads (Pump.fun, LetsBonk and StonkFun) and Robinhood Chain. You'll find it in the footer of every page. Click it for the full page, with tokens launched, how many ran past $50K, $500K and $1M, and the top runners.
+
+{% embed url="https://x.com/CieloFinance/status/2078042022955360549" %}
+
+{% embed url="https://x.com/CieloFinance/status/2110780122446057857" %}

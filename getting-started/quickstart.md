@@ -10,7 +10,7 @@ Cielo is packed with powerful features including advanced tools for professional
 
 <figure><img src="https://1250667054-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgZTvWhkjLJ8uCLtiUaPq%2Fuploads%2FY5k6eHs4CddZHlGlHOfk%2FScreenshot%202026-01-13%20at%2016.23.57.png?alt=media&#x26;token=b85b5107-c5b1-4005-9df7-b6649d2d0f7a" alt="" width="375"><figcaption></figcaption></figure>
 
-* Visit the Cielo [web app](https://app.cielo.finance/) and click the **Connect** button in the top right. The above popup will appear and you can connect your web wallet or sign in with Google, X, or Telegram. (Click the Solana tab to select an EVM wallet if you prefer.)
+* Visit the Cielo [web app](https://app.cielo.finance/) and click the **Connect** button in the top right. The above popup will appear and you can connect your web wallet (including Robinhood Wallet) or sign in with Google, X, or Telegram. (Click the Solana tab to select an EVM wallet if you prefer.)
 * If you connected a wallet, click to sign the message that pops up. This is used to verify ownership of the wallet you're connecting with and does _not_ authorize Cielo to access any funds.
 
 With these two steps completed, you're now connected to the Cielo web app and able to start your voyage of onchain discovery, from tracking wallets to trading Solana tokens.
