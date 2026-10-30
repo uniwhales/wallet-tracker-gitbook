@@ -15,5 +15,5 @@
 
 |                | Ethereum | Base | Solana | Arc | Robinhood | HyperEVM | BNB | Other chains |
 | -------------- | :------: | :--: | :----: | :-: | :-------: | :------: | :-: | :----------: |
-| Manual trading |     —    |   ✓  |    ✓   |  ✓  |     ✓     |     —    |  —  |       —      |
+| Manual trading |     ✓    |   ✓  |    ✓   |  ✓  |     ✓     |     —    |  —  |       —      |
 | Trading agents |     —    |   ✓  |    ✓   |  ✓  |     ✓     |     —    |  —  |       —      |

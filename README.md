@@ -15,7 +15,7 @@ Whether you're tracking whales or copying their trades automatically, Cielo make
 **🚀 What Cielo does**
 
 * **Track**: Follow any wallet across 22 chains with real-time alerts in the web app, Telegram, and Discord.
-* **Trade**: Buy and sell on Solana, Base, Robinhood, and Arc with 0.6% fees, directly from the feed, chart, or Telegram.
+* **Trade**: Buy and sell on Solana, Ethereum, Base, Robinhood, and Arc with 0.6% fees, directly from the feed, chart, or Telegram.
 * **Copy trade**: Deploy trading agents that mirror any wallet's trades automatically, with your own size, filters, and exit rules.
 * **Analyze**: Use aggregated data from thousands of tracked wallets to stay ahead of the pack.
 
@@ -52,7 +52,7 @@ Cielo currently supports 22 chains: Solana, Ethereum, Base, Robinhood Chain, Arc
 
 The top menu of the Cielo web app features the following pages:
 
-[**Trending**](https://app.cielo.finance/trending): The default view when you open the web app. Popular tokens on Solana, Base, Robinhood, and Arc ranked by Mindshare, tradeable in one click.
+[**Trending**](https://app.cielo.finance/trending): The default view when you open the web app. Popular tokens on Solana, Ethereum, Base, Robinhood, and Arc ranked by Mindshare, tradeable in one click.
 
 [**Pulse**](https://app.cielo.finance/pulse): Live launchpad dashboard showing new pairs, tokens about to migrate, and migrated tokens.
 
@@ -64,7 +64,7 @@ The top menu of the Cielo web app features the following pages:
 
 [**Discovery**](https://app.cielo.finance/wallet-discovery): Find and follow profitable wallets, filtered by the platform they trade on.
 
-[**Portfolio**](https://app.cielo.finance/portfolio/spot): PnL and positions for your trading wallets across Solana, Base, Robinhood, and Arc.
+[**Portfolio**](https://app.cielo.finance/portfolio/spot): PnL and positions for your trading wallets across Solana, Ethereum, Base, Robinhood, and Arc.
 
 [**Settings**](https://app.cielo.finance/settings): Plans, alert configuration, API keys, and advanced options.
 

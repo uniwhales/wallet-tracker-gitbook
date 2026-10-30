@@ -6,12 +6,12 @@ description: >-
 
 # Telegram trading
 
-The Cielo Telegram bot you get alerts from is also a trading bot. When a tracked wallet buys something, the alert has buy buttons right under it, so you can act from your phone in one tap. Trades run on Solana, Base, Robinhood and Arc, through the same engine and wallets as the web app. A position you open in Telegram shows up in the web terminal and the other way round.
+The Cielo Telegram bot you get alerts from is also a trading bot. When a tracked wallet buys something, the alert has buy buttons right under it, so you can act from your phone in one tap. Trades run on Solana, Ethereum, Base, Robinhood and Arc, through the same engine and wallets as the web app. A position you open in Telegram shows up in the web terminal and the other way round.
 
 ## Get started
 
 1. Activate a bot in **Settings >** [**Alerts**](https://app.cielo.finance/settings/alerts) if you haven't already. See [Telegram bot](../discord-+-telegram-bots/getting-started.md).
-2. Fund your trading wallet: SOL or USDC on Solana, ETH or USDC on Base, ETH or USDG on Robinhood, USDC on Arc. Keep a little SOL or ETH for network fees, even if you trade with USDC or USDG.
+2. Fund your trading wallet: SOL or USDC on Solana, ETH on Ethereum, ETH or USDC on Base, ETH or USDG on Robinhood, USDC on Arc. Keep a little SOL or ETH for network fees, even if you trade with USDC or USDG.
 3. Send `/start` to the bot. The home screen shows your plan, wallet counts and the active trading wallet with its balance.
 
 ## Buy from an alert

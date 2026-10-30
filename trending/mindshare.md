@@ -8,7 +8,7 @@ Mindshare is the metric behind [Trending](./). It measures how much of the buyin
 
 ## How it works
 
-Cielo watches swaps from every wallet its users track, across Solana, Base, Robinhood and Arc. Pick a timeframe from 1 minute up to 24 hours. Rankings reflect relative conviction, not raw token metrics. The number under the % is the number of tracked wallets buying.
+Cielo watches swaps from every wallet its users track, across Solana, Ethereum, Base, Robinhood and Arc. Pick a timeframe from 1 minute up to 24 hours. Rankings reflect relative conviction, not raw token metrics. The number under the % is the number of tracked wallets buying.
 
 Hover the Mindshare % to see where that buying comes from, broken down by trading app (for example Axiom, Fomo, Trojan and Cielo).
 

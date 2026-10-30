@@ -1,12 +1,18 @@
 ---
-description: Buy and sell on Solana, Base, Robinhood and Arc from the Cielo terminal.
+description: >-
+  Buy and sell on Solana, Ethereum, Base, Robinhood and Arc from the Cielo
+  terminal.
 ---
 
 # Overview
 
 You can trade any token you find on Cielo without leaving the app. The wallet data that tells you a token is worth a look sits next to the buy button, so you don't lose the moment copying an address into another bot.
 
-Trading works on **Solana, Base, Robinhood and Arc**, in the web app and in [Telegram](telegram-trading.md). Fund your [trading wallet](portfolio.md#wallets) first by clicking **Deposit** in the top right, and keep a little SOL (Solana) or ETH (Base, Robinhood) for network fees, even if you trade with USDC or USDG.
+Trading works on **Solana, Ethereum, Base, Robinhood and Arc**, in the web app and in [Telegram](telegram-trading.md). Fund your [trading wallet](portfolio.md#wallets) first by clicking **Deposit** in the top right, and keep a little SOL (Solana) or ETH (Ethereum, Base, Robinhood) for network fees, even if you trade with USDC or USDG.
+
+Ethereum has the full terminal with market orders and Advanced Trading Strategy, plus Trending and Telegram trading. Limit and stop orders, Pulse and trading agents aren't on Ethereum yet.
+
+{% embed url="https://x.com/CieloFinance/status/2116157268064681998" %}
 
 ## Where you can buy
 

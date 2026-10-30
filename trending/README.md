@@ -8,7 +8,7 @@ description: The tokens wallets tracked on Cielo are buying right now.
 
 ## Reading the table
 
-Pick a chain at the top (**ALL**, **SOL**, **BASE**, **HOOD** or **ARC**) and a timeframe (**1m**, **5m**, **1h**, **6h** or **24h**). Short timeframes catch quick flips. Longer ones show what's held attention all day.
+Pick a chain at the top (**ALL**, **SOL**, **BASE**, **HOOD**, **ETH** or **ARC**) and a timeframe (**1m**, **5m**, **1h**, **6h** or **24h**). Short timeframes catch quick flips. Longer ones show what's held attention all day.
 
 | Column             | What it shows                                                                                                          |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
