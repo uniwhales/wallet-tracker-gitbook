@@ -6,7 +6,7 @@ description: >-
 
 # Security
 
-Cielo gives you trading wallets inside the app, so the account that controls them needs to be hard to take over. This page explains how sign-in works, what passkeys protect, how your wallet keys are stored, and the habits that keep your funds safe.
+Cielo gives you trading wallets inside the app, so the account that controls them needs to be hard to take over. This page explains how sign-in works, what passkeys and authenticator codes protect, how your wallet keys are stored, and the habits that keep your funds safe.
 
 ## How you sign in
 
@@ -53,6 +53,22 @@ Add more than one, for example one on your laptop and one on your phone. Adding 
 Some password managers list the Cielo passkey as **cielo:** followed by a number rather than your email or handle. It's still your Cielo passkey.
 {% endhint %}
 
+## Authenticator app (2FA)
+
+You can also confirm withdrawals and private key exports with a 6-digit code from Google Authenticator or any app that shows 6-digit codes. One setup covers the web app and the Cielo Telegram bot.
+
+### Set it up in the web app
+
+1. Go to **Settings > Account** and scroll to **Authenticator app**.
+2. Click **Set up**.
+3. Confirm with your passkey, to prove the app is being added by you.
+4. Scan the QR code with your authenticator app, or type the key into it, then enter the 6-digit code it shows.
+5. Click **Turn on**.
+
+### Set it up in Telegram
+
+In the Cielo Telegram bot, open **Settings > Security** and tap **Set up Google Authenticator**. Withdrawals from the bot require it.
+
 ## Sign in on your phone
 
 **Link Mobile Device**, a button in the top bar, signs your phone in to Cielo by QR code, so you don't have to connect a wallet on mobile.
@@ -90,6 +106,7 @@ Check the address character by character, then confirm. If you sign in with a so
 ## Keep your account safe
 
 * Add a passkey, especially if you sign in with a social account.
+* Set up an authenticator app for withdrawals and private key exports.
 * Bookmark [app.cielo.finance](https://app.cielo.finance) and use the bot links on the [Telegram](discord-+-telegram-bots/getting-started.md) page instead of links from DMs.
 * Ignore DMs offering support. The Cielo team will never DM you first, ask for your private key or seed phrase, or ask you to "verify" your wallet on another site.
 * Don't visit links in the names of tokens that show up in your wallet unasked. It's a common phishing trick.
