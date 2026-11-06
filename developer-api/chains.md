@@ -47,3 +47,5 @@ The wallet tracking endpoints (`/api/v1/tracked-wallets`, `/api/v2/tracked-walle
 | MegaETH     | 41 |
 | Tempo       | 42 |
 | Robinhood   | 43 |
+| Arc         | 45 |
+| Elysium     | 46 |

@@ -6,6 +6,10 @@ description: What we've shipped recently, newest first.
 
 We ship every week. This page collects the bigger releases, with a link to each announcement. Follow [@CieloFinance](https://x.com/CieloFinance) or [Cielo Announcements](https://t.me/cieloannouncements) to see them as they land.
 
+## November 2026
+
+* **Elysium**: wallet tracking, PnL, wallet profiles, Trending and trading on Elysium, the HYPE-native chain. Telegram and Discord alerts for Elysium are not on yet.
+
 ## October 2026
 
 * **Ethereum trading**: the full trading terminal, your Cielo tracked wallets on the chart, Advanced TP/SL that activate on your buy, and Telegram trading from the same bot you track with. See [Trading overview](trading/overview.md). [Post](https://x.com/CieloFinance/status/2116157268064681998)
