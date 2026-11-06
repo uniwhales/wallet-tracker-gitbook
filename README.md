@@ -14,7 +14,7 @@ Whether you're tracking whales or copying their trades automatically, Cielo make
 
 **🚀 What Cielo does**
 
-* **Track**: Follow any wallet across 22 chains with real-time alerts in the web app, Telegram, and Discord.
+* **Track**: Follow any wallet across 23 chains with real-time alerts in the web app, Telegram, and Discord.
 * **Trade**: Buy and sell on Solana, Ethereum, Base, Robinhood, and Arc with 0.6% fees, directly from the feed, chart, or Telegram.
 * **Copy trade**: Deploy trading agents that mirror any wallet's trades automatically, with your own size, filters, and exit rules.
 * **Analyze**: Use aggregated data from thousands of tracked wallets to stay ahead of the pack.
@@ -45,7 +45,7 @@ Cielo lets you track up to 300 wallets for free (250 EVM + 50 Solana) and up to 
 The Cielo web app is enhanced by complementary Discord and Telegram bots for receiving real-time alerts and trading on the go.
 
 {% hint style="info" %}
-Cielo currently supports 22 chains: Solana, Ethereum, Base, Robinhood Chain, Arc, BNB Chain, Hyperliquid, HyperEVM, Stable, MegaETH, Tempo, Plasma, Monad, Tron, Linea, Bitcoin, Avalanche, Unichain, Arbitrum, Polygon, PulseChain, and Gnosis. See [Chain Support](chain-support.md) for what works on each chain.
+Cielo currently supports 23 chains: Solana, Ethereum, Base, Robinhood Chain, Arc, BNB Chain, Hyperliquid, HyperEVM, Elysium, Stable, MegaETH, Tempo, Plasma, Monad, Tron, Linea, Bitcoin, Avalanche, Unichain, Arbitrum, Polygon, PulseChain, and Gnosis. See [Chain Support](chain-support.md) for what works on each chain.
 {% endhint %}
 
 ## Navigation
