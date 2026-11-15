@@ -2,7 +2,11 @@
 
 In Wallet Discovery, wallets have been filtered into tags based on trader type e.g. _Gem Finder, New Wallet, Human-Operated_ and are ranked by realized PnL. Note that these are broad categorizations since a wallet will typically fall into multiple categories.
 
-The more successful a wallet's trading activity for the timeframe covered (1, 7, or 30 days), the higher it will rank. Wallet Discovery also reveals when a wallet was last active. Use the right sidebar menu to filter results by wallet type, network, and tags. Click the USD button at the top of the page to toggle between displaying wallet balances in crypto or USD.
+The more successful a wallet's trading activity for the timeframe covered (1, 7, or 30 days), the higher it will rank. Wallet Discovery also reveals when a wallet was last active. Click **All filters** to filter results by wallet type, network, and tags. Click the USD button at the top of the page to toggle between displaying wallet balances in crypto or USD.
+
+The **Recommended** presets at the top apply a filter set pro traders use in one click: **Social wallets**, **Funded wallets**, **Realistic win rate**, **Proven earners**, **Active this week** and **No bots**. Hover a preset to see what it filters and why it works.
+
+{% embed url="https://x.com/CieloFinance/status/2118391124620452224" %}
 
 You can also show only Verified (labeled) wallets, and filter by the trading platform a wallet uses: Fomo, Axiom, Pump.fun, Cielo, GMGN, Padre, Photon, Trojan or Bloom.
 

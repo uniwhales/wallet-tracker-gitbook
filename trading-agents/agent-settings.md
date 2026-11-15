@@ -6,7 +6,7 @@ description: Every trading agent setting and what it does.
 
 This is the full list of trading agent settings, in the order they appear under **Trading settings**. You can change any of them after the agent is created, and many can also be changed for a single copied wallet.
 
-Settings marked _Solana_ or _EVM_ only exist on that type of agent. EVM covers Base, Robinhood and Arc.
+Settings marked _Solana_ or _EVM_ only exist on that type of agent. EVM covers Base, Robinhood, Elysium and Arc.
 
 ## Token filters
 

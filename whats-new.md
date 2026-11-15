@@ -8,7 +8,15 @@ We ship every week. This page collects the bigger releases, with a link to each 
 
 ## November 2026
 
-* **Elysium**: wallet tracking, PnL, wallet profiles, Trending and trading on Elysium, the HYPE-native chain. Telegram and Discord alerts for Elysium are not on yet.
+* **Related Wallets counterparty table**: see what each counterparty sent and received, tx counts and net flow, then click through to every transfer between two wallets. Whale only. See [Wallet Profiles](wallet-tracking/my-wallets/wallet-profiles.md). [Post](https://x.com/CieloFinance/status/2120563980955439546)
+* **Snipe token launches**: copy a dev wallet with a Solana trading agent and turn on Snipe token launches to buy their next launch straight away, on any launchpad. See [Agent settings](trading-agents/agent-settings.md#buy). [Post](https://x.com/CieloFinance/status/2120608350010495231)
+* **Trading rewards**: trade $20K in 30 days for 1 month of Pro, or $60K for 1 month of Whale. Web, Telegram and agent trades all count. See [Subscribe](wallet-tracking/subscribe.md). [Post](https://x.com/CieloFinance/status/2120209159828205749)
+* **Bridge into Elysium** from any of your Cielo balances with **Exchange**. [Post](https://x.com/CieloFinance/status/2119840294308819424)
+* **Elysium trading**: copy trading agents, the trading terminal, Trending, Pulse, wallet tracking, alerts and PnL pages on Elysium, the HYPE-native chain. See [Chain Support](chain-support.md). [Post](https://x.com/CieloFinance/status/2119809918941175862)
+* **Related Wallets Visualizer** for Whale: map how wallets connect and spot snipers, side wallets and high-volume traders. [Post](https://x.com/CieloFinance/status/2119090307883012556)
+* **Buyers Before You**: after you buy a token, see the wallets that bought before you in Top Traders. See [Trading overview](trading/overview.md#tables-under-the-chart). [Post](https://x.com/CieloFinance/status/2118758103021756584)
+* **Recommended presets in Wallet Discovery**: No bots, Realistic win rate, Proven earners, Active this week and Funded wallets in one click. See [Wallet Discovery](wallet-tracking/discovery/wallet-discovery.md). [Post](https://x.com/CieloFinance/status/2118391124620452224)
+* **Wallet profile previews**: hover any trader under the chart to see their trades on that token, or click for their full PnL, win rate and every trade without leaving the page. [Post](https://x.com/CieloFinance/status/2117262199819210762)
 
 ## October 2026
 

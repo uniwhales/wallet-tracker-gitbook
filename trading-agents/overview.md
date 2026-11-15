@@ -24,9 +24,13 @@ Whichever signal you pick, most of the same settings apply: token filters, buy s
 
 {% embed url="https://x.com/CieloFinance/status/2095549109994139723" %}
 
+On Solana, a Wallet Copy agent can also snipe launches: copy a dev wallet and turn on **Snipe token launches**, and the agent buys the token as soon as that wallet launches it, on any launchpad.
+
+{% embed url="https://x.com/CieloFinance/status/2120608350010495231" %}
+
 ## Chains
 
-Agents run on **Solana, Base, Robinhood and Arc**. Each agent trades on one chain, from one of your [trading wallets](../trading/portfolio.md#wallets) on that chain. Fund the wallet before you turn the agent on, including a little extra for gas: SOL on Solana, ETH on Base and Robinhood, USDC on Arc.
+Agents run on **Solana, Base, Robinhood, Elysium and Arc**. Each agent trades on one chain, from one of your [trading wallets](../trading/portfolio.md#wallets) on that chain. Fund the wallet before you turn the agent on, including a little extra for gas: SOL on Solana, ETH on Base and Robinhood, HYPE on Elysium, USDC on Arc.
 
 ## The Agents page
 

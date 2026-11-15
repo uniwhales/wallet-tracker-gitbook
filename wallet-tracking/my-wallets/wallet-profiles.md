@@ -27,7 +27,9 @@ In the wallet header, the wallet profile displays the following tabs:
 * **Portfolio:** Shows current tokens held by this wallet and aggregate balance.
 * **Stats**: Available to Pro + Whale users. Provides a detailed breakdown of trading activity and behavior for this wallet.
 * **Hyperliquid**: This tab is displayed for EVM wallets and is available to Pro + Whale users. Displays Hyperliquid activity including PnL and current positions.
-* **Related Wallets**: Shows wallets that have most frequently interacted with this user. These wallets may be controlled by the same user or they may be exchange addresses.
+* **Related Wallets**: Shows wallets that have most frequently interacted with this user. These wallets may be controlled by the same user or they may be exchange addresses. Whale users can switch between a **Table** of counterparties (net flow, received, sent, volume, balance and tokens) and a **Map** that shows how the wallets connect, for 1d, 7d, 30d or All. Click a counterparty to see every transfer between the two wallets, or **All Transfers** to see everything the wallet moved.
+
+{% embed url="https://x.com/CieloFinance/status/2120563980955439546" %}
 
 ### Tags
 

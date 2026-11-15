@@ -8,13 +8,13 @@ description: The tokens wallets tracked on Cielo are buying right now.
 
 ## Reading the table
 
-Pick a chain at the top (**ALL**, **SOL**, **BASE**, **HOOD**, **ETH** or **ARC**) and a timeframe (**1m**, **5m**, **1h**, **6h** or **24h**). Short timeframes catch quick flips. Longer ones show what's held attention all day.
+Pick a chain at the top (**ALL**, **SOL**, **HOOD**, **ELY**, **BASE**, **ETH** or **ARC**) and a timeframe (**1m**, **5m**, **1h**, **6h** or **24h**). Short timeframes catch quick flips. Longer ones show what's held attention all day.
 
 | Column             | What it shows                                                                                                          |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | **Token / Age**    | Ticker, name and how long ago the token launched.                                                                      |
 | **Mindshare %**    | How strongly wallets tracked on Cielo are buying the token, plus the number of wallets. See [Mindshare](mindshare.md). |
-| **Market Cap**     | Current market cap.                                                                                                    |
+| **Market Cap**     | Current market cap, based on circulating supply when it's available.                                                   |
 | **Price Change %** | Price change over the timeframe.                                                                                       |
 | **Holders**        | Number of holders.                                                                                                     |
 | **Liquidity**      | Liquidity in the main pool.                                                                                            |

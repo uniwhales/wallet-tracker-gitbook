@@ -1,14 +1,14 @@
 ---
 description: >-
-  New tokens from supported launchpads on Solana, Base, Robinhood and Arc, from
-  launch to migration.
+  New tokens from supported launchpads on Solana, Base, Robinhood, Elysium and
+  Arc, from launch to migration.
 ---
 
 # Pulse
 
 [Pulse](https://app.cielo.finance/pulse) streams new tokens the moment they launch on a launchpad and follows them until they migrate to a full DEX pool. Use it when you want to be early: you see a token minutes after it exists, with the holder and dev data you need to decide whether it's worth a buy.
 
-Pulse covers Solana, Base, Robinhood and Arc. Pick **ALL** at the top of the page or narrow it to one chain with **SOL**, **BASE**, **HOOD** or **ARC**.
+Pulse covers Solana, Base, Robinhood, Elysium and Arc. Pick **ALL** at the top of the page or narrow it to one chain with **SOL**, **HOOD**, **ELY**, **BASE** or **ARC**.
 
 ## The three columns
 
@@ -40,7 +40,7 @@ Filters apply to every chain at once, so a minimum of 2 means 2 SOL on Solana an
 
 ## Quick buy
 
-The amount on each card (for example **⚡ 0.05 SOL**) is a one-click buy. Set the amount and the currency at the top of each column. On Robinhood you can quick buy with ETH or USDG, on Arc with USDC.
+The amount on each card (for example **⚡ 0.05 SOL**) is a one-click buy. Set the amount and the currency at the top of each column. On Robinhood you can quick buy with ETH or USDG, on Elysium with HYPE, on Arc with USDC.
 
 Click anywhere else on the card to open the token in the trading terminal, where you get the full chart, the [token checklist](overview.md#token-checklist) and limit orders.
 

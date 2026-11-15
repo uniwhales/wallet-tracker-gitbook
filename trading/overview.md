@@ -1,18 +1,22 @@
 ---
 description: >-
-  Buy and sell on Solana, Ethereum, Base, Robinhood and Arc from the Cielo
-  terminal.
+  Buy and sell on Solana, Ethereum, Base, Robinhood, Elysium and Arc from the
+  Cielo terminal.
 ---
 
 # Overview
 
 You can trade any token you find on Cielo without leaving the app. The wallet data that tells you a token is worth a look sits next to the buy button, so you don't lose the moment copying an address into another bot.
 
-Trading works on **Solana, Ethereum, Base, Robinhood and Arc**, in the web app and in [Telegram](telegram-trading.md). Fund your [trading wallet](portfolio.md#wallets) first by clicking **Deposit** in the top right, and keep a little SOL (Solana) or ETH (Ethereum, Base, Robinhood) for network fees, even if you trade with USDC or USDG.
+Trading works on **Solana, Ethereum, Base, Robinhood, Elysium and Arc**, in the web app and in [Telegram](telegram-trading.md). Fund your [trading wallet](portfolio.md#wallets) first by clicking **Deposit** in the top right, and keep a little SOL (Solana), ETH (Ethereum, Base, Robinhood) or HYPE (Elysium) for network fees, even if you trade with USDC or USDG. To move funds between chains or tokens, click your balance in the top right and choose **Exchange**.
 
 Ethereum has the full terminal with market orders and Advanced Trading Strategy, plus Trending and Telegram trading. Limit and stop orders, Pulse and trading agents aren't on Ethereum yet.
 
 {% embed url="https://x.com/CieloFinance/status/2116157268064681998" %}
+
+Elysium has the trading terminal, Trending, Pulse and copy trading agents. Trade with HYPE or USDC.
+
+{% embed url="https://x.com/CieloFinance/status/2119809918941175862" %}
 
 ## Where you can buy
 
@@ -62,20 +66,26 @@ Under the order panel, the token checklist gives you a quick risk read before yo
 
 A high Dump Risk doesn't mean the holders will sell. It tells you how thin the book is under them if they do.
 
+Market cap uses the token's circulating supply when it's available, instead of its total supply.
+
 {% embed url="https://x.com/CieloFinance/status/2112975000240042251" %}
 
 ### Tables under the chart
 
-| Tab                         | What's in it                                                                                                                                                       |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Trades**                  | Every trade on the token. Filter to **My Trades**, **KOL**, **Tracked**, **Renames**, **Dev**, **Whale**, **Fresh** or **Snipers**.                                |
-| **Orders**                  | Your open limit and stop orders.                                                                                                                                   |
-| **Positions** / **History** | Your open and closed positions on this token.                                                                                                                      |
-| **Holders**                 | Top holders, with your [renames](../wallet-tracking/my-wallets/renames.md) shown in place of addresses.                                                            |
-| **Top Traders**             | The most profitable wallets on this token. Sort by PnL, ROI, volume and more. Once you've bought the token, turn on **First Buyers** to see who got in before you. |
-| **Dev Tokens**              | Other tokens launched by the same deployer.                                                                                                                        |
+| Tab                         | What's in it                                                                                                                                                                                                                                                                            |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Trades**                  | Every trade on the token. Filter to **My Trades**, **KOL**, **Tracked**, **Renames**, **Dev**, **Whale**, **Fresh** or **Snipers**. **KOL** only counts verified wallets. Round-trip swaps, where a wallet buys and sells the token in one transaction, show on the chart but not here. |
+| **Orders**                  | Your open limit and stop orders.                                                                                                                                                                                                                                                        |
+| **Positions** / **History** | Your open and closed positions on this token.                                                                                                                                                                                                                                           |
+| **Holders**                 | Top holders, with your [renames](../wallet-tracking/my-wallets/renames.md) shown in place of addresses.                                                                                                                                                                                 |
+| **Top Traders**             | The most profitable wallets on this token. Sort by PnL, ROI, volume and more. Once you've bought the token, click **Buyers Before You** to see the wallets that got in before you, and whether they still hold.                                                                         |
+| **Dev Tokens**              | Other tokens launched by the same deployer.                                                                                                                                                                                                                                             |
 
-Click any wallet in these tables to rename it, track it or open its profile.
+Click any wallet in these tables to rename it, track it or open its profile. Hover a trader in **Holders** or **Top Traders** to see their trades on that token, or click to open their full PnL, win rate and every trade without leaving the page.
+
+{% embed url="https://x.com/CieloFinance/status/2117262199819210762" %}
+
+{% embed url="https://x.com/CieloFinance/status/2118758103021756584" %}
 
 ### Callouts
 
@@ -87,7 +97,7 @@ Open **Callouts** next to the trades table to see every call on the token in one
 
 ### Display options
 
-**Display Options** on the chart controls what's drawn on it. Pick which markers to show (FOMO Thesis, Pump Callouts, GMGN Callouts, KOL, Dev, Snipers, Tracked wallets and more) and turn on lines such as your average buy, agent entries, TP/SL levels and the all-time high.
+**Display Options** on the chart controls what's drawn on it. Pick which markers to show (FOMO Thesis, Pump Callouts, GMGN Callouts, KOL, Dev, Snipers, Tracked wallets and more) and turn on lines such as your average buy, agent entries, TP/SL levels and the all-time high. KOL markers only show verified wallets.
 
 {% embed url="https://x.com/CieloFinance/status/2115441683861032999" %}
 
