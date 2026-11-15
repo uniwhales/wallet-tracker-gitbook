@@ -41,7 +41,7 @@ Free plans allow 20 trading agents, Pro 50 and Whale 200. Each agent can copy up
 
 <summary>Which chains support trading agents?</summary>
 
-Trading agents run on Solana, Base, Robinhood chain and Arc. Each agent trades on one chain, which you choose when you create it. BSC and Ethereum mainnet aren't supported.
+Trading agents run on Solana, Base, Robinhood chain, Elysium and Arc. Each agent trades on one chain, which you choose when you create it. BSC and Ethereum mainnet aren't supported.
 
 </details>
 
@@ -51,7 +51,7 @@ Trading agents run on Solana, Base, Robinhood chain and Arc. Each agent trades o
 
 <summary>How do I fund an agent?</summary>
 
-Your agent spends from the Cielo trading wallet selected in its settings, on the agent's chain. That wallet needs the token you buy with plus the chain's gas token: SOL on Solana, ETH on Base and Robinhood, even if you buy with USDC or USDG. Arc agents trade with USDC. Click Deposit (top right) to fund it, and keep a buffer so several buys at once don't drain it. On Solana, keep extra SOL for fees and token account rent. On Robinhood, gas can spike to about $0.35 per transaction.
+Your agent spends from the Cielo trading wallet selected in its settings, on the agent's chain. That wallet needs the token you buy with plus the chain's gas token: SOL on Solana, ETH on Base and Robinhood, HYPE on Elysium, even if you buy with USDC or USDG. Arc agents trade with USDC. Click Deposit (top right) to fund it, and keep a buffer so several buys at once don't drain it. On Solana, keep extra SOL for fees and token account rent. On Robinhood, gas can spike to about $0.35 per transaction.
 
 </details>
 
@@ -65,7 +65,7 @@ An EVM agent switches off when its trading wallet can't pay gas, because every s
 2. Deposit what's missing, then switch the agent back on.
 3. If you use Scaling buys, make sure your balance covers the maximum buy size, or lower the max.
 
-_Applies to: Base, Robinhood and Arc_
+_Applies to: Base, Robinhood, Elysium and Arc_
 
 </details>
 
@@ -259,7 +259,7 @@ _Applies to: Solana_
 
 <summary>Why didn't my Multi-Buy agent trigger?</summary>
 
-Multi-Buy only counts buys above its min USD per time frame (for example $1k), so several small buys may not trigger it. Also check the number of wallets and the time window, that the agent is on Solana, Base, Robinhood or Arc, and that the wallets are tracked or in a list you follow. Skipped trades are logged for Multi-Buy agents too, with the reason.
+Multi-Buy only counts buys above its min USD per time frame (for example $1k), so several small buys may not trigger it. Also check the number of wallets and the time window, that the agent is on Solana, Base, Robinhood, Elysium or Arc, and that the wallets are tracked or in a list you follow. Skipped trades are logged for Multi-Buy agents too, with the reason.
 
 </details>
 
