@@ -227,7 +227,7 @@ _Applies to: Solana_
 
 Buy the dip waits for price to fall a set % below the copied wallet's entry price, not from the peak or your own entry. If price never drops into range, nothing is bought. If the copied wallet fully sells first, the order is cancelled, but a partial sell leaves it active. The market cap filter is checked at your dip buy, so lower your min market cap by your dip %. To enter right away, switch Entry to Instant. Queued dip buys show in the agent, where you can **Skip**, **Buy now** or **Cancel** the rest.
 
-_Applies to: Solana, Base and Robinhood_
+_Applies to: Solana, Base, Robinhood, Elysium and Arc_
 
 </details>
 
@@ -335,7 +335,7 @@ Your agent exits when the wallet you copied sells, on top of any stop loss, take
 2. Open Trading settings and scroll to Sell.
 3. Turn on Sell when copied wallet sells, pick a mode such as Proportionally, and save.
 
-_Applies to: Solana, Base and Robinhood_
+_Applies to: Solana, Base, Robinhood, Elysium and Arc_
 
 </details>
 
@@ -486,7 +486,7 @@ Time Limit sells your position a set time after the buy, whatever the price. You
 
 <summary>Why did one wallet's sell close a position another wallet opened?</summary>
 
-Within one agent there's one position per token per trading wallet, not one per copied wallet. If wallets A, B and C all buy the same token, a sell by any of them can reduce the shared position. Turn on Cross-copied-wallet trade prevention (Solana, Base and Robinhood) so only the wallet that opened your position can trade it. For fully independent strategies, use separate agents with separate trading wallets.
+Within one agent there's one position per token per trading wallet, not one per copied wallet. If wallets A, B and C all buy the same token, a sell by any of them can reduce the shared position. Turn on Cross-copied-wallet trade prevention (Solana, Base, Robinhood, Elysium and Arc) so only the wallet that opened your position can trade it. For fully independent strategies, use separate agents with separate trading wallets.
 
 </details>
 

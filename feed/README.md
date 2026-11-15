@@ -1,6 +1,6 @@
 # Feed
 
-Your Cielo feed is available in two display modes, selectable at the top of the Feed page: Classic or Lite. **Classic** is the original layout, in which all transactions are shown chronologically by wallets you're tracking. [**Lite**](https://app.cielo.finance/lite) is a condensed feed that focuses on token swaps only. It incorporates a Filters menu in the right sidebar where you can configure results based on Network, Swap Size (USD), Token, or List.
+Your Cielo feed is available in two display modes, selectable at the top of the Feed page: Classic or Lite. **Classic** is the original layout, in which all transactions are shown chronologically by wallets you're tracking. [**Lite**](https://app.cielo.finance/lite) is a condensed feed that focuses on token swaps only. Filters sit in the bar at the top of the Feed, where you can configure results based on Network, Swap Size (USD), Token, or List. Click **All filters** for the full set.
 
 Your feed displays recent transactions (tx) from wallets you’re following. Each row represents an onchain tx and is enhanced with labeling and links to aid your understanding.
 

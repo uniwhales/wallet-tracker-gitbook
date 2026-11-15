@@ -31,7 +31,7 @@ If you're not looking to start trading at this time, and would rather use Cielo 
 6. Then in **Tracking** tick the box to the left of the wallets you wish to set alerts for or click **Select All**.
 7. Next, click **Alert Settings** (bottom of page) or click the edit icon to the right of the wallet label.
 8. Finally pick the transaction types, USD value, and networks you wish to receive Telegram/Discord alerts for.
-9. View recent transactions made by wallets you’re following in [**Feed**](https://app.cielo.finance/feed). Use the options in the right sidebar to filter results.
+9. View recent transactions made by wallets you’re following in [**Feed**](https://app.cielo.finance/feed). Use the filters at the top of the page to filter results.
 10. Unlock additional features including the ability to track more wallets in **Settings >** [**Plans**](https://app.cielo.finance/settings/plans).
 
 There's a lot more to Cielo, including an array of advanced trading and tracking features, but in this Quick Start Guide we've covered the basics. Read on to learn more about how Cielo works, starting with **Trending** – your gateway to Solana token discovery.
