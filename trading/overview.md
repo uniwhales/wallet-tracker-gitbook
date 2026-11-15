@@ -14,7 +14,7 @@ Ethereum has the full terminal with market orders and Advanced Trading Strategy,
 
 {% embed url="https://x.com/CieloFinance/status/2116157268064681998" %}
 
-Elysium has the trading terminal, Trending, Pulse and copy trading agents. Trade with HYPE or USDC.
+Elysium has the trading terminal, Trending, Pulse, Telegram trading and copy trading agents. Trade with HYPE or USDC.
 
 {% embed url="https://x.com/CieloFinance/status/2119809918941175862" %}
 
