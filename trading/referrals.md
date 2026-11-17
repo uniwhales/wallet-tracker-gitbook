@@ -16,6 +16,7 @@ You can also add your code to any profile or token link, so people land on the p
 
 * `app.cielo.finance/profile/YOURCODE_<wallet address>`
 * `app.cielo.finance/trading/solana/YOURCODE_<token address>`
+* `t.me/EVMTrackerBot?start=token_<token address>_YOURCODE` opens the token in the Cielo Telegram bot, ready to buy. Buys made through it count under your code. It works well as a URL button under signals in Telegram groups and channels.
 
 {% hint style="info" %}
 If you add a Cielo bot to a Telegram group or public channel, the buy buttons in its alerts carry your referral code. Anyone who signs up by tapping them becomes your referral.
