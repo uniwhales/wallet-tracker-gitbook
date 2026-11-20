@@ -8,6 +8,8 @@ We ship every week. This page collects the bigger releases, with a link to each 
 
 ## November 2026
 
+* **TWAPs**: split a large buy or sell into smaller trades over time, with randomized timing and size, to cut price impact and slippage. See [Trading overview](trading/overview.md#twap). [Post](https://x.com/CieloFinance/status/2123059650283090401)
+* **AI Copilot (beta)**: ask about any token, wallet or your own trading, and get answers from Cielo's data. See [AI Copilot](trading/ai-copilot.md). [Post](https://x.com/CieloFinance/status/2122735756489679280)
 * **Related Wallets counterparty table**: see what each counterparty sent and received, tx counts and net flow, then click through to every transfer between two wallets. Whale only. See [Wallet Profiles](wallet-tracking/my-wallets/wallet-profiles.md). [Post](https://x.com/CieloFinance/status/2120563980955439546)
 * **Snipe token launches**: copy a dev wallet with a Solana trading agent and turn on Snipe token launches to buy their next launch straight away, on any launchpad. See [Agent settings](trading-agents/agent-settings.md#buy). [Post](https://x.com/CieloFinance/status/2120608350010495231)
 * **Trading rewards**: trade $20K in 30 days for 1 month of Pro, or $60K for 1 month of Whale. Web, Telegram and agent trades all count. See [Subscribe](wallet-tracking/subscribe.md). [Post](https://x.com/CieloFinance/status/2120209159828205749)

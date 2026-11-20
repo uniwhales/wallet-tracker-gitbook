@@ -17,6 +17,7 @@
 ## Trading
 
 * [Overview](trading/overview.md)
+* [AI Copilot](trading/ai-copilot.md)
 * [Telegram trading](trading/telegram-trading.md)
 * [Pulse](trading/pulse.md)
 * [Trending](trending/README.md)

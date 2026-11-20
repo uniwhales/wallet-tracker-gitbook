@@ -41,12 +41,27 @@ Switch between **Buy** and **Sell**, then pick an order type:
 | **Market** | Fills now at the best available price.                                                                                                                                                     |
 | **Limit**  | Fills when the price (or market cap) reaches your target. Use it to buy a dip or sell into strength without watching the chart. You can set an expiry so an unfilled order cancels itself. |
 | **Stop**   | Sells when the price falls to your level, to cap a loss.                                                                                                                                   |
+| **TWAP**   | Splits a large buy or sell into smaller trades spread over time, to cut price impact and slippage. See [TWAP](overview.md#twap) below.                                                     |
 
 **P1**, **P2** and **P3** are your execution presets. Each one stores slippage, priority fee and MEV protection, so you can keep a fast preset for launches and a cheaper one for everything else.
 
 **Advanced Trading Strategy** attaches take profit and stop loss levels to a buy before you place it. Add several levels, each with its own sell %. When the buy fills, the exit plan is live straight away.
 
 {% embed url="https://x.com/CieloFinance/status/2094434783426118055" %}
+
+### TWAP
+
+A TWAP (time-weighted average price) order breaks one big trade into many small ones, so you move the price less and your order is harder to spot onchain. Pick **TWAP** next to Market and Limit, then set:
+
+* **Total to spend** (or to sell), and the currency you pay with
+* **Duration** in days, hours and minutes
+* **Number of buys** (or sells)
+
+Under **Order settings** you can add **Time randomization** and **Size randomization** (None, Low, Medium or High) so the trades don't land at an even rhythm or size, choose a **Start time** (Now or Custom) and set **Max slippage** (20% by default). Before you confirm, the panel shows the estimated start and end, the interval between trades, the average trade size and the estimated output.
+
+Track a running TWAP in the **Orders** tab under the chart.
+
+{% embed url="https://x.com/CieloFinance/status/2123059650283090401" %}
 
 ### Token checklist
 
@@ -75,7 +90,7 @@ Market cap uses the token's circulating supply when it's available, instead of i
 | Tab                         | What's in it                                                                                                                                                                                                                                                                            |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Trades**                  | Every trade on the token. Filter to **My Trades**, **KOL**, **Tracked**, **Renames**, **Dev**, **Whale**, **Fresh** or **Snipers**. **KOL** only counts verified wallets. Round-trip swaps, where a wallet buys and sells the token in one transaction, show on the chart but not here. |
-| **Orders**                  | Your open limit and stop orders.                                                                                                                                                                                                                                                        |
+| **Orders**                  | Your open limit, stop and TWAP orders.                                                                                                                                                                                                                                                  |
 | **Positions** / **History** | Your open and closed positions on this token.                                                                                                                                                                                                                                           |
 | **Holders**                 | Top holders, with your [renames](../wallet-tracking/my-wallets/renames.md) shown in place of addresses.                                                                                                                                                                                 |
 | **Top Traders**             | The most profitable wallets on this token. Sort by PnL, ROI, volume and more. Once you've bought the token, click **Buyers Before You** to see the wallets that got in before you, and whether they still hold.                                                                         |
@@ -103,7 +118,7 @@ Open **Callouts** next to the trades table to see every call on the token in one
 
 ## Dynamic panels
 
-The footer launcher opens Feed, Trending, Pulse, Tracking, Agents, Positions and PnL as floating panels. Drag them anywhere, snap them side by side, and they stay open as you move between pages. Save a layout as a **Preset** to bring it back in one click.
+The footer launcher opens AI Copilot, Feed, Trending, Pulse, Tracking, Agents, Positions and PnL as floating panels. Drag them anywhere, snap them side by side, and they stay open as you move between pages. Save a layout as a **Preset** to bring it back in one click. See [AI Copilot](ai-copilot.md) for what you can ask it.
 
 {% embed url="https://x.com/CieloFinance/status/2088314036458787147" %}
 

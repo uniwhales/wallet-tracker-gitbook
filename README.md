@@ -22,6 +22,7 @@ Whether you're tracking whales or copying their trades automatically, Cielo make
 **🛠 Key features**
 
 * **Copy trading** 🤖: Attach a trading agent to any wallet and mirror its buys automatically, with your own size, filters, and exit rules. On Solana, 70% of copies land in the same slot as the wallet being copied.
+* **AI Copilot** ✨: Ask about any token, wallet or your own trading, and get answers from Cielo's data. See [AI Copilot](trading/ai-copilot.md).
 * **Mindshare** 🧠: A proprietary metric showing how many wallets tracked by Cielo users are buying a token. Volume can be faked. Mindshare can't.
 * **Feed**: A real-time stream of the latest transactions made by wallets you're following. Filter by transaction value, network, market cap + much more.
 * **Pulse**: A live launchpad dashboard streaming every new token from launch to migration, with quick buy built in.
@@ -68,7 +69,7 @@ The top menu of the Cielo web app features the following pages:
 
 [**Settings**](https://app.cielo.finance/settings): Plans, alert configuration, API keys, and advanced options.
 
-At the bottom of every page you'll also find the dynamic panel launcher, live SOL and ETH prices, and the [Onchain Fear & Greed index](https://app.cielo.finance/fear-and-greed).
+At the bottom of every page you'll also find the dynamic panel launcher (including AI Copilot), live SOL and ETH prices, and the [Onchain Fear & Greed index](https://app.cielo.finance/fear-and-greed).
 
 If you need further help, the [Cielo Community](https://t.me/cielocommunity) Telegram channel is where you can troubleshoot, expand your knowledge, and submit feature requests.
 
